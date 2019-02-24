@@ -2,6 +2,7 @@
 title: Ubicación
 layout: page
 permalink: posgrado/ubicacion
+pleca: /assets/plecas/p11.jpg
 ---
 
 ## Horario de atención
