@@ -9,6 +9,6 @@ categories: calendario
 
  - Validación de inscripciones y reinscripciones en la oficina de Posgrado correspondiente (Ciudad de México o Morelia).
 
- - Registro de actividades académicas complementarias para alumnos de Doctorado en la oficina de Posgrado correspondiente. Mayor información acerca de las [actividades complementarias](/doctorado/actividades).
+ - Registro de [actividades académicas complementarias para alumnos de **Doctorado**](/doctorado/actividades) en la oficina de Posgrado correspondiente.
  
- - Alumnos de Maestría que se reinscriben al segundo semestre: recoger en la oficina de Posgrado correspondiente el acta del tutoral 0.
+ - Alumnos de **Maestría** que se reinscriben al segundo semestre: recoger en la oficina de Posgrado correspondiente el acta del tutoral 0.
