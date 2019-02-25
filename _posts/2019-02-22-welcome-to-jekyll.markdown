@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Atención a actividades del posgrado, febrero del 23 al 25"
+title:  "Atención alumnos: actividades del posgrado durante febrero 23 al 25"
 date:   2019-02-24 17:19:08 -0600
 categories: calendario
 ---
