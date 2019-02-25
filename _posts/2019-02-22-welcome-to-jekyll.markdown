@@ -1,25 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-02-22 17:19:08 -0600
-categories: jekyll update
+title:  "Atención a actividades del posgrado, febrero del 23 al 25"
+date:   2019-02-24 17:19:08 -0600
+categories: calendario
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# 23, 24 y 25
 
-Jekyll also offers powerful support for code snippets:
+ - Validación de inscripciones y reinscripciones en la oficina de Posgrado correspondiente (Ciudad de México o Morelia).
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+ - Registro de actividades académicas complementarias para alumnos de Doctorado en la oficina de Posgrado correspondiente. Mayor información acerca de las [actividades complementarias](/doctorado/actividades).
+ 
+ - Alumnos de Maestría que se reinscriben al segundo semestre: recoger en la oficina de Posgrado correspondiente el acta del tutoral 0.
