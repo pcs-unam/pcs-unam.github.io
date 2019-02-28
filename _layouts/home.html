@@ -21,9 +21,17 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
+	
+	{% if post.preview %}
+	<a href="{{ post.url | relative_url }}">
+	  <img src="{{ post.preview }}" width="33%"/>
+	</a>
+	{% endif %}
+	
+        {% if site.show_excerpts %}
           {{ post.excerpt }}
-        {%- endif -%}
+        {% endif %}
+	
       </li>
       {%- endfor -%}
     </ul>
