@@ -16,6 +16,8 @@ menu: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEQ6jIR4zGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+## Proyecto de Creación del Programa de Posgrado en Ciencias de la Sostenibilidad
+
 Desde la Conferencia de las Naciones Unidas sobre Medio Ambiente y el
 Desarrollo (también conocida como la Cumbre de la Tierra) realizada en
 1992 en Río de Janeiro, la educación se identificó como una de las
@@ -52,15 +54,13 @@ propuesta que aquí se presenta, con el propósito de contribuir a la
 creación de las nuevas perspectivas académicas y científicas que
 requiere el país.
 
-Leer el resto del [Proyecto de Creación del Programa de Posgrado en
-Ciencias de la Sostenibilidad](/assets/docs/antecedentes.pdf).
+Leer el resto del [documento](/assets/docs/antecedentes.pdf).
 
 
 
 
 ## Normas Generales del Posgrado UNAM
 
- - Lineamientos Generales
- - Reglamento RGEP
- - Plan de Desarrollo
- 
+ - [Lineamientos Generales](/assets/docs/lineamientos-generales.pdf)
+ - [Reglamento RGEP](/assets/docs/reglamento-rgep.pdf)
+ - [Plan de Desarrollo](/assets/docs/pdi-2015-2019.pdf)
