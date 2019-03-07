@@ -5,6 +5,10 @@ permalink: posgrado/calendario
 pleca: /assets/plecas/p15.jpg
 ---
 
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=iecologia.unam.mx_j276g9rk8s1dp41gjckrpta0qc%40group.calendar.google.com&amp;color=%23691426&amp;ctz=America%2FMexico_City" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 # Actividades Escolares semestre 2019-2
 
 
