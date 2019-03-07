@@ -32,7 +32,7 @@ Biól. Carolina Contreras González
 carolinacg@posgrado.unam.mx
 
 
-# Asistente de procesos
+# Apoyo administrativo
 
 Angélica Rodríguez Chávez
 
