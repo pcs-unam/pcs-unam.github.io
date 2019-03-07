@@ -1,5 +1,5 @@
 ---
-title: Acerca del posgrado
+title: Acerca del Posgrado
 layout: page
 permalink: /posgrado/
 pleca: /assets/plecas/p00.jpg
