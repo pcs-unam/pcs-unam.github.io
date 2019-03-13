@@ -55,12 +55,3 @@ creación de las nuevas perspectivas académicas y científicas que
 requiere el país.
 
 Leer el resto del [documento](/assets/docs/antecedentes.pdf).
-
-
-
-
-## Normas Generales del Posgrado UNAM
-
- - [Lineamientos Generales](/assets/docs/lineamientos-generales.pdf)
- - [Reglamento RGEP](/assets/docs/reglamento-rgep.pdf)
- - [Plan de Desarrollo](/assets/docs/pdi-2015-2019.pdf)

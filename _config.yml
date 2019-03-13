@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Posgrado en Ciencias de la Sostenibilidad"
-email: your-email@example.com
+email: sostenibilidad@posgrado.unam.mx
 description: >- # this means to ignore newlines until "baseurl:"
   Posgrado en Ciencias de la Sostenibilidad, Unidad de Posgrado Edificio D primer piso
   Ciudad Universitaria
