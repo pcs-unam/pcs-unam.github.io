@@ -132,6 +132,5 @@ dio seguimiento al desarrollo de la actividad.
 
 # Descargables
 
-Formato para Registro de Actividades Académicas Complementarias
-
+ - [Formato para registro de actividades académicas complementarias](/assets/docs/formato-actividades-academicas-complementarias.xlsx)
 
