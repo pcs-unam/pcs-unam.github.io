@@ -37,8 +37,8 @@ graduación. Para ello se deberán entregar en la Coordinación los
 siguientes formatos:
 <ul>
  <li>Visto bueno para iniciar trámites de graduación</li>
- <li> Solicitud de jurado</li>
- <li> Modalidad de graduación</li>
+ <li>Solicitud de jurado</li>
+ <li>Modalidad de graduación</li>
 </ul>
 </td>
 <td>

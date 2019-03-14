@@ -20,5 +20,5 @@ Leer el resto del [Plan de estudios](/assets/docs/plan-maestria.pdf).
  - [Mapa curricular](/maestria/mapa)
  - [Seminario de tesis](/maestria/seminario_tesis)
  - [Modalidades para la graduación](/maestria/modalidades_graduacion)
- - [Graduación](/maestria/graduacion)
+ - [Procedimiento de Graduación](/maestria/graduacion)
  - [Descargables](/maestria/descargables)
