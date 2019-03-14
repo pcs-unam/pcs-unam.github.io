@@ -6,7 +6,28 @@ pleca: /assets/plecas/p04.jpg
 menu: true
 ---
 
+# Apoyos PAEP
 
- - [Apoyos PAEP](/apoyos/paep)
- - [Becas CONACYT](/apoyos/beca_conacyt)
- - [Estímulo a la graduación](/apoyos/estimulo_graduacion)
+El Programa de Apoyo a los Estudios de Posgrado está dirigido a los
+Programas de Posgrado para desarrollar proyectos institucionales,
+avalados por los Comités Académicos, orientados al fortalecimiento de
+la infraestructura de los Posgrados y a la formación académica de los
+alumnos de Maestría y Doctorado.
+
+Consulte los [requisitos para obtener aopoyos PAEP](/apoyos/paep).
+
+
+# Módulo de Becas
+
+Consulta el [Módulo de Becas](http://www.posgrado.unam.mx/modulo-de-becas) de la Coordinación
+General de Estudios de Posgrado.
+
+
+# Estímulo a la graduación oportuna
+
+La Coordinación de Estudios de Posgrado contribuye al fortalecimiento
+de los Programas de Posgrado estimulando la obtención del grado de
+manera oportuna de los egresados de Maestría y Doctorado a través de
+un incentivo económico.
+
+Lee más acerca del [estímulo a la graduación oportuna](http://www.posgrado.unam.mx/es/estimulo-la-graduacion-oportuna).
