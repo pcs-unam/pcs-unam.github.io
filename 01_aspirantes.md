@@ -25,7 +25,7 @@ Una vez concluida la entrega documental, deberás inscribirte entre el
 académica a cursar durante el primer semestre. La carga académica la
 deberás realizar en el Sistema de Administración Escolar de Posgrado
 (SAEP) en la sección de alumnos en la dirección electrónica
-https://www.saep.unam.mx, donde deberás ingresar tu número de cuenta y
+<https://www.saep.unam.mx>, donde deberás ingresar tu número de cuenta y
 como NIP tu fecha de nacimiento (dd/mm/aaaa).
 
 
