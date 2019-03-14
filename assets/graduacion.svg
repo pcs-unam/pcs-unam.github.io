@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="439.75436mm"
+   height="470.04639mm"
+   viewBox="0 0 439.75436 470.04639"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="graduacion.svg"
+   inkscape:export-filename="/home/rgarcia/pcs-unam.github.io/assets/graduacion.png"
+   inkscape:export-xdpi="46.209999"
+   inkscape:export-ydpi="46.209999">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3456"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3454"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3102"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path3100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2910"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2908"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2712"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2710"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2568"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2566"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2394"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2392"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2160"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2158"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2010"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2008"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1860"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1858"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1608"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1606"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1470"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1468"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1139"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#8c9050;fill-opacity:1;fill-rule:evenodd;stroke:#8c9050;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="816.48004"
+     inkscape:cy="1240.9727"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1916"
+     inkscape:window-height="1058"
+     inkscape:window-x="0"
+     inkscape:window-y="636"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="206.78845,-124.38046"
+       orientation="1,0"
+       id="guide175"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.99090916,9.3103003)">
+    <rect
+       style="opacity:1;fill:#90b8c0;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect18"
+       width="202.77373"
+       height="34.661751"
+       x="3.0238097"
+       y="10.494047"
+       ry="10.961309" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10"
+       style="font-style:normal;font-weight:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.2916667,-15.875)"><flowRegion
+         id="flowRegion12"
+         style="font-size:17.33333397px;text-align:start;text-anchor:start"><rect
+           id="rect14"
+           width="680.75574"
+           height="92.923805"
+           x="62.857143"
+           y="118.23397"
+           style="font-size:17.33333397px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara16">Para iniciar los trámites de graduación es necesario haber cubierto el 100% de créditos (mínimo 80 créditos), no tener una materia inscrita que no haya sido aprobada, haber acreditado dos sesiones de tutoría y la actividad para la obtención del grado.</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#90b8c0;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect46"
+       width="203.98325"
+       height="43.469185"
+       x="1.8142861"
+       y="132.3343"
+       ry="10.961309" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot70"
+       style="font-style:normal;font-weight:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.5011904,105.96528)"><flowRegion
+         id="flowRegion50"
+         style="font-size:17.33333397px;text-align:start;text-anchor:start"><rect
+           id="rect48"
+           width="623.24884"
+           height="236.34807"
+           x="62.857143"
+           y="118.23397"
+           style="font-size:17.33333397px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara66">Entregar el documento final para la graduación (tesis, artículo, reporte técnico o protocolo de investigación doctoral) a cada uno de los miembros del jurado asignado por el Comité Académico. El Reglamento General de Estudios de Posgrado otorga a los miembros del jurado 30 días hábiles para la revisión del documento y emisión del voto.</flowPara><flowPara
+         id="flowPara68" /></flowRoot>    <rect
+       ry="10.403041"
+       y="206.61124"
+       x="0.90714294"
+       height="21.15926"
+       width="204.8904"
+       id="rect107"
+       style="opacity:1;fill:#90b8c0;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-7.4083331,180.24219)"
+       style="font-style:normal;font-weight:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot115"
+       xml:space="preserve"><flowRegion
+         style="font-size:17.33333397px;text-align:start;text-anchor:start"
+         id="flowRegion111"><rect
+           style="font-size:17.33333397px;text-align:start;text-anchor:start"
+           y="118.23397"
+           x="62.857143"
+           height="48.4771"
+           width="638.32935"
+           id="rect109" /></flowRegion><flowPara
+         id="flowPara113">Reunir los documentos solicitados por REP para realizar el trámite de autorización de examen de grado.</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#90b8c0;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect117"
+       width="204.8904"
+       height="12.745667"
+       x="0.90714294"
+       y="247.48169"
+       ry="3.7001386" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot125"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.4083331,221.11273)"><flowRegion
+         id="flowRegion121"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect119"
+           width="593.88263"
+           height="48.4771"
+           x="62.857143"
+           y="118.23397"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara127">Solicitar a REP la autorización de examen de grado.</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#90b8c0;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect129"
+       width="204.8904"
+       height="30.743284"
+       x="0.90714294"
+       y="275.14651"
+       ry="10.961309" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot137"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.4083331,248.77763)"><flowRegion
+         id="flowRegion133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect131"
+           width="629.45331"
+           height="116.47361"
+           x="62.857143"
+           y="118.23397"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara139">Entregar en la Coordinación el comprobante de pago expedido por REP, seis fotografías (ver especificaciones) y el archivo PDF del documento final para la graduación.</flowPara></flowRoot>    <rect
+       ry="10.961309"
+       y="350.26318"
+       x="0.90714294"
+       height="27.920574"
+       width="204.8904"
+       id="rect141"
+       style="opacity:1;fill:#90b8c0;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-7.4083331,323.89444)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot149"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowRegion145"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="118.23397"
+           x="62.857143"
+           height="118.49392"
+           width="645.61578"
+           id="rect143" /></flowRegion><flowPara
+         id="flowPara151">Programación del examen de grado. El alumno debe informar a la Coordinación la fecha, hora y lugar del examen para elaborar el citatorio que el jurado debe firmar. Las firmas son recabadas por el alumno.</flowPara></flowRoot>    <rect
+       ry="10.961309"
+       y="397.05823"
+       x="-0.85840917"
+       height="60.574448"
+       width="207.99977"
+       id="rect153"
+       style="opacity:1;fill:#90b8c0;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-9.1738857,370.68922)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot163"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowRegion157"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="118.23397"
+           x="62.857143"
+           height="228.26685"
+           width="706.08136"
+           id="rect155" /></flowRegion><flowPara
+         id="flowPara165">Posterior al examen, entregar los documentos de grado en la Coordinación</flowPara><flowPara
+         id="flowPara167"></flowPara><flowPara
+         id="flowPara169">Nota importante: Una vez aprobado el examen de grado, es responsabilidad de los alumnos solicitar en la Coordinación el estímulo a la graduación oportuna y entregar los documentos requeridos. Revisar los requisitos y condiciones de la convocatoria correspondiente en la siguiente liga:</flowPara><flowPara
+         id="flowPara171"></flowPara><flowPara
+         id="flowPara173">http://www.posgrado.unam.mx/es/estimulo-la-graduacion-oportuna</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#e4c47c;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect254"
+       width="204.8904"
+       height="21.15926"
+       x="233.74057"
+       y="84.90287"
+       ry="10.403041" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot262"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,225.42509,58.53382)"><flowRegion
+         id="flowRegion258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect256"
+           width="638.32935"
+           height="48.4771"
+           x="62.857143"
+           y="118.23397"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara319">El Comité Académico autoriza el proceso de graduación y asigna al jurado para el examen de grado.</flowPara></flowRoot>    <rect
+       ry="10.403041"
+       y="174.86122"
+       x="233.74057"
+       height="27.573725"
+       width="203.28679"
+       id="rect279"
+       style="opacity:1;fill:#e4c47c;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,225.42509,148.49219)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot287"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowRegion283"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="118.23397"
+           x="62.857143"
+           height="90.903511"
+           width="658.53235"
+           id="rect281" /></flowRegion><flowPara
+         id="flowPara321">La Coordinación solicita la revisión de estudios al área de Revisión de Estudios de Posgrado (REP), y cuando está lista la entrega al alumno junto con la papelería para solicitar autorización de examen de grado.</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#e4c47c;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect289"
+       width="204.8904"
+       height="21.15926"
+       x="233.74057"
+       y="317.73618"
+       ry="10.403041" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot297"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,225.42509,291.36725)"><flowRegion
+         id="flowRegion293"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect291"
+           width="638.32935"
+           height="48.4771"
+           x="62.857143"
+           y="118.23397"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara323">La Coordinación recoge la autorización de examen de grado y notifica al alumno.</flowPara></flowRoot>    <rect
+       ry="10.403041"
+       y="370.65274"
+       x="233.74057"
+       height="21.15926"
+       width="204.8904"
+       id="rect299"
+       style="opacity:1;fill:#e4c47c;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,225.42509,344.28395)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot307"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowRegion303"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="118.23397"
+           x="62.857143"
+           height="44.436493"
+           width="680.75574"
+           id="rect301" /></flowRegion><flowPara
+         id="flowPara325">La Coordinación entrega los documentos para el examen de grado.</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#e4c47c;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect309"
+       width="204.8904"
+       height="21.15926"
+       x="233.74057"
+       y="439.44434"
+       ry="10.403041" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot317"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,225.42509,413.07564)"><flowRegion
+         id="flowRegion313"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect311"
+           width="638.32935"
+           height="48.4771"
+           x="62.857143"
+           y="118.23397"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara327">La Coordinación integra el expediente del alumno y lo remite a REP para la elaboración del grado.</flowPara></flowRoot>    <path
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 160.2619,46.02381 V 59.630952"
+       id="path1134"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1466"
+       d="m 205.79754,96.372778 h 27.14664"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1470)"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1608)"
+       d="m 242.27224,106.20016 -41.83401,27.59226"
+       id="path1604"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1856"
+       d="m 205.79754,158.92784 29.22551,20.03273"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1860)"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2010)"
+       d="M 233.20081,196.72546 205.79754,211.8445"
+       id="path2006"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2156"
+       d="m 182.36301,227.71951 1e-5,19.27678"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2160)"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2394)"
+       d="m 182.36301,260.79245 1e-5,13.41815"
+       id="path2390"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2564"
+       d="m 205.79754,297.26715 32.12798,24.00149"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2568)"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2712)"
+       d="m 235.27968,334.4978 -34.58481,16.25298"
+       id="path2708"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2906"
+       d="m 205.79754,369.27161 28.15923,12.09524"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2910)"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3102)"
+       d="m 237.33134,389.16618 -31.5338,17.52507"
+       id="path3098"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3452"
+       d="m 207.18855,432.95606 26.44363,13.62511"
+       style="fill:#8c9050;stroke:#8c9050;stroke-width:0.66458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3456)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="13.632094"
+       y="-0.84570092"
+       id="text3874"><tspan
+         sodipodi:role="line"
+         id="tspan3872"
+         x="13.632094"
+         y="-0.84570092"
+         style="stroke-width:0.26458332">Alumno</tspan></text>
+    <text
+       id="text3878"
+       y="-0.84570092"
+       x="251.75719"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-0.84570092"
+         x="251.75719"
+         id="tspan3876"
+         sodipodi:role="line">Comité Académico/Coordinación</tspan></text>
+    <rect
+       ry="10.961309"
+       y="60.926956"
+       x="1.8142861"
+       height="89.900017"
+       width="203.98325"
+       id="rect20"
+       style="opacity:1;fill:#483d8b;fill-opacity:1;stroke:#908878;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.26499998;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10.129835"
+       y="72.367142"
+       id="text4374"><tspan
+         sodipodi:role="line"
+         x="10.129835"
+         y="72.367142"
+         id="tspan4328"
+         style="stroke-width:0.26458332"><tspan
+           x="10.129835"
+           y="72.367142"
+           id="tspan4326"
+           style="stroke-width:0.26458332">Solicitar al Comité Académico el inicio del proceso de </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="10.129835"
+         y="81.186592"
+         id="tspan4332"
+         style="stroke-width:0.26458332"><tspan
+           x="10.129835"
+           y="81.186592"
+           id="tspan4330"
+           style="stroke-width:0.26458332">graduación. Para ello se deberán entregar en la </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="10.129835"
+         y="90.006035"
+         id="tspan4338"
+         style="stroke-width:0.26458332"><tspan
+           x="10.129835"
+           y="90.006035"
+           id="tspan4334"
+           style="stroke-width:0.26458332">Coordinación los siguientes formatos:</tspan><tspan
+           dx="0"
+           x="124.52079"
+           y="90.006035"
+           id="tspan4336"
+           style="stroke-width:0.26458332" /></tspan><tspan
+         sodipodi:role="line"
+         x="10.129835"
+         y="98.825478"
+         id="tspan4342"
+         style="stroke-width:0.26458332"><tspan
+           x="10.129835"
+           y="98.825485"
+           id="tspan4340"
+           style="stroke-width:0.26458332" /></tspan><tspan
+         sodipodi:role="line"
+         x="10.129835"
+         y="107.64493"
+         id="tspan4348"
+         style="stroke-width:0.26458332"><tspan
+           x="10.129835"
+           y="107.64493"
+           id="tspan4344"
+           style="stroke-width:0.26458332"> - Visto bueno para iniciar trámites de graduación</tspan><tspan
+           dx="0"
+           x="159.82613"
+           y="107.64493"
+           id="tspan4346"
+           style="stroke-width:0.26458332" /></tspan><tspan
+         sodipodi:role="line"
+         x="10.129835"
+         y="116.46437"
+         id="tspan4352"
+         style="stroke-width:0.26458332"><tspan
+           x="10.129835"
+           y="116.46437"
+           id="tspan4350"
+           style="stroke-width:0.26458332" /></tspan><tspan
+         sodipodi:role="line"
+         x="10.129835"
+         y="125.28382"
+         id="tspan4358"
+         style="stroke-width:0.26458332"><tspan
+           x="10.129835"
+           y="125.28382"
+           id="tspan4354"
+           style="stroke-width:0.26458332"> - Solicitud de jurado</tspan><tspan
+           dx="0"
+           x="73.023499"
+           y="125.28382"
+           id="tspan4356"
+           style="stroke-width:0.26458332" /></tspan><tspan
+         sodipodi:role="line"
+         x="10.129835"
+         y="134.10327"
+         id="tspan4362"
+         style="stroke-width:0.26458332"><tspan
+           x="10.129835"
+           y="134.10327"
+           id="tspan4360"
+           style="stroke-width:0.26458332" /></tspan><tspan
+         sodipodi:role="line"
+         x="10.129835"
+         y="142.92271"
+         id="tspan4368"
+         style="stroke-width:0.26458332"><tspan
+           x="10.129835"
+           y="142.92271"
+           id="tspan4364"
+           style="stroke-width:0.26458332"> - Modalidad de graduación</tspan><tspan
+           dx="0"
+           x="93.859436"
+           y="142.92271"
+           id="tspan4366"
+           style="stroke-width:0.26458332" /></tspan><tspan
+         sodipodi:role="line"
+         x="10.129835"
+         y="142.92271"
+         id="tspan4372"
+         style="stroke-width:0.26458332"><tspan
+           x="10.129835"
+           y="151.74216"
+           id="tspan4370"
+           style="stroke-width:0.26458332" /></tspan></text>
+  </g>
+</svg>

@@ -16,12 +16,9 @@ implementar exitosamente políticas y proyectos sostenibles.
 
 Leer el resto del [Plan de estudios](/assets/docs/plan-maestria.pdf).
 
- - [Normas operativas](/maestria/normas)
  - [Campos de conocimiento](/maestria/campos)
  - [Mapa curricular](/maestria/mapa)
- - [Cursos](/maestria/cursos)
  - [Seminario de tesis](/maestria/seminario_tesis)
- - [Temas selectos](/maestria/temas_selectos)
  - [Modalidades para la graduación](/maestria/modalidades_graduacion)
  - [Graduación](/maestria/graduacion)
  - [Descargables](/maestria/descargables)

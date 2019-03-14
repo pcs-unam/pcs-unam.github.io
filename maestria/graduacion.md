@@ -6,3 +6,4 @@ pleca: /assets/plecas/p18.jpg
 ---
 
 
+![Procedimiento](/assets/graduacion.svg)
