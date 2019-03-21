@@ -5,8 +5,6 @@ permalink: posgrado/calendario
 pleca: /assets/plecas/p15.jpg
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=multicriteria.org_gdge9suj7h1eh8lnfoidps9dm0%40group.calendar.google.com&ctz=America%2FMexico_City" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 # Actividades Escolares semestre 2019-2
 
 
