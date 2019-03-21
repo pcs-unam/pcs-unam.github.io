@@ -177,6 +177,6 @@ para la elaboración del grado.
 
 Los alumnos que se gradúen por artículo deberán presentar, al momento de solicitar su jurado para el examen de grado, el documento final para revisión del Comité Académico.
 
-Las propuestas de personas no acreditadas deberán justificarse en cuanto a la importancia de su participación en el jurado y enviar su curriculum vitae en formato electrónico a sostenibilidad@posgrado.unam.mx
+Las propuestas de personas no acreditadas deberán justificarse en cuanto a la importancia de su participación en el jurado y enviar su *curriculum vitae* en formato electrónico a sostenibilidad@posgrado.unam.mx
 
  
