@@ -6,7 +6,7 @@ permalink: maestria/campos
 
  - [Contextos Urbanos](#contextos-urbanos)
  - [Manejo de sistemas acuáticos](#manejo-de-sistemas-acuáticos)
- - [Política, gobernanza e instituciones](#política,-gobernanza-e-instituciones)
+ - [Política, gobernanza e instituciones](#política-gobernanza-e-instituciones)
  - [Restauración ambiental](#restauración-ambiental)
  - [Sistemas energéticos](#sistemas-energéticos)
  - [Vulnerabilidad y respuesta al cambio global](#vulnerabilidad-y-respuesta-al-cambio-global)
