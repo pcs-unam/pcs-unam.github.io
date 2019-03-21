@@ -45,3 +45,6 @@ entregar en la Coordinación el acta de evaluación y un resumen
 ejecutivo de dos cuartillas. Ambos documentos deberán estar firmados
 por todos los miembros del comité tutor.
 
+# Descargables
+
+ - [Solicitud y plan de trabajo](/assets/docs/seminario-tesis-maestria.xls)
