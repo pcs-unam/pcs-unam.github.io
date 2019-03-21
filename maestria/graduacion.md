@@ -152,7 +152,7 @@ Coordinación.</p>
 Una vez aprobado el examen de grado, es responsabilidad de los alumnos
 solicitar en la Coordinación el estímulo a la graduación oportuna y
 entregar los documentos requeridos.
-Acá los <a href="http://www.posgrado.unam.mx/es/estimulo-la-graduacion-oportuna">
+Consultar los <a href="http://www.posgrado.unam.mx/es/estimulo-la-graduacion-oportuna">
 	requisitos y condiciones de la convocatoria</a>.</p>
 
 </td>
