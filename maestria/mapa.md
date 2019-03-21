@@ -4,6 +4,8 @@ layout: page
 permalink: maestria/mapa
 ---
 
+![mapa_curricular](/assets/mapa_curricular.png)
+
 | Pensum académico                                         | 864 horas
 | Total de actividades académicas                          | 12
 | Total de actividades académicas obligatorias             | 6
