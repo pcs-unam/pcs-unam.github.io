@@ -37,7 +37,7 @@ graduación. Para ello se deberán entregar en la Coordinación los
 siguientes formatos:
 <ul>
  <li>Visto bueno para iniciar trámites de graduación</li>
- <li>Solicitud de jurado</li>
+ <li>Solicitud de jurado*</li>
  <li>Modalidad de graduación</li>
 </ul>
 </td>
@@ -172,3 +172,11 @@ para la elaboración del grado.
 </tr>
 </tbody>
 </table>
+
+*Los jurados  para la graduación por tesis, reporte técnico y artículo se deben conformar por tres miembros del comité tutor y dos personas externas, las cuales pueden estar o no acreditadas como tutores del Posgrado. Los jurados para la graduación por protocolo de investigación doctoral deberán conformarse por un miembro del comité tutor, que no sea el tutor principal, y cuatro miembros externos. Los cuatro miembros externos deberán estar acreditados como tutores del Posgrado.
+
+Los alumnos que se gradúen por artículo deberán presentar, al momento de solicitar su jurado para el examen de grado, el documento final para revisión del Comité Académico.
+
+Las propuestas de personas no acreditadas deberán justificarse en cuanto a la importancia de su participación en el jurado y enviar su curriculum vitae en formato electrónico a sostenibilidad@posgrado.unam.mx
+
+ 
