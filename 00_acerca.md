@@ -54,4 +54,4 @@ propuesta que aquí se presenta, con el propósito de contribuir a la
 creación de las nuevas perspectivas académicas y científicas que
 requiere el país.
 
-Leer el resto del [documento](/assets/docs/antecedentes.pdf).
+[Documento completo](/assets/docs/antecedentes.pdf).
