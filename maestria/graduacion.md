@@ -10,7 +10,7 @@ pleca: /assets/plecas/p18.jpg
 <thead>
 <tr>
 <th>
-Estudiante
+Alumno
 </th>
 <th>
 Comité Académico/Coordinación
