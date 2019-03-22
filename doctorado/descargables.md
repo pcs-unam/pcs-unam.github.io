@@ -1,5 +1,5 @@
 ---
-title: Formatos para alumnos
+title: Formatos para alumnos de Doctorado
 layout: page
 permalink: doctorado/descargables
 ---
@@ -19,3 +19,13 @@ permalink: doctorado/descargables
  - [Criterios de evaluación de egreso de Doctorado](/assets/docs/criterios_egreso_doctorado.pdf)
  - [Guía para estructurar la tesis de Doctorado organizada en artículos](/assets/docs/guia_doctorado.pdf)
 
+# Proceso de graduación
+
+
+ - [Agradecimiento al posgrado en articulos y tesis](/assets/docs/graduacion_doctorado/agradecimiento_al_posgrado_en_articulos_y_tesis.pdf)
+ - [Formato de artículo complementario](/assets/docs/graduacion_doctorado/formato_articulo_complementario.docx)
+ - [Formato artículo requisito](/assets/docs/graduacion_doctorado/formato_articulo_requisito.docx)
+ - [Formato de solicitud de jurado](/assets/docs/graduacion_doctorado/formato_solicitud_jurado_doc.docx)
+ - [Formato de solicitud de revisión para articulo de requisito](/assets/docs/graduacion_doctorado/formato_solicitud_revista_para_articulo_de_requisito.docx)
+ - [Formato de visto bueno para iniciar graduación](/assets/docs/graduacion_doctorado/formato_visto_bueno_iniciar_graduacion.docx)
+ - [Plantilla de Portada de Tesis](/assets/docs/graduacion_doctorado/portada-tesis-doc-pcs.docx)

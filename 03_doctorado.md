@@ -20,4 +20,5 @@ Leer el resto del [Plan de estudios](/assets/docs/plan-doctorado.pdf).
  - [Líneas de investigación](/doctorado/lineas)
  - [Actividades académicas complementarias](/doctorado/actividades)
  - [Candidatura](/doctorado/candidatura)
+ - [Procedimiento de graduación](/doctorado/graduacion)
  - [Descargables](/doctorado/descargables)
