@@ -19,7 +19,7 @@ Comité Académico/Coordinación
 </thead>
 <tbody>
 <tr>
-<td> 
+<td>
 <h1>1</h1>
 Para iniciar los trámites de graduación es necesario haber
 cubierto el 100% de créditos (mínimo 80 créditos), no tener una
@@ -179,4 +179,29 @@ Los alumnos que se gradúen por artículo deberán presentar, al momento de soli
 
 Las propuestas de personas no acreditadas deberán justificarse en cuanto a la importancia de su participación en el jurado y enviar su *curriculum vitae* en formato electrónico a sostenibilidad@posgrado.unam.mx
 
- 
+
+## Formatos
+
+ - [Visto bueno para iniciar trámites de graduación](/assets/docs/graduacion/visto_bueno_iniciar_graduacion.docx)
+
+ - [Solicitud de emisión de grado](/assets/docs/graduacion/solicitud_emision_grado.docx)
+
+ - [Modalidad de graduación](/assets/docs/graduacion/formato-modalidad-graduacion.docx)
+
+ - [Propuesta formato voto aprobatorio Tesis](/assets/docs/graduacion/fvam-tesis.docx)
+
+ - [Solicitud de jurado](/assets/docs/graduacion/solicitud_jurado_maestria2.docx)
+
+ - [Propuesta formato voto aprobatorio Artículo](/assets/docs/graduacion/fvam-articulo.docx)
+
+ - [Requisitos para solicitar autorización de examen](/assets/docs/graduacion/doc_solicitar_autorizacion_examen.pdf)
+
+ - [Propuesta formato voto aprobatorio Reporte Técnico](/assets/docs/graduacion/fvam-reporte-tecnico.docx)
+
+ - [Ejemplo autorización de transferencia de información](/assets/docs/graduacion/ejemplo_solicitud_transf_datos.pdf)
+
+ - [Propuesta formato voto aprobatorio Protocolo](/assets/docs/graduacion/fvam-protocolo.docx)
+
+ - [Características de la fotografía](/assets/docs/graduacion/foto_emision_titulo.pdf)
+
+ - [Portada de Tesis, Reporte Técnico, Artículo o Protocolo](/assets/docs/graduacion/portada-tesis-art-prot-rep-pcs.docx)
