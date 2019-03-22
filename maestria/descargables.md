@@ -5,8 +5,8 @@ permalink: maestria/descargables
 ---
 
 
-- [Propuesta de Comité Tutor](/assets/docs/propuesta_comite_tutor.xlsx)
-
+ - [Propuesta de Comité Tutor](/assets/docs/propuesta_comite_tutor.xlsx)
+ - [Solicitud y plan de trabajo para seminario de tesis](/assets/docs/seminario-tesis-maestria.xls)
 
 ## Proceso de graduación
 
