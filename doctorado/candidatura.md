@@ -5,7 +5,7 @@ permalink: doctorado/candidatura
 pleca: /assets/plecas/p17.jpg
 ---
 
-# Lineamientos para la candidatura al grado de doctor en Ciencias de la Sostenibilidad
+## Lineamientos para la candidatura al grado de doctor en Ciencias de la Sostenibilidad
 
  
 Aprobar el examen de candidatura al grado de doctor es un requisito
@@ -63,7 +63,7 @@ La candidatura puede ser otorgada por consenso o mayoría de los miembros del ju
 
  
 
-# Consideraciones de la sección escrita
+## Consideraciones de la sección escrita
  
 
 El escrito debe ser parte del proyecto del alumno, en el que hará una
@@ -101,25 +101,30 @@ examen o bien devolverlos a la Coordinación.
 
  
 
-# Perfil intermedio del Doctorado
+## Perfil intermedio del Doctorado
 
 
-## Conocimientos:
+# Conocimientos:
 
  - Teoría fundamental de las ciencias de la sostenibilidad.
  - Teoría y metodología relacionada con su proyecto doctoral.
  
 
-## Habilidades:
+# Habilidades:
 
  * Capacidad para identificar la información que permita caracterizar y analizar los problemas de sostenibilidad.
  * Capacidad teórica, metodológica y práctica para abordar problemas de sostenibilidad.
  * Capacidad de comunicar los avances de su investigación de manera oral y escrita.
  
 
-## Actitudes:
+# Actitudes:
 
  * Motivación para continuar con el desarrollo de su proyecto de investigación.
  * Disposición para desarrollar su proyecto de investigación en un contexto transdisciplinario.
  * Disposición para comunicar y difundir los avances de su investigación en un contexto transacadémico.
  
+## Formatos
+
+ - [Solicitud de candidatura](/assets/docs/solicitud-jurado-candidatura.docx)
+ - [Evaluación escrita](/assets/docs/evaluacion_escrita_candidatura.pdf)
+ - [Evaluación oral](/assets/docs/evaluacion_oral_candidatura.pdf)
