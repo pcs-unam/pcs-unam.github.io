@@ -63,4 +63,3 @@ Del 1º al 19 de julio | Vacaciones académico-administrativas
 
 
 
-Consulte el [calendario 2020-1](calendario1).
