@@ -133,4 +133,5 @@ dio seguimiento al desarrollo de la actividad.
 # Descargables
 
  - [Formato para registro de actividades académicas complementarias](/assets/docs/formato-actividades-academicas-complementarias.xlsx)
+ - [Formato de solicitud de autorización para articulo de requisito](/assets/docs/graduacion_doctorado/formato_solicitud_revista_para_articulo_de_requisito.docx)
 
