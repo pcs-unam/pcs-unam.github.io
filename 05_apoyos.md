@@ -14,7 +14,7 @@ avalados por los Comités Académicos, orientados al fortalecimiento de
 la infraestructura de los Posgrados y a la formación académica de los
 alumnos de Maestría y Doctorado.
 
-Consulte los [requisitos para obtener aopoyos PAEP](/apoyos/paep).
+Consulte los [lineamientos y requisitos para obtener aopoyos PAEP](/assets/docs/lineamientos_paep_2019.pdf).
 
 
 # Módulo de Becas
