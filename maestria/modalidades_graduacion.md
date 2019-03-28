@@ -113,11 +113,4 @@ Extensión total sugerida: 50-55 páginas sin referencias y anexos
 
 Formato sugerido: tamaño de letra 12 y espacio doble
 
-Los alumnos que se gradúen a través de la modalidad de protocolo de
-investigación doctoral, no deberán presentar entrevista de ingreso al
-Doctorado en la convocatoria inmediata posterior a la fecha de
-graduación. El jurado de los alumnos que opten por esta modalidad de
-graduación deberá conformarse por un miembro del comité tutor, que no
-sea el tutor principal y cuatro miembros externos al comité tutor. Los
-cuatro miembros externos deberán estar acreditados como tutores del
-Posgrado.
+El jurado de los alumnos que opten por esta modalidad de graduación deberá conformarse por un miembro del comité tutor, que no sea el tutor principal y cuatro miembros externos al comité tutor acreditados como tutores del Posgrado.
