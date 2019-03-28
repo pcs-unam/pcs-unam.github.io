@@ -6,7 +6,6 @@ permalink: doctorado/descargables
 
  - [Registro de actividades académicas complementarias](/assets/docs/formato-actividades-academicas-complementarias.xlsx)
  - [Propuesta de comité tutor](/assets/docs/propuesta_comite_tutor.xlsx)
- - [Carta de aceptación de tutores de Doctorado](/assets/docs/formato_carta_aceptacion_tutor_doctorado.doc)
 
 # Examen de Candidatura
 
