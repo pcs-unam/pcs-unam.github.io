@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Académicos
-permalink: /academicos/
+title: Tutores y profesores
+permalink: /tutores_profesores/
 pleca: /assets/plecas/p12.jpg
 menu: true
 ---
