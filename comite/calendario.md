@@ -5,17 +5,17 @@ permalink: comite/calendario
 ---
 
 
-| 15 de enero | Sesión de Comité Académico en enero
-| 12 de febrero | Sesión de Comité Académico
-| 12 de marzo | Sesión de Comité Académico
-| 9 de abril | Sesión de Comité Académico
-| 14 de mayo | Sesión de Comité Académico
-| 11 de junio | Sesión de Comité Académico
+| 15 de enero | 
+| 12 de febrero |
+| 12 de marzo | 
+| 9 de abril | 
+| 14 de mayo |
+| 11 de junio |
 
-| 14 de agosto | Sesión de Comité Académico
-| 11 de septiembre | Sesión de Comité Académico
-| 9 de octubre | Sesión de Comité Académico
-| 13 de noviembre | Sesión de Comité Académico
-| 11 de diciembre | Sesión de Comité Académico
+| 13 de agosto |
+| 10 de septiembre |
+| 9 de octubre | 
+| 13 de noviembre |
+| 11 de diciembre |
 
 
