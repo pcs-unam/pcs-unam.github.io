@@ -14,8 +14,8 @@ permalink: comite/calendario
 
 | 13 de agosto |
 | 10 de septiembre |
-| 9 de octubre | 
-| 13 de noviembre |
-| 11 de diciembre |
+| 8 de octubre | 
+| 12 de noviembre |
+| 10 de diciembre |
 
 
