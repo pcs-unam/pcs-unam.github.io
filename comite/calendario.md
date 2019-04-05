@@ -1,5 +1,5 @@
 ---
-title: Calendario de sesiones
+title: Calendario de sesiones 2019
 layout: page
 permalink: comite/calendario
 ---
