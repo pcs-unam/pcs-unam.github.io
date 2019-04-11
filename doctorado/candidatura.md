@@ -29,8 +29,7 @@ b) No aprobado
 La candidatura puede ser otorgada por consenso o mayoría de los miembros del jurado. 
 6. Cuando el alumno aprueba el examen, obtiene la candidatura al grado de doctor. 
 7. En caso de haber aprobado el examen con recomendaciones del jurado, el alumno deberá atenderlas y presentar los avances al comité tutor a más tardar un semestre después. 
-8. En caso de no aprobar el examen, el Comité Académico concederá una segunda oportunidad por única vez. El jurado deberá especificar por escrito las razones que respalden el veredicto*. En este caso, el alumno deberá elaborar un plan de trabajo para atender las observaciones del jurado, mismo que deberá ser entregado en la Coordinación, avalado por su tutor o tutores principales, con el fin de prepararse para la presentación del segundo examen. Este examen deberá ser presentado idealmente en los siguientes seis meses a partir de la fecha del primer examen, y a más tardar un año después. Si el alumno obtiene una segunda evaluación negativa será dado de baja del Doctorado.
-9. Para dar seguimiento al desempeño del alumno, al menos dos de los miembros del jurado de examen de candidatura deberán formar parte del jurado de examen de grado.
+8. En caso de no aprobar el examen, el Comité Académico concederá una segunda oportunidad por única vez. El jurado deberá especificar por escrito las razones que respalden el veredicto. Estos comentarios serán entregados al estudiante y al comité tutor y serán fundamentales para permitir que el alumno se prepare adecuadamente para su segunda oportunidad. Los argumentos deben ser claros y congruentes con la decisión tomada. En este caso, el alumno deberá elaborar un plan de trabajo para atender las observaciones del jurado, mismo que deberá ser entregado en la Coordinación, avalado por su tutor o tutores principales, con el fin de prepararse para la presentación del segundo examen. Este examen deberá ser presentado idealmente en los siguientes seis meses a partir de la fecha del primer examen, y a más tardar un año después. Si el alumno obtiene una segunda evaluación negativa será dado de baja del Doctorado.
 
 ### Consideraciones de la sección escrita
  - El escrito debe ser parte del proyecto del alumno, en el que hará una revisión del estado del arte de su línea de investigación, sucinta, sólida y bien fundamentada. 
@@ -42,7 +41,6 @@ La candidatura puede ser otorgada por consenso o mayoría de los miembros del ju
 
 Dada la relevancia de esta evaluación para la vida académica del alumno, idealmente deberá llevarse a cabo con la asistencia de todos los miembros del jurado. Sin embargo, la evaluación podrá realizarse con un quorum mínimo de cuatro de sus miembros.
 
-*En los casos en que la evaluación sea negativa se solicita escribir con detalle las razones del veredicto. Estos comentarios serán entregados al estudiante y al comité tutor. Son fundamentales para permitir que el alumno se prepare adecuadamente para su segunda oportunidad. Los argumentos deben ser claros y congruentes con la decisión tomada. Los proyectos que presentan los estudiantes son material confidencial, por lo que se suplica destruirlos después del examen o bien regresarlos a la Coordinación.
 
 ### Perfil intermedio del Doctorado
 
