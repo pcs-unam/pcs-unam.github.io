@@ -102,8 +102,8 @@ revista donde se pretenda publicar el artículo debe ser aprobada por
 el Comité Académico.
 
 Al finalizar el semestre se deberá entregar un acta de evaluación
-firmada por el tutor del alumno y el comprobante de envío de la
-publicación.
+firmada por el tutor del alumno, el comprobante de envío de la
+publicación y el acuse de recibido.
  
 
 # Publicación de artículo (independiente del artículo requisito)
@@ -120,8 +120,8 @@ acreditado para Doctorado externo al comité tutor del alumno que dé
 seguimiento a los avances del artículo.
 
 Al finalizar el semestre se deberá entregar un acta de evaluación
-firmada por el tutor del alumno y el comprobante de envío de la
-publicación, así como un informe sobre la participación del alumno en
+firmada por el tutor del alumno, el comprobante de envío de la
+publicación y el acuse de recibido, así como un informe sobre la participación del alumno en
 el artículo, firmado por el tutor principal y por el tutor externo que
 dio seguimiento al desarrollo de la actividad.
 
