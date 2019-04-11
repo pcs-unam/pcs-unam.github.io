@@ -9,12 +9,12 @@ pleca: /assets/plecas/p17.jpg
 
 ### Enero
 
-15 de enero | Sesión de Comité Académico en enero
-21 y 22 de enero | Inscripciones y reinscripciones al semestre 2019-2 en <https://www.saep.unam.mx>
-23, 24 y 25 de enero | Validación de inscripciones y reinscripciones en la oficina de Posgrado correspondiente (Ciudad de México o Morelia)
-23, 24 y 25 de enero | Registro de [actividades académicas complementarias](/doctorado/actividades) para alumnos de Doctorado en la oficina de Posgrado correspondiente.
-23, 24 y 25 de enero | Recoger en la oficina de Posgrado correspondiente el acta del tutoral 0. Solo aplica para alumnos de Maestría que se reinscriben al segundo semestre
-28 de enero | Inicio del semestre 2019-2
+ - **15 de enero**  Sesión de Comité Académico en enero
+ - **21 y 22 de enero**  Inscripciones y reinscripciones al semestre 2019-2 en <https://www.saep.unam.mx>
+ - **23, 24 y 25 de enero**  Validación de inscripciones y reinscripciones en la oficina de Posgrado correspondiente (Ciudad de México o Morelia)
+ - **23, 24 y 25 de enero**  Registro de [actividades académicas complementarias](/doctorado/actividades) para alumnos de Doctorado en la oficina de Posgrado correspondiente.
+ - **23, 24 y 25 de enero**  Recoger en la oficina de Posgrado correspondiente el acta del tutoral 0. Solo aplica para alumnos de Maestría que se reinscriben al segundo semestre
+ - **28 de enero**  Inicio del semestre 2019-2
 
 
 Para conocer las fechas de entrega del informe de becarios CONACyT 2019-1, consultar la siguiente dirección: <http://www.posgrado.unam.mx/modulo-de-becas>
