@@ -1,7 +1,7 @@
 ---
 title: Tutores acreditados
 layout: page
-permalink: /tutores/index
+permalink: /tutores/index/
 ---
 
 ## Maestría

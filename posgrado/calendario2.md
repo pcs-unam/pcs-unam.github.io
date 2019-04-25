@@ -1,7 +1,7 @@
 ---
 title: Calendario de Actividades Escolares semestre 2019-2
 layout: page
-permalink: posgrado/calendario2
+permalink: /posgrado/calendario2/
 pleca: /assets/plecas/p17.jpg
 ---
 

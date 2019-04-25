@@ -1,7 +1,7 @@
 ---
 title: Líneas de investigación en el Doctorado
 layout: page
-permalink: doctorado/lineas
+permalink: /doctorado/lineas/
 ---
 
  - [Cambio global, vulnerabilidad y resiliencia](#cambio-global-vulnerabilidad-y-resiliencia)

@@ -1,7 +1,7 @@
 ---
 title: Directorio
 layout: page
-permalink: posgrado/directorio
+permalink: /posgrado/directorio/
 ---
 
 

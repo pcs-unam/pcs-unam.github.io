@@ -1,7 +1,7 @@
 ---
 title: Descargables
 layout: page
-permalink: maestria/descargables
+permalink: /maestria/descargables/
 ---
 
 

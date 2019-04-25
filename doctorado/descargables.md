@@ -1,7 +1,7 @@
 ---
 title: Formatos para alumnos de Doctorado
 layout: page
-permalink: doctorado/descargables
+permalink: /doctorado/descargables/
 ---
 
  - [Registro de actividades académicas complementarias](/assets/docs/formato-actividades-academicas-complementarias.xlsx)

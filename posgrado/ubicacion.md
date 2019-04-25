@@ -1,7 +1,7 @@
 ---
 title: Ubicación
 layout: page
-permalink: posgrado/ubicacion
+permalink: /posgrado/ubicacion/
 pleca: /assets/plecas/p11.jpg
 ---
 

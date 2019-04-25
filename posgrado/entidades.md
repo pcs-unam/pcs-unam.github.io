@@ -1,7 +1,7 @@
 ---
 title: Entidades
 layout: page
-permalink: posgrado/entidades
+permalink: /posgrado/entidades/
 pleca: /assets/plecas/p09.jpg
 ---
 

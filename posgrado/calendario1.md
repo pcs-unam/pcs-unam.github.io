@@ -1,7 +1,7 @@
 ---
 title: Calendario de Actividades Escolares semestre 2020-1
 layout: page
-permalink: posgrado/calendario1
+permalink: /posgrado/calendario1/
 pleca: /assets/plecas/p16.jpg
 ---
 

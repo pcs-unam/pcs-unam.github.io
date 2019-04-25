@@ -1,7 +1,7 @@
 ---
 title: Campos de conocimiento de la Maestría
 layout: page
-permalink: maestria/campos
+permalink: /maestria/campos/
 ---
 
  - [Contextos Urbanos](#contextos-urbanos)

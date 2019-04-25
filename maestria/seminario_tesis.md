@@ -1,7 +1,7 @@
 ---
 title: Seminario de tesis
 layout: page
-permalink: maestria/seminario_tesis
+permalink: /maestria/seminario_tesis/
 pleca: /assets/plecas/p13.jpg
 ---
 

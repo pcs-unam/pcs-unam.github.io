@@ -1,7 +1,7 @@
 ---
 title: Actividades académicas complementarias
 layout: page
-permalink: doctorado/actividades
+permalink: /doctorado/actividades/
 pleca: /assets/plecas/p19.jpg
 ---
 

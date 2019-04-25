@@ -1,7 +1,7 @@
 ---
 title: Modalidades para la graduación
 layout: page
-permalink: maestria/modalidades_graduacion
+permalink: /maestria/modalidades_graduacion/
 pleca: /assets/plecas/p16.jpg
 ---
 

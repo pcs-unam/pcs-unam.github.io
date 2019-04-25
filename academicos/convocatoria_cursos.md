@@ -1,7 +1,7 @@
 ---
 title: Asignaturas Optativas
 layout: page
-permalink: /convocatoria_cursos
+permalink: /tutores/convocatoria_cursos/
 ---
 
 Para registrar una propuesta de asignatura optativa es necesario

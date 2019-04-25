@@ -1,7 +1,7 @@
 ---
 title: Candidatura
 layout: page
-permalink: doctorado/candidatura
+permalink: /doctorado/candidatura/
 pleca: /assets/plecas/p17.jpg
 ---
 

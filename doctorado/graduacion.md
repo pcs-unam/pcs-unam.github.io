@@ -1,7 +1,7 @@
 ---
 title: Proceso de graduación del Doctorado en Ciencias de la Sostenibilidad
 layout: page
-permalink: doctorado/graduacion
+permalink: /doctorado/graduacion/
 pleca: /assets/plecas/p08.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maestría
-permalink: /maestria
+permalink: /maestria/
 pleca: /assets/plecas/p07.jpg
 menu: true
 ---

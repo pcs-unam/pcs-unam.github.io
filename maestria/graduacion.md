@@ -1,7 +1,7 @@
 ---
 title: Procedimiento de Graduación
 layout: page
-permalink: maestria/graduacion
+permalink: /maestria/graduacion/
 pleca: /assets/plecas/p18.jpg
 ---
 
