@@ -20,3 +20,6 @@ sostenibilidad, y que sean capaces de proponer soluciones, desde una
 perspectiva transdisciplinaria, a los problemas que obstruyen el
 tránsito hacia el desarrollo sostenible. Se ofrecen las opciones de
 Maestría o Doctorado en Ciencias de la Sostenibilidad.
+
+
+![sistema de siembra en Xochimilco](/assets/xochi_sistema_sembrado.jpg)
