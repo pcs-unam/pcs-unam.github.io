@@ -21,5 +21,12 @@ perspectiva transdisciplinaria, a los problemas que obstruyen el
 tránsito hacia el desarrollo sostenible. Se ofrecen las opciones de
 Maestría o Doctorado en Ciencias de la Sostenibilidad.
 
+Avisos importantes
+
+Listas de aspirantes que pasan a la etapa de entrevista para el ingreso 2020-1
+
+- [Lista de aspirantes de Doctorado que pasan a la etapa de entrevista](/assets/docs/Lista_aspirantes_D_entrevista_2020_1.pdf)
+
+- [Lista de aspirantes de Maestría que pasan a la etapa de entrevista](/assets/docs/Lista_aspirantes_M_entrevista_2020_1.pdf)
 
 ![sistema de siembra en Xochimilco](/assets/xochi_sistema_sembrado.jpg)
