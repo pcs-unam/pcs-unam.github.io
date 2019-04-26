@@ -59,7 +59,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Sala de Juntas del edificio 17 del Instituto de Ingeniería |
 | Horario | Del 14 al 18 de enero y 21 y 22 de enero de 9:00 a 13:00 horas. El 17 y 18 de enero también habrá clase de 14:00 a 16:00 horas |
 | Contacto | alejandro-de-jesus.padillarivera@polymtl.ca |
-| Descargables | [Programa]( assets/evaluacion_sostenibilidad_ciclo_vida.pdf) |
+| Descargables | [Programa](/assets/docs/cursos/evaluacion_sostenibilidad_ciclo_vida.pdf) |
 
 
 ### Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos
