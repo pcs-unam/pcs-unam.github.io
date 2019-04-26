@@ -10,7 +10,7 @@ menu: true
 
 El Programa de Apoyo a los Estudios de Posgrado está dirigido a fortalecer la formación académica de los alumnos de Maestría y Doctorado. 
 
-Consultar los [lineamientos y requisitos para obtener aopoyos PAEP](/assets/docs/lineamientos_paep_2019.pdf).
+Consultar los [lineamientos y requisitos para obtener apoyos PAEP](/assets/docs/lineamientos_paep_2019.pdf).
 
 
 # Estímulo a la graduación oportuna
