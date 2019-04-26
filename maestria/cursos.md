@@ -8,7 +8,7 @@ permalink: /maestria/cursos/
 El semestre 2019-2 inicia el 28 de enero, oficialmente las actividades
 académicas terminan el 8 de junio, considerando dos semanas de
 evaluaciones y exámenes tutorales.
- 
+
 Esta página se actualiza constantemente, les sugerimos revisarla con frecuencia.
 
 
@@ -44,8 +44,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Unidad Posgrado aula B-307, CDMX |
 | Horario | Del 7 de enero al 28 de enero, lunes a viernes de 10 a 14 horas |
 | Contacto | alicepoma@gmail.com |
-
-[Programa](/assets/medio_ambiente_movimientos_sociales_emociones.pdf)
+| Descargables | [Programa](/assets/docs/cursos/medio_ambiente_movimientos_sociales_emociones.pdf) |
 
 
 
@@ -60,8 +59,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Sala de Juntas del edificio 17 del Instituto de Ingeniería |
 | Horario | Del 14 al 18 de enero y 21 y 22 de enero de 9:00 a 13:00 horas. El 17 y 18 de enero también habrá clase de 14:00 a 16:00 horas |
 | Contacto | alejandro-de-jesus.padillarivera@polymtl.ca |
-
-[Programa]( assets/evaluacion_sostenibilidad_ciclo_vida.pdf)
+| Descargables | [Programa]( assets/evaluacion_sostenibilidad_ciclo_vida.pdf) |
 
 
 ### Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos
@@ -75,10 +73,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Anfiteatro de decisiones de LANCIS, Instituto de Ecología, CDMX. |
 | Horario | Del 14 al 25 de enero, Lunes a viernes de&nbsp; 9:00 a 17:00 horas. Desarrollo de trabajo final individual, del 28 al 30 de enero (18:00 horas). |
 | Contacto |  M. en C. Patricia Pérez Belmont patypebel@gmail.com |
-
-
-[Formato de registro para esta asignatura](/assets/formato_registro_curso_humedales_sse__enero2019.docx)
-[Programa](/assets/curso_humedales_urbanos_final_14dic2018.pdf)
+| Descargables | [Programa](/assets/docs/cursos/curso_humedales_urbanos_final_14dic2018.pdf), [Formato de registro para esta asignatura](/assets/docs/cursos/formato_registro_curso_humedales_sse__enero2019.docx) |
 
 
 
@@ -96,8 +91,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Unidad Posgrado, aula F-305 , CDMX |
 | Horario | miércoles de 9:00 a 13:00 horas |
 | Contacto | c.ortiz.chao@gmail.com |
-
- [Programa](/assets/bienestar-derechos-urbanos-sost.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/bienestar_derechos_urbanos_sost.pdf) |
 
 
 
@@ -112,8 +106,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Unidad Posgrado, aula F-305 |
 | Horario | martes de 9:00 a 13:00 horas |
 | Contacto | safp@unam.mx |
-
- [Programa](/assets/escalas-socio-territoriales-sost.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/escalas_socio_territoriales_sost.pdf) |
 
 
 
@@ -128,8 +121,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Unidad Posgrado, aula&nbsp; H-302 |
 | Horario | jueves de 8:00 a 12:00 horas |
 | Contacto | perla.yannelli@gmail.com alejandro.morales.mx@gmail.com |
-
- [Programa](/assets/politicas-publicas-practicas-sociales-soluciones-urbanas.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/politicas_publicas_practicas_sociales_soluciones_urbanas.pdf) |
 
 
 
@@ -146,8 +138,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Unidad Posgrado, aula H-306, CDMX |
 | Horario | Viernes de 10:00 a 14:00 horas |
 | Contacto | gdlm@correo.crim.unam.mx |
-
-[Programa](/assets/principios-politica-gobernanza-desarrollo-sost.pdf)
+| Descargables | [Programa](/assets/docs/cursos/principios_politica_gobernanza_desarrollo_sost.pdf) |
 
 
 
@@ -162,8 +153,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Instituto de Investigaciones Económicas |
 | Horario | miércoles de 10:00 a 14:00 horas |
 | Contacto | aaguilar@iiec.unam.mx |
-
- [Programa](/assets/teoria-economica-instrumentos-gestion-sost.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/teoria_economica_instrumentos_gestion_sost.pdf) |
 
 
 ### Instrumentos de gestión colaborativa para la sostenibilidad
@@ -176,8 +166,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Unidad Posgrado, aula&nbsp; F-201 |
 | Horario | Lunes de 16:00 a 20:00 horas |
 | Contacto | clegorreta@unam.mx |
-
-[Programa](/assets/instrumentos-gestion-colavorativa.pdf)
+| Descargables | [Programa](/assets/docs/cursos/instrumentos_gestion_colavorativa.pdf) |
 
 
 
@@ -192,8 +181,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Unidad Posgrado, aula&nbsp; F-201 |
 | Horario | Lunes de 16:00 a 20:00 horas |
 | Contacto | clegorreta@unam.mx |
-
- [Programa](/assets/instrumentos-gestion-colavorativa.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/instrumentos_gestion_colavorativa.pdf) |
 
 
 
@@ -210,8 +198,7 @@ durante el periodo de inscripciones 2019-2
 | Sede | Anfiteatro de decisiones, LANCIS, Instituto de Ecología |
 | Horario | jueves de 9:00 a 13:00 horas |
 | Contacto | amy.m.lerner@gmail.com arnoldomatus@gmail.com |
-
- [Programa](/assets/cambio-global.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/cambio_global.pdf) |
 
 
 
@@ -226,8 +213,7 @@ Créditos | 8 |
 | Sede | Unidad Posgrado, aula&nbsp; F-303 |
 | Horario | Miércoles de 10:00 a 14:00 horas |
 | Contacto | lazos@unam.mx |
-
- [Programa](/assets/vulnerabilidad-exclusion-social-obstaculos-justica-ambiental.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/vulnerabilidad_exclusion_social_obstaculos_justica_ambiental.pdf) |
 
 
 
@@ -243,8 +229,7 @@ Créditos | 8 |
 | Sede | Sala de juntas, LANCIS, Instituto de Ecología |
 | Horario | Del 29 de enero al 21 de marzo, los días martes, miércoles y jueves de 11:00 a 14:00 horas |
 | Contacto | rgarciab@unam.mx |
-
- [Programa](/assets/sociedad-economia-legislacion-ambiental.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/sociedad_economia_legislacion_ambiental.pdf) |
 
 
 ### Elementos básicos de ciencia aplicados a restauración
@@ -258,8 +243,7 @@ Créditos | 8 |
 | Sede | Unidad Posgrado (lunes aula H-313, martes aula H-307, miércoles aula J-205 y jueves aula F-206) |
 | Horario | Del 29 de enero al 21 de marzo, de lunes a jueves de 16:00 a 19:00 horas |
 | Contacto | jcampo@ecologia.unam.mx |
-
- [Programa](/assets/elementos-basicos-ciencia-aplicados-restauracion.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/elementos_basicos_ciencia_aplicados_restauracion.pdf) |
 
 
 
@@ -274,8 +258,7 @@ Créditos | 8 |
 | Sede | Sala de juntas, LANCIS, Instituto de Ecología |
 | Horario | Del 25 de marzo al 24 de mayo, de lunes a viernes de 10:00 a 14:00 horas |
 | Contacto | rlindig@cieco.unam.mx |
-
- [Programa](/assets/ecosistemas-mexico-restauracion.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/ecosistemas_mexico_restauracion.pdf) |
 
 
 
@@ -293,8 +276,7 @@ Créditos | 8 |
 | Sede | Aula AT03 de la ENES Morelia |
 | Horario | Martes y jueves de 16:00 a 18:00 |
 | Contacto | bayala@cieco.unam.mx |
-
- [Programa](/assets/principios-politica-gobernanza-desarrollo-sost.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/principios_politica_gobernanza_desarrollo_sost.pdf) |
 
 ### Teoría económica e instrumentos para la gestión sostenible
 
@@ -307,8 +289,7 @@ Créditos | 8 |
 | Sede | SUM 1 del&nbsp; IIES |
 | Horario | Lunes y miércoles de 10:00 a 12:00 horas |
 | Contacto | cescalera@enesmorelia.unam.mx |
-
- [Programa](/assets/teoria-economica-instrumentos-gestion-sost.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/teoria_economica_instrumentos_gestion_sost.pdf) |
 
 
 ### Instrumentos de gestión colaborativa para la sostenibilidad
@@ -322,8 +303,7 @@ Créditos | 8 |
 | Sede | SUM 1 del&nbsp; IIES |
 | Horario | Del 18 de feb al 1 de abril, lunes, miércoles y jueves&nbsp; de 12:00 a 15:00 horas |
 | Contacto | tuyeni@cieco.unam.mx |
-
- [Programa](/assets/instrumentos-gestion-colavorativa.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/instrumentos_gestion_colavorativa.pdf) |
 
 
 ### Cambio global
@@ -337,8 +317,7 @@ Créditos | 8 |
 | Sede | SUM 2 del&nbsp; IIES |
 | Horario | Martes y jueves&nbsp;&nbsp; de 8:00 a 10:00 horas |
 | Contacto | ekdelval@cieco.unam.mx rlindig@cieco.unam.mx |
-
- [Programa](/assets/cambio-global.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/cambio_global.pdf) |
 
 ### Instrumentos de gestión colaborativa para la sostenibilidad
 
@@ -351,8 +330,7 @@ Créditos | 8 |
 | Sede | SUM 1 del&nbsp; IIES |
 | Horario | Del 18 de feb al 1 de abril, lunes, miércoles y jueves de 12:00 a 15:00 horas |
 | Contacto | tuyeni@cieco.unam.mx |
-
- [Programa](/assets/instrumentos-gestion-colavorativa-m.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/instrumentos_gestion_colavorativa_m.pdf) |
 
 
 ### Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental
@@ -366,8 +344,7 @@ Créditos | 8 |
 | Sede | Aula AT03 de la ENES Morelia |
 | Horario | Martes y jueves de 10:00 a 12:00 horas |
 | Contacto | frida.ciga@gmail.com |
-
- [Programa](/assets/vulnerabilidad-exclusion-social-obstaculos-justica-ambiental.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/vulnerabilidad_exclusion_social_obstaculos_justica_ambiental.pdf) |
 
 
 
@@ -386,8 +363,7 @@ Créditos | 8 |
 | Sede | Unidad Posgrado, aula&nbsp; J-305 |
 | Horario | Jueves de 10:00 a 14:00 |
 | Contacto | leticiad@unam.mx ffigueroa@ciencias.unam.mx lazos@unam.mx |
-
- [Programa](/assets/teoria_social_para_analisis_ambiental.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/teoria_social_para_analisis_ambiental.pdf) |
 
 ### Estadística y modelación matemática de sistemas socioecológicos en R
 
@@ -399,8 +375,7 @@ Créditos | 8 |
 | Sede | Unidad Posgrado, aula&nbsp; H-312 |
 | Horario | Lunes DE 10:00 a 14:00 horas |
 | Contacto | julieta.rosell@iecologia.unam.mx yosune@iecologia.unam.mx |
-
- [Programa](/assets/estadistica_modelacion_matematica_sistemas_socioecologicos_r.pdf)
+| Descargables |  [Programa](/assets/docs/cursos/estadistica_modelacion_matematica_sistemas_socioecologicos_r.pdf) |
 
 
 Solo se podrán registrar alumnos del Doctorado en Ciencias de la Sostenibilidad.
@@ -415,8 +390,7 @@ Solo se podrán registrar alumnos del Doctorado en Ciencias de la Sostenibilidad
 | Sede | Sala 2 en LANCIS |
 | Horario | Martes de 10:00 a 14:00 |
 | Contacto | aescalante@iecologia.unam.mx amy.lerner@iecologia.unam.mx yosune@iecologia.unam.mx |
-
-[Programa](/assets/seminario_doctorado-diseno_escritura_propuestas_investigacion_sostenibilidad.pdf)
+| Descargables | [Programa](/assets/docs/cursos/seminario_doctorado_diseno_escritura_propuestas_investigacion_sostenibilidad.pdf) |
 
 
 ## Sesiones de tutoria
@@ -509,5 +483,3 @@ Solo se podrán registrar con autorización previa del Comité Académico
 | Grupo | T001 |
 | Créditos | 8 |
 | Profesores | Dra. Marisa Mazari Hiriart |
-
-
