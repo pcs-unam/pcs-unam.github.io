@@ -22,7 +22,7 @@ tránsito hacia el desarrollo sostenible. Se ofrecen las opciones de
 Maestría o Doctorado en Ciencias de la Sostenibilidad.
 
 
-## Avisos importantes
+# Avisos importantes
 
 Horarios de entrevistas de aspirantes para el ingreso 2020-1
 
