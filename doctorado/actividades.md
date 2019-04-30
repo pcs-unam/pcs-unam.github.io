@@ -78,11 +78,11 @@ alumno en una entidad de investigación externa a la de su tutor
 principal, con una duración de 2 a 6 meses. Para realizar esta
 actividad es necesario haber aprobado la candidatura al grado de
 doctor. El tiempo límite para registrarla es en el séptimo
-semestre. El alumno deberá presentar un programa de trabajo
-calendarizado y una carta de aceptación de la contraparte que lo
-recibirá , donde se indique la fecha de inicio y de término de la
-estancia.
-
+semestre. Cualquier estancia solicitada en el octavo semestre, 
+deberá justificarse y aprobarse por el Comité Académico. El alumno 
+deberá presentar un programa de trabajo calendarizado y una carta 
+de aceptación de la contraparte que lo recibirá , donde se indique 
+la fecha de inicio y de término de la estancia.
 
 Al finalizar el semestre se deberá entregar un acta de evaluación
 firmada por el responsable de la entidad receptora.
