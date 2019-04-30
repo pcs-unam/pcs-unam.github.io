@@ -24,10 +24,16 @@ Maestría o Doctorado en Ciencias de la Sostenibilidad.
 
 ## Avisos importantes
 
-Listas de aspirantes que pasan a la etapa de entrevista para el ingreso 2020-1
+Horarios de entrevistas de aspirantes para el ingreso 2020-1
 
-- [Lista de aspirantes de Doctorado que pasan a la etapa de entrevista](/assets/docs/Lista_aspirantes_D_entrevista_2020_1.pdf)
+- [Lista de entrevistas de Doctorado](/assets/docs/Horarios_entrevistas_Doctorado_2020_1.pdf)
 
-- [Lista de aspirantes de Maestría que pasan a la etapa de entrevista](/assets/docs/Lista_aspirantes_M_entrevista_2020_1.pdf)
+- [Indicaciones para entrevista de Doctorado](/assets/docs/indicaciones_entrevistas_Doctorado_2020_1.pdf)
+
+
+- [Lista de entrevistas de Maestría](/assets/docs/Horarios_entrevistas_Maestria_2020_1.pdf)
+
+- [Indicaciones para entrevista de Maestría](/assets/docs/indicaciones_entrevistas_Maestria_2020_1.pdf)
+
 
 ![sistema de siembra en Xochimilco](/assets/xochi_sistema_sembrado.jpg)
