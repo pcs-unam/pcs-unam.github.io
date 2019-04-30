@@ -21,7 +21,8 @@ perspectiva transdisciplinaria, a los problemas que obstruyen el
 tránsito hacia el desarrollo sostenible. Se ofrecen las opciones de
 Maestría o Doctorado en Ciencias de la Sostenibilidad.
 
-Avisos importantes
+
+## Avisos importantes
 
 Listas de aspirantes que pasan a la etapa de entrevista para el ingreso 2020-1
 
