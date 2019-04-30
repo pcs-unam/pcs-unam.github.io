@@ -28,12 +28,12 @@ Horarios de entrevistas de aspirantes para el ingreso 2020-1
 
 - [Lista de entrevistas de Doctorado](/assets/docs/Horarios_entrevistas_Doctorado_2020_1.pdf)
 
-- [Indicaciones para entrevista de Doctorado](/assets/docs/indicaciones_entrevistas_Doctorado_2020_1.pdf)
+- [Indicaciones para entrevistas de Doctorado](/assets/docs/indicaciones_entrevistas_Doctorado_2020_1.pdf)
 
 
 - [Lista de entrevistas de Maestría](/assets/docs/Horarios_entrevistas_Maestria_2020_1.pdf)
 
-- [Indicaciones para entrevista de Maestría](/assets/docs/indicaciones_entrevistas_Maestria_2020_1.pdf)
+- [Indicaciones para entrevistas de Maestría](/assets/docs/indicaciones_entrevistas_Maestria_2020_1.pdf)
 
 
 ![sistema de siembra en Xochimilco](/assets/xochi_sistema_sembrado.jpg)
