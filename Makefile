@@ -8,11 +8,18 @@ build: pull tutoresgen
 
 
 fast: pull
-	mv _site/tutores ~/tutores_site
+
 	mv tutores/perfiles ~/tutores_perfiles_md
+
+	mkdir ~/tutores_perfiles_site
+	mv _site/tutores/* ~/tutores_perfiles_site/
+
 	/usr/local/bin/bundle exec jekyll build
+
 	mv ~/tutores_perfiles_md tutores/perfiles
-	mv ~/tutores_site _site/tutores
+
+	mv ~/tutores_perfiles_site/* _site/tutores/
+	rmdir ~/tutores_perfiles_site
 
 	cp -R /var/www/static ~/pcs-unam.github.io/_site	
 
