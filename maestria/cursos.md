@@ -1,6 +1,7 @@
 ---
 title: Cursos y horarios
 layout: page
+pleca: /assets/plecas/p21.jpg
 permalink: /maestria/cursos/
 ---
 
