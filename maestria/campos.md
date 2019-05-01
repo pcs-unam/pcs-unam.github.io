@@ -1,6 +1,7 @@
 ---
 title: Campos de conocimiento de la Maestría
 layout: page
+pleca: /assets/plecas/p20.jpg
 permalink: /maestria/campos/
 ---
 
