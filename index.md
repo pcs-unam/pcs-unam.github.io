@@ -36,4 +36,4 @@ Horarios de entrevistas de aspirantes para el ingreso 2020-1
 - [Indicaciones para entrevistas de Maestría](/assets/docs/indicaciones_entrevistas_Maestria_2020_1.pdf)
 
 
-![sistema de siembra en Xochimilco](/assets/xochi_sistema_sembrado.jpg)
+[//]: # ![sistema de siembra en Xochimilco](/assets/xochi_sistema_sembrado.jpg)
