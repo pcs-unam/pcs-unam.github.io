@@ -6,7 +6,7 @@ pleca: /assets/plecas/p09.jpg
 menu: true
 ---
 
-Ligas para consultar las publicaciones de nuestros alumnos de Maestría y Doctorado.
+# Ligas para consultar las publicaciones de nuestros alumnos de Maestría y Doctorado
 
 *Cristina Ayala-Azcárraga, Daniel Diaz, Luis Zambrano*
 **Characteristics of urban parks and their relation to user well-being**
