@@ -30,7 +30,7 @@ durante el periodo de inscripciones 2019-2
 | Sede       | Unidad de Posgrado aula J-201, CDMX
 | Horario    | Del 14 al 25 de enero, de lunes a jueves de 10 a 14 horas y de 16 a 19 horas. Viernes de 10 a 14 horas.
 | Contacto   | <ramosfer@alumni.upenn.edu> <galadrielent@yahoo.com>
-
+| Descargables | [Programa](/assets/docs/cursos/analisis_redes_sociales.pdf) |
 
 
 
