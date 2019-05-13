@@ -127,6 +127,6 @@ en el jurado y enviar su curriculum vitae a
  - [Formato de artículo complementario](/assets/docs/graduacion_doctorado/formato_articulo_complementario.docx)
  - [Formato artículo requisito](/assets/docs/graduacion_doctorado/formato_articulo_requisito.docx)
  - [Formato de solicitud de jurado](/assets/docs/graduacion_doctorado/formato_solicitud_jurado_doc.docx)
- - [Formato de solicitud de autorización para articulo de requisito](/assets/docs/graduacion_doctorado/formato_solicitud_revista_para_articulo_de_requisito.docx)
+ - [Formato de solicitud de autorización de revista para articulo de requisito](/assets/docs/graduacion_doctorado/formato_solicitud_revista_para_articulo_de_requisito.docx)
  - [Formato de visto bueno para iniciar graduación](/assets/docs/graduacion_doctorado/formato_visto_bueno_iniciar_graduacion.docx)
  - [Plantilla de Portada de Tesis](/assets/docs/graduacion_doctorado/portada-tesis-doc-pcs.docx)
