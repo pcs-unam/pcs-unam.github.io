@@ -1,9 +1,10 @@
 ---
+title: Elementos básicos de ciencia aplicados a restauración
 layout: page
 permalink: /maestria/cursos/elementos_basicos_de_ciencia_aplicados_a_restauracion/
 ---
 
-### Elementos básicos de ciencia aplicados a restauración
+
 
 | Entidad | 3 |
 | Clave | 73824 |

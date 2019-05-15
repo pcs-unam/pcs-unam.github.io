@@ -1,9 +1,10 @@
 ---
+title: Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental
 layout: page
 permalink: /maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental/
 ---
 
-### Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental
+
 
 | Entidad | 3 |
 | Clave | 73829 |

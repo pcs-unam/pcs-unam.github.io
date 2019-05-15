@@ -1,9 +1,10 @@
 ---
+title: Sociedad, economía y legislación ambiental
 layout: page
 permalink: /maestria/cursos/sociedad_economia_y_legislacion_ambiental/
 ---
 
-### Sociedad, economía y legislación ambiental
+
 
 | Entidad | 3 |
 | Clave | 73823 |

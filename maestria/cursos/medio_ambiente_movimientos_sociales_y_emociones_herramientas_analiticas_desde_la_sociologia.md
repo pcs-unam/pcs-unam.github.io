@@ -1,9 +1,10 @@
 ---
+title: Medio ambiente, movimientos sociales y emociones: herramientas analíticas desde la sociología
 layout: page
 permalink: /maestria/cursos/medio_ambiente_movimientos_sociales_y_emociones_herramientas_analiticas_desde_la_sociologia/
 ---
 
-### Medio ambiente, movimientos sociales y emociones: herramientas analíticas desde la sociología
+
 
 | Entidad | 3 |
 | Clave | 74121 |

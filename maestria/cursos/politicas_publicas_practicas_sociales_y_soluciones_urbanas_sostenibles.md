@@ -1,9 +1,10 @@
 ---
+title: Políticas públicas, prácticas sociales y soluciones urbanas sostenibles
 layout: page
 permalink: /maestria/cursos/politicas_publicas_practicas_sociales_y_soluciones_urbanas_sostenibles/
 ---
 
-### Políticas públicas, prácticas sociales y soluciones urbanas sostenibles
+
 
 | Entidad | 3 |
 | Clave | 73816 |

@@ -1,9 +1,10 @@
 ---
+title: Teoría económica e instrumentos para la gestión sostenible
 layout: page
 permalink: /maestria/cursos/teoria_economica_e_instrumentos_para_la_gestion_sostenible/
 ---
 
-### Teoría económica e instrumentos para la gestión sostenible
+
 
 | Entidad | 3 |
 | Clave | 73821 |

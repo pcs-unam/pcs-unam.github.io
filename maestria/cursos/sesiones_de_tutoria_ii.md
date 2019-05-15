@@ -1,9 +1,10 @@
 ---
+title: Sesiones de tutoria II
 layout: page
 permalink: /maestria/cursos/sesiones_de_tutoria_ii/
 ---
 
-### Sesiones de tutoria II
+
 
 Obligatoria para alumnos de tercer semestre de la Maestría
 

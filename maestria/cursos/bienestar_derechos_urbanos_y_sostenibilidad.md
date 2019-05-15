@@ -1,9 +1,10 @@
 ---
+title: Bienestar, derechos urbanos y sostenibilidad
 layout: page
 permalink: /maestria/cursos/bienestar_derechos_urbanos_y_sostenibilidad/
 ---
 
-### Bienestar, derechos urbanos y sostenibilidad
+
 
 | Entidad | 3 |
 | Clave | 73814 |

@@ -1,9 +1,10 @@
 ---
+title: Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos
 layout: page
 permalink: /maestria/cursos/metodologias_para_el_estudio_de_humedales_urbanos_como_sistemas_socio-ecologicos/
 ---
 
-### Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos
+
 
 | Entidad | 3 |
 | Clave | 74130 |

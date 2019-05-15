@@ -1,9 +1,10 @@
 ---
+title: Teoría Social para el Análisis Ambiental
 layout: page
 permalink: /maestria/cursos/teoria_social_para_el_analisis_ambiental/
 ---
 
-### Teoría Social para el Análisis Ambiental
+
 
 | Entidad | 3 |
 | Clave | 74131 |

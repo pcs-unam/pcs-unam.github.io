@@ -21,72 +21,50 @@ durante el periodo de inscripciones 2019-2
 
 
  - [Análisis de redes sociales](/maestria/cursos/analisis_de_redes_sociales/)
-
  - [Medio ambiente, movimientos sociales y emociones: herramientas analíticas desde la sociología](/maestria/cursos/medio_ambiente_movimientos_sociales_y_emociones_herramientas_analiticas_desde_la_sociologia/)
-
  - [Evaluación de la sostenibilidad con enfoque de ciclo de vida](/maestria/cursos/evaluacion_de_la_sostenibilidad_con_enfoque_de_ciclo_de_vida/)
-
  - [Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos](/maestria/cursos/metodologias_para_el_estudio_de_humedales_urbanos_como_sistemas_socio-ecologicos/)
 
 
-## Cursos por campo de conocimiento CDMX
+## Cursos por campo de conocimiento en la CDMX
 
  - [Bienestar, derechos urbanos y sostenibilidad](/maestria/cursos/bienestar_derechos_urbanos_y_sostenibilidad/)
-
  - [Escalas socio-territoriales y sostenibilidad](/maestria/cursos/escalas_socio-territoriales_y_sostenibilidad/)
- 
  - [Políticas públicas, prácticas sociales y soluciones urbanas sostenibles](/maestria/cursos/politicas_publicas_practicas_sociales_y_soluciones_urbanas_sostenibles/)
-
  - [Principios de política y gobernanza para el desarrollo sostenible](/maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible/)
-
  - [Teoría económica e instrumentos para la gestión sostenible](/maestria/cursos/teoria_economica_e_instrumentos_para_la_gestion_sostenible/)
-
  - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
-
  - [Cambio global](/maestria/cursos/cambio_global/)
-
  - [Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental](/maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental/)
-
  - [Sociedad, economía y legislación ambiental](/maestria/cursos/sociedad_economia_y_legislacion_ambiental/)
-
  - [Elementos básicos de ciencia aplicados a restauración](/maestria/cursos/elementos_basicos_de_ciencia_aplicados_a_restauracion/)
-
  - [Ecosistemas de México y restauración](/maestria/cursos/ecosistemas_de_mexico_y_restauracion/)
 
 
-## Cursos por campo de conocimiento Morelia
+## Cursos por campo de conocimiento en Morelia
 
  - [Principios de política y gobernanza para el desarrollo sostenible](/maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible/)
-
  - [Teoría económica e instrumentos para la gestión sostenible](/maestria/cursos/teoria_economica_e_instrumentos_para_la_gestion_sostenible/)
-
  - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
-
  - [Cambio global](/maestria/cursos/cambio_global/)
-
  - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
-
  - [Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental](/maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental/)
 
 
 ## Cursos optativos semestrales
 
- - [Teoría Social para el Análisis Ambiental](/maestria/cursos/teoria_social_para_el_analisis_ambiental/)
-
- - [Estadística y modelación matemática de sistemas socioecológicos en R](/maestria/cursos/estadistica_y_modelacion_matematica_de_sistemas_socioecologicos_en_r/)
-
 Solo se podrán registrar alumnos del Doctorado en Ciencias de la Sostenibilidad.
 
- - [Seminario de doctorado: diseño y escritura de propuestas de investigación en temas de sostenibilidad](/maestria/cursos/seminario_de_doctorado_diseño_y_escritura_de_propuestas_de_investigacion_en_temas_de_sostenibilidad/)
+ - [Teoría Social para el Análisis Ambiental](/maestria/cursos/teoria_social_para_el_analisis_ambiental/)
+ - [Estadística y modelación matemática de sistemas socioecológicos en R](/maestria/cursos/estadistica_y_modelacion_matematica_de_sistemas_socioecologicos_en_r/)
+ - [Seminario de doctorado: diseño y escritura de propuestas de investigación en temas de sostenibilidad](/maestria/cursos/seminario_de_doctorado_diseno_y_escritura_de_propuestas_de_investigacion_en_temas_de_sostenibilidad/)
 
 
 ## Sesiones de tutoria
 
 
  - [Sesiones de tutoria I](/maestria/cursos/sesiones_de_tutoria_i/)
-
  - [Sesiones de tutoria II](/maestria/cursos/sesiones_de_tutoria_ii/)
-
  - [Actividades para la obtención del grado](/maestria/cursos/actividades_para_la_obtencion_del_grado/)
 
 
@@ -103,12 +81,4 @@ Solo se podrán registrar con autorización previa del Comité Académico
 
  - [Temas Selectos I Seminario de Investigación I](/maestria/cursos/temas_selectos_i_seminario_de_investigacion_i/)
  - [Temas Selectos II Seminario de Investigación II](/maestria/cursos/temas_selectos_ii_seminario_de_investigacion_ii/)
-
-
-### Temas Selectos III Seminario de Investigación III
-
-| Entidad | 3 |
-| Clave | 73861 |
-| Grupo | T001 |
-| Créditos | 8 |
-| Profesores | Dra. Marisa Mazari Hiriart |
+ - [Temas Selectos III Seminario de Investigación III](/maestria/cursos/temas_selectos_iii_seminario_de_investigacion_iii/)

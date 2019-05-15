@@ -1,9 +1,10 @@
 ---
+title: Principios de política y gobernanza para el desarrollo sostenible
 layout: page
 permalink: /maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible/
 ---
 
-### Principios de política y gobernanza para el desarrollo sostenible
+
 
 | Entidad | 3 |
 | Clave | 73820 |

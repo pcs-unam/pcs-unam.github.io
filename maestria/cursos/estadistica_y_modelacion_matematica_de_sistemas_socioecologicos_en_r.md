@@ -1,9 +1,10 @@
 ---
+title: Estadística y modelación matemática de sistemas socioecológicos en R
 layout: page
 permalink: /maestria/cursos/estadistica_y_modelacion_matematica_de_sistemas_socioecologicos_en_r/
 ---
 
-### Estadística y modelación matemática de sistemas socioecológicos en R
+
 
 | Entidad | 3 |
 | Clave | 74117 |

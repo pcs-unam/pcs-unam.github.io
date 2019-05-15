@@ -1,9 +1,10 @@
 ---
+title: Cambio global
 layout: page
 permalink: /maestria/cursos/cambio_global/
 ---
 
-### Cambio global
+
 
 | Entidad | 3 |
 | Clave | 73830 |

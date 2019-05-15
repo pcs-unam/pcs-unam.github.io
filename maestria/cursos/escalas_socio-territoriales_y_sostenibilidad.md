@@ -1,9 +1,10 @@
 ---
+title: Escalas socio-territoriales y sostenibilidad |
 layout: page
 permalink: /maestria/cursos/escalas_socio-territoriales_y_sostenibilidad/
 ---
 
-### Escalas socio-territoriales y sostenibilidad |
+
 
 | Entidad | 3 |
 | Clave | 73815 |

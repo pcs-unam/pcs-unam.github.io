@@ -1,9 +1,10 @@
 ---
+title: Análisis de redes sociales
 layout: page
 permalink: /maestria/cursos/analisis_de_redes_sociales/
 ---
 
-### Análisis de redes sociales
+
 
 | Entidad | 3
 | Clave   | 74128

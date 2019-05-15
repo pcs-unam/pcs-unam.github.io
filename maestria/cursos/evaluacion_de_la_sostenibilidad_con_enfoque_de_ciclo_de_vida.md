@@ -1,9 +1,10 @@
 ---
+title: Evaluación de la sostenibilidad con enfoque de ciclo de vida
 layout: page
 permalink: /maestria/cursos/evaluacion_de_la_sostenibilidad_con_enfoque_de_ciclo_de_vida/
 ---
 
-### Evaluación de la sostenibilidad con enfoque de ciclo de vida
+
 
 | Entidad | 3 |
 | Clave | 74129 |

@@ -1,9 +1,10 @@
 ---
+title: Temas Selectos I Seminario de Investigación I
 layout: page
 permalink: /maestria/cursos/temas_selectos_i_seminario_de_investigacion_i/
 ---
 
-### Temas Selectos I Seminario de Investigación I
+
 
 | Entidad | 3 |
 | Clave | 73859 |

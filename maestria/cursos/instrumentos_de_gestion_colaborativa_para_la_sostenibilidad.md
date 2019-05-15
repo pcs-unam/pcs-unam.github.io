@@ -1,9 +1,10 @@
 ---
+title: Instrumentos de gestión colaborativa para la sostenibilidad
 layout: page
 permalink: /maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/
 ---
 
-### Instrumentos de gestión colaborativa para la sostenibilidad
+
 | Entidad | 3 |
 | Clave | 73822 |
 | Grupo | 0001 |

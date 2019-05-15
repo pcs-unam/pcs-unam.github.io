@@ -1,9 +1,10 @@
 ---
+title: Ecosistemas de México y restauración
 layout: page
 permalink: /maestria/cursos/ecosistemas_de_mexico_y_restauracion/
 ---
 
-### Ecosistemas de México y restauración
+
 
 | Entidad | 3 |
 | Clave | 73825 |
