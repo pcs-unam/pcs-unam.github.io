@@ -1,5 +1,5 @@
 ---
-title: Escalas socio-territoriales y sostenibilidad |
+title: Escalas socio-territoriales y sostenibilidad
 layout: page
 permalink: /maestria/cursos/escalas_socio-territoriales_y_sostenibilidad/
 ---

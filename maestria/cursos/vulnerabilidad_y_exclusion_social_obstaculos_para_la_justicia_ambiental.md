@@ -1,10 +1,10 @@
 ---
-title: Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental
+title: "Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental"
 layout: page
 permalink: /maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental/
 ---
 
-
+## En CDMX
 
 | Entidad | 3 |
 | Clave | 73829 |
@@ -20,7 +20,7 @@ Créditos | 8 |
 
 
 
-### Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental
+# En ENES Morelia
 
 | Entidad | 700 |
 | Clave | 73829 |
