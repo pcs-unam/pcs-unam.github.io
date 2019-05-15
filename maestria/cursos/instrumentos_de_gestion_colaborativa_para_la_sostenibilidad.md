@@ -4,6 +4,7 @@ layout: page
 permalink: /maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/
 ---
 
+## En CDMX
 
 | Entidad | 3 |
 | Clave | 73822 |
@@ -17,8 +18,6 @@ permalink: /maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sosteni
 | Descargables | [Programa](/assets/docs/cursos/instrumentos_gestion_colavorativa.pdf) |
 
 
-### Instrumentos de gestión colaborativa para la sostenibilidad
-
 | Entidad | 3 |
 | Clave | 73831 |
 | Grupo | 0001 |
@@ -31,7 +30,7 @@ permalink: /maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sosteni
 | Descargables |  [Programa](/assets/docs/cursos/instrumentos_gestion_colavorativa.pdf) |
 
 
-### Instrumentos de gestión colaborativa para la sostenibilidad
+## En IIES
 
 | Entidad | 700 |
 | Clave | 73822 |
@@ -44,8 +43,6 @@ permalink: /maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sosteni
 | Contacto | <tuyeni@cieco.unam.mx> |
 | Descargables |  [Programa](/assets/docs/cursos/instrumentos_gestion_colavorativa.pdf) |
 
-
-### Instrumentos de gestión colaborativa para la sostenibilidad
 
 | Entidad | 700 |
 | Clave | 73831 |

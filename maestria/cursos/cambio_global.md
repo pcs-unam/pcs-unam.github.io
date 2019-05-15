@@ -4,7 +4,7 @@ layout: page
 permalink: /maestria/cursos/cambio_global/
 ---
 
-
+## En CDMX
 
 | Entidad | 3 |
 | Clave | 73830 |
@@ -19,7 +19,7 @@ permalink: /maestria/cursos/cambio_global/
 
 
 
-### Cambio global
+## En IIES
 
 | Entidad | 700 |
 | Clave | 73830 |

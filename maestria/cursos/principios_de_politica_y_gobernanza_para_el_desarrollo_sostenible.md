@@ -4,7 +4,7 @@ layout: page
 permalink: /maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible/
 ---
 
-
+## En CDMX
 
 | Entidad | 3 |
 | Clave | 73820 |
@@ -19,7 +19,7 @@ permalink: /maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrol
 
 
 
-### Principios de política y gobernanza para el desarrollo sostenible
+## En ENES Morelia
 
 | Entidad | 700 |
 | Clave | 73820 |

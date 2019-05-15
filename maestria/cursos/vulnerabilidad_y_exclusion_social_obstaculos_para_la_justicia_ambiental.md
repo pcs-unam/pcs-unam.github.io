@@ -33,9 +33,3 @@ Créditos | 8 |
 | Contacto | <frida.ciga@gmail.com> |
 | Descargables |  [Programa](/assets/docs/cursos/vulnerabilidad_exclusion_social_obstaculos_justica_ambiental.pdf) |
 
-
-
-
-## Cursos optativos semestrales
-
-

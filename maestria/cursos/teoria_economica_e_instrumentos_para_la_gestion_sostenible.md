@@ -4,7 +4,7 @@ layout: page
 permalink: /maestria/cursos/teoria_economica_e_instrumentos_para_la_gestion_sostenible/
 ---
 
-
+## En CDMX
 
 | Entidad | 3 |
 | Clave | 73821 |
@@ -18,7 +18,7 @@ permalink: /maestria/cursos/teoria_economica_e_instrumentos_para_la_gestion_sost
 | Descargables |  [Programa](/assets/docs/cursos/teoria_economica_instrumentos_gestion_sost.pdf) |
 
 
-### Teoría económica e instrumentos para la gestión sostenible
+## En IIES
 
 | Entidad | 700 |
 | Clave | 73821 |
