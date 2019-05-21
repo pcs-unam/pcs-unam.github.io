@@ -29,25 +29,25 @@ durante el periodo de inscripciones 2019-2
 ## Cursos por campo de conocimiento en la Ciudad de México
 
 
-### Contextos urbanos
+#### Contextos urbanos
 
  - [Bienestar, derechos urbanos y sostenibilidad](/maestria/cursos/bienestar_derechos_urbanos_y_sostenibilidad/)
  - [Escalas socio-territoriales y sostenibilidad](/maestria/cursos/escalas_socio-territoriales_y_sostenibilidad/)
  - [Políticas públicas, prácticas sociales y soluciones urbanas sostenibles](/maestria/cursos/politicas_publicas_practicas_sociales_y_soluciones_urbanas_sostenibles/)
  
- ### Política, Gobernanza e Instituciones
+#### Política, Gobernanza e Instituciones
  
  - [Principios de política y gobernanza para el desarrollo sostenible](/maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible/)
  - [Teoría económica e instrumentos para la gestión sostenible](/maestria/cursos/teoria_economica_e_instrumentos_para_la_gestion_sostenible/)
  - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
  
- ### Vulnerabilidad y respuesta al cambio global
+#### Vulnerabilidad y respuesta al cambio global
  
  - [Cambio global](/maestria/cursos/cambio_global/)
  - [Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental](/maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental/)
   - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
   
-  ### Restauración ambiental
+ #### Restauración ambiental
   
  - [Sociedad, economía y legislación ambiental](/maestria/cursos/sociedad_economia_y_legislacion_ambiental/)
  - [Elementos básicos de ciencia aplicados a restauración](/maestria/cursos/elementos_basicos_de_ciencia_aplicados_a_restauracion/)
@@ -56,13 +56,13 @@ durante el periodo de inscripciones 2019-2
 
 ## Cursos por campo de conocimiento en Morelia
 
-### Política, Gobernanza e Instituciones
+#### Política, Gobernanza e Instituciones
 
  - [Principios de política y gobernanza para el desarrollo sostenible](/maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible/)
  - [Teoría económica e instrumentos para la gestión sostenible](/maestria/cursos/teoria_economica_e_instrumentos_para_la_gestion_sostenible/)
  - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
  
- ### Vulnerabilidad y respuesta al cambio global
+#### Vulnerabilidad y respuesta al cambio global
  
  - [Cambio global](/maestria/cursos/cambio_global/)
  - [Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental](/maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental/)
@@ -74,15 +74,15 @@ durante el periodo de inscripciones 2019-2
  - [Teoría Social para el Análisis Ambiental](/maestria/cursos/teoria_social_para_el_analisis_ambiental/)
  - [Estadística y modelación matemática de sistemas socioecológicos en R](/maestria/cursos/estadistica_y_modelacion_matematica_de_sistemas_socioecologicos_en_r/)
  
- Sólo se podrán registrar alumnos del Doctorado en Ciencias de la Sostenibilidad.
- - [Seminario de doctorado: diseño y escritura de propuestas de investigación en temas de sostenibilidad](/maestria/cursos/seminario_de_doctorado_diseno_y_escritura_de_propuestas_de_investigacion_en_temas_de_sostenibilidad/)
+ 
+ - [Seminario de doctorado: diseño y escritura de propuestas de investigación en temas de sostenibilidad](/maestria/cursos/seminario_de_doctorado_diseno_y_escritura_de_propuestas_de_investigacion_en_temas_de_sostenibilidad/). A este seminario sólo se podrán registrar alumnos del Doctorado en Ciencias de la Sostenibilidad.
 
 
-## Sesiones de tutoria
+## Sesiones de tutoría
 
 
- - [Sesiones de tutoria I](/maestria/cursos/sesiones_de_tutoria_i/)
- - [Sesiones de tutoria II](/maestria/cursos/sesiones_de_tutoria_ii/)
+ - [Sesiones de tutoría I](/maestria/cursos/sesiones_de_tutoria_i/)
+ - [Sesiones de tutoría II](/maestria/cursos/sesiones_de_tutoria_ii/)
  - [Actividades para la obtención del grado](/maestria/cursos/actividades_para_la_obtencion_del_grado/)
 
 
