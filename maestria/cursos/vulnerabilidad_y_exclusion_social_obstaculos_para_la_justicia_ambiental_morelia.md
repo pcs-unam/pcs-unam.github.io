@@ -5,8 +5,6 @@ permalink: /maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la
 ---
 
 
-# En ENES Morelia
-
 | Entidad | 700 |
 | Clave | 73829 |
 | Grupo | 0001 |
