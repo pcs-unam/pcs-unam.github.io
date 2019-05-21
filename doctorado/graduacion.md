@@ -114,7 +114,7 @@ Los jurados de Doctorado se deben conformar por dos miembros del
 comité tutor siempre y cuando no sea el tutor principal o el cotutor.
 Puede haber hasta dos sinodales externos no acreditados como tutores 
 del Posgrado. En caso de no estar acreditados, se deberá justificar 
-la importancia de su participación en el jurado y enviar su curriculum vitae 
+la importancia de su participación en el jurado y enviar su *curriculum vitae* 
 a <sostenibilidad@posgrado.unam.mx>.
 
 
