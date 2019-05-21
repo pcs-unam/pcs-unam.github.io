@@ -6,8 +6,7 @@ permalink: /maestria/cursos/
 ---
 
 
-El semestre 2019-2 inicia el 28 de enero, oficialmente las actividades
-académicas terminan el 8 de junio, considerando dos semanas de
+El semestre 2019-2 inicia el 28 de enero y termina el 8 de junio, considerando dos semanas de
 evaluaciones y exámenes tutorales.
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
