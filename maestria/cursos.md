@@ -38,7 +38,7 @@ durante el periodo de inscripciones 2019-2
  
  - [Principios de política y gobernanza para el desarrollo sostenible](/maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible_cdmx/)
  - [Teoría económica e instrumentos para la gestión sostenible](/maestria/cursos/teoria_economica_e_instrumentos_para_la_gestion_sostenible_cdmx/)
- - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
+ - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad_cdmx/)
  
 #### Vulnerabilidad y respuesta al cambio global
  
@@ -65,7 +65,7 @@ durante el periodo de inscripciones 2019-2
  
  - [Cambio global](/maestria/cursos/cambio_global_morelia/)
  - [Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental](/maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental/)
- - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
+ - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad_morelia/)
 
 
 ## Cursos optativos semestrales
