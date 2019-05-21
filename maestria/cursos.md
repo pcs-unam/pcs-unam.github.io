@@ -42,7 +42,7 @@ durante el periodo de inscripciones 2019-2
  
 #### Vulnerabilidad y respuesta al cambio global
  
- - [Cambio global](/maestria/cursos/cambio_global/)
+ - [Cambio global](/maestria/cursos/cambio_global_cdmx/)
  - [Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental](/maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental/)
   - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
   
@@ -63,7 +63,7 @@ durante el periodo de inscripciones 2019-2
  
 #### Vulnerabilidad y respuesta al cambio global
  
- - [Cambio global](/maestria/cursos/cambio_global/)
+ - [Cambio global](/maestria/cursos/cambio_global_morelia/)
  - [Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental](/maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental/)
  - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
 
