@@ -36,7 +36,7 @@ durante el periodo de inscripciones 2019-2
  
 #### Política, Gobernanza e Instituciones
  
- - [Principios de política y gobernanza para el desarrollo sostenible](/maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible/)
+ - [Principios de política y gobernanza para el desarrollo sostenible](/maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible_cdmx/)
  - [Teoría económica e instrumentos para la gestión sostenible](/maestria/cursos/teoria_economica_e_instrumentos_para_la_gestion_sostenible/)
  - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
  
@@ -57,7 +57,7 @@ durante el periodo de inscripciones 2019-2
 
 #### Política, Gobernanza e Instituciones
 
- - [Principios de política y gobernanza para el desarrollo sostenible](/maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible/)
+ - [Principios de política y gobernanza para el desarrollo sostenible](/maestria/cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible_morelia/)
  - [Teoría económica e instrumentos para la gestión sostenible](/maestria/cursos/teoria_economica_e_instrumentos_para_la_gestion_sostenible/)
  - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
  
