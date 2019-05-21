@@ -47,7 +47,7 @@ durante el periodo de inscripciones 2019-2
  - [Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental](/maestria/cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental/)
   - [Instrumentos de gestión colaborativa para la sostenibilidad](/maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad/)
   
- #### Restauración ambiental
+#### Restauración ambiental
   
  - [Sociedad, economía y legislación ambiental](/maestria/cursos/sociedad_economia_y_legislacion_ambiental/)
  - [Elementos básicos de ciencia aplicados a restauración](/maestria/cursos/elementos_basicos_de_ciencia_aplicados_a_restauracion/)
@@ -73,8 +73,6 @@ durante el periodo de inscripciones 2019-2
 
  - [Teoría Social para el Análisis Ambiental](/maestria/cursos/teoria_social_para_el_analisis_ambiental/)
  - [Estadística y modelación matemática de sistemas socioecológicos en R](/maestria/cursos/estadistica_y_modelacion_matematica_de_sistemas_socioecologicos_en_r/)
- 
- 
  - [Seminario de doctorado: diseño y escritura de propuestas de investigación en temas de sostenibilidad](/maestria/cursos/seminario_de_doctorado_diseno_y_escritura_de_propuestas_de_investigacion_en_temas_de_sostenibilidad/). A este seminario sólo se podrán registrar alumnos del Doctorado en Ciencias de la Sostenibilidad.
 
 
