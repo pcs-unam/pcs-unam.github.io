@@ -12,7 +12,6 @@ problemas que obstruyen el tránsito hacia el desarrollo sostenible. En particul
 tendrán una sólida formación transdisciplinaria y serán capaces de planear, analizar, proponer e
 implementar exitosamente políticas y proyectos sostenibles.
 
- - [Cursos y horarios](/maestria/cursos/)
  - [Plan de estudios](/assets/docs/plan-maestria.pdf)
  - [Normas operativas](/assets/docs/normas_operativas.pdf)
  - [Campos de conocimiento](/maestria/campos)
