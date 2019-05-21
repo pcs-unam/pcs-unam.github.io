@@ -6,7 +6,7 @@ permalink: /maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sosteni
 
 
 | Entidad | 700 |
-| Clave | 73822 (Política, Gobernanza e Instituciones, 73831 (Vulnerabilidad y respuesta al cambio global) |
+| Clave | 73822 (Política, Gobernanza e Instituciones) / 73831 (Vulnerabilidad y respuesta al cambio global) |
 | Grupo | 0001 |
 | Créditos | 8 |
 | Campo de Conocimiento | Política, Gobernanza e Instituciones / Vulnerabilidad y respuesta al cambio global |
