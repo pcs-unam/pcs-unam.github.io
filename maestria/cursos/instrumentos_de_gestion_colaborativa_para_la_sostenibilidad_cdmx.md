@@ -6,10 +6,10 @@ permalink: /maestria/cursos/instrumentos_de_gestion_colaborativa_para_la_sosteni
 
 
 | Entidad | 3 |
-| Clave | 73822/73831 |
+| Clave | 73822 (Política, Gobernanza e Instituciones, 73831 (Vulnerabilidad y respuesta al cambio global) |
 | Grupo | 0001 |
 | Créditos | 8 |
-| Campo de Conocimiento | Política, Gobernanza e Instituciones/Vulnerabilidad y respuesta al cambio global |
+| Campo de Conocimiento | Política, Gobernanza e Instituciones / Vulnerabilidad y respuesta al cambio global |
 | Profesores | Dra. Carmen Legorreta |
 | Sede | Unidad Posgrado, aula&nbsp; F-201 |
 | Horario | Lunes de 16:00 a 20:00 horas |
