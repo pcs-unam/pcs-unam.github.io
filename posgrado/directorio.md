@@ -7,7 +7,7 @@ permalink: /posgrado/directorio/
 
 # Coordinadora
 
-Dra. Marisa Mazari Hiriart
+Dr. Alonso Aguilar Ibarra
 
 5623-7012
 
