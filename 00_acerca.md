@@ -7,7 +7,7 @@ menu: true
 ---
 
  - [Directorio](/posgrado/directorio)
- - [Calendario de actividades](/posgrado/calendario2)
+ - [Calendario de actividades](/posgrado/calendario1)
  - [Calendario escolar](https://www.dgae.unam.mx/calendarios_escolares.html)
  - [Entidades](/posgrado/entidades)
  - [Ubicación](/posgrado/ubicacion)
