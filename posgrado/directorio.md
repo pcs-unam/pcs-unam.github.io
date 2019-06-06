@@ -5,7 +5,7 @@ permalink: /posgrado/directorio/
 ---
 
 
-# Coordinadora
+# Coordinador
 
 Dr. Alonso Aguilar Ibarra
 
