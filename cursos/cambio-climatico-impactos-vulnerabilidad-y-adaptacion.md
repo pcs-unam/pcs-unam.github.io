@@ -1,5 +1,5 @@
 ---
-title: "Cambio climático:: impactos, vulnerabilidad y adaptación"
+title: "Cambio climático: impactos, vulnerabilidad y adaptación"
 layout: page
 permalink: /cursos/cambio-climatico-impactos-vulnerabilidad-y-adaptacion/
 ---
@@ -15,3 +15,4 @@ permalink: /cursos/cambio-climatico-impactos-vulnerabilidad-y-adaptacion/
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<conde@unam.mx>|
+|Descargable|[Programa](cambio_climatico_impactos.pdf)|

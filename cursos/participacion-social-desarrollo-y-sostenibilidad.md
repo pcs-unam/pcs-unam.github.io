@@ -15,3 +15,4 @@ permalink: /cursos/participacion-social-desarrollo-y-sostenibilidad/
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<ayaripasquier@gmail.com>, <ayari.pasquier@unam.mx>, <alejandra.fonseca@unam.mx> |
+|Descargable|[Programa](participacion_social_desarrollo-y-sostenibilidad.pdf)|

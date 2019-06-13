@@ -15,3 +15,4 @@ permalink: /cursos/multiples-miradas-desde-las-ciencias-sociales-a-la-restauraci
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<rmdiazm@correo.crim.unam.mx>|
+|Descargable|[Programa](multiples-miradas-desde-las-ciencias-sociales-a-la-restauracion-ecologica-claves-para-la-construccion-de-dialogos-transdisciplinarios.pdf)|

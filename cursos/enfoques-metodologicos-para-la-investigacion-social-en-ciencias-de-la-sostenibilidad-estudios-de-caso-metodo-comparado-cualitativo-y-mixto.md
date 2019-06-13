@@ -15,3 +15,4 @@ permalink: /cursos/enfoques-metodologicos-para-la-investigacion-social-en-cienci
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<itzaben@gmail.com>, <g_cabestruiz@hotmail.com>|
+|Descargable|[Programa](enfoques-metodologicos-para-la-investigacion-social-en-ciencias-de-la-sostenibilidad-estudios-de-caso-metodo-comparado-cualitativo-y-mixto.pdf)|

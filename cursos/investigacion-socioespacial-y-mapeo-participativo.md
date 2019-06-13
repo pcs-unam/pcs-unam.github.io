@@ -15,3 +15,4 @@ permalink: /cursos/investigacion-socioespacial-y-mapeo-participativo/
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<fabiola.gress.carrasco1@gmail.com>|
+|Descargable|[Programa](investigacion-socioespacial-y-mapeo-participativo.pdf)|

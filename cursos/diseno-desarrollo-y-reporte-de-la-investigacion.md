@@ -15,3 +15,4 @@ permalink: /cursos/diseno-desarrollo-y-reporte-de-la-investigacion/
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<ptorres@correo.xoc.uam.mx>|
+|Descargable|[Programa](disenio-desarrollo-reporte.pdf)|

@@ -15,3 +15,4 @@ permalink: /cursos/escasez-desarrollo-y-ecologia-s-politica-s-reflexiones-antrop
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<mmorales@enesmorelia.unam.mx> |
+|Descargable|[Programa](escasez-desarrollo-y-ecologia-s-politica-s-reflexiones-antropologicas-para-pensar-la-socionaturaleza.pdf)|

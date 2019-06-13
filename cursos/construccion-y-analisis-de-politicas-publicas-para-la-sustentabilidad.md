@@ -15,3 +15,4 @@ permalink: /cursos/construccion-y-analisis-de-politicas-publicas-para-la-sustent
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<loyola@unam.mx>, <maria.zorrilla@ibero.mx>|
+|Descargable|[Programa](construccion-y-analisis-de-politicas-publicas-para-la-sustentabilidad.pdf)|

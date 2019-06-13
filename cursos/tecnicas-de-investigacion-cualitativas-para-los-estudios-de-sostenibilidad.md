@@ -15,3 +15,4 @@ permalink: /cursos/tecnicas-de-investigacion-cualitativas-para-los-estudios-de-s
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<aliciamjb@hotmail.com>|
+|Descargable|[Programa](tecnicas-de-investigacion-cualitativas-para-los-estudios-de-sostenibilidad.pdf)|

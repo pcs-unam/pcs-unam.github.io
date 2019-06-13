@@ -15,3 +15,4 @@ permalink: /cursos/ciudad-economia-y-medio-ambiente/
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<eperez@igg.unam.mx>|
+|Descargable|[Programa](ciudad-economia-y-medio-ambiente.pdf)|

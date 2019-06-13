@@ -15,3 +15,4 @@ permalink: /cursos/elementos-para-la-gobernanza-de-los-socioecosistemas-accion-c
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<merino@sociales.unam.mx>, <merinoleticia@gmail.com>|
+|Descargable|[Programa](elementos-para-la-gobernanza-de-los-socioecosistemas-accion-colectiva-y-bienes-comunes.pdf)|

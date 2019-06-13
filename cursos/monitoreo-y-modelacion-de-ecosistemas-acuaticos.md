@@ -15,3 +15,4 @@ permalink: /cursos/monitoreo-y-modelacion-de-ecosistemas-acuaticos/
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<fpascualr@iies.unam.mx>|
+|Descargable|[Programa](monitoreo_y_modelacion_de_ecosistemas_acuaticos.pdf)|

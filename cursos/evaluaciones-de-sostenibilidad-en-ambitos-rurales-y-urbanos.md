@@ -15,3 +15,4 @@ permalink: /cursos/evaluaciones-de-sostenibilidad-en-ambitos-rurales-y-urbanos/
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|Ana Clara Pla: <acpla@agro.uba.ar> y Esperanza Arnés: <earnes@ciga.unam.mx>|
+|Descargable|[Programa](evaluaciones_sostenibilidad_rurales_urbanos.pdf)|

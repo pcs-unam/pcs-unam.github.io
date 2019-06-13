@@ -15,3 +15,4 @@ permalink: /cursos/cambio-global-impacto-y-respuesta-de-los-ecosistemas/
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<ibarrola@igg.unam.mx>, <lgalicia@igg.unam.mx>, <melanesien@gmail.com>|
+|Descargable|[Programa](cambio-global-impacto.pdf)|

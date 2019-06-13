@@ -15,3 +15,4 @@ permalink: /cursos/economia-ecologica-y-sostenibilidad-el-caso-de-la-cuenca-de-m
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<nancy.arizpe@gmail.com>|
+|Descargable|[Descargable|[Programa(](economia_ecologica.pdf))|
