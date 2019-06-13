@@ -1,5 +1,5 @@
 ---
-title: Teoría Social para el Análisis Ambiental
+title: "Teoría Social para el Análisis Ambiental"
 layout: page
 permalink: /cursos/teoria_social_para_el_analisis_ambiental/
 ---

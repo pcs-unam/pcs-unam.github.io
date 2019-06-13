@@ -1,5 +1,5 @@
 ---
-title: Bienestar, derechos urbanos y sostenibilidad
+title: "Bienestar, derechos urbanos y sostenibilidad"
 layout: page
 permalink: /cursos/bienestar_derechos_urbanos_y_sostenibilidad/
 ---

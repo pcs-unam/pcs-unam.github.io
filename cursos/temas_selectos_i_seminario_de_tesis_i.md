@@ -1,5 +1,5 @@
 ---
-title: Temas Selectos I Seminario de Tesis I
+title: "Temas Selectos I Seminario de Tesis I"
 layout: page
 permalink: /cursos/temas_selectos_i_seminario_de_tesis_i/
 ---

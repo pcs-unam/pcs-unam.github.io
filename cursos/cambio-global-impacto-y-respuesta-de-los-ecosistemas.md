@@ -1,5 +1,5 @@
 ---
-title: Cambio Global: impacto y respuesta de los ecosistemas
+title: "Cambio Global: impacto y respuesta de los ecosistemas"
 layout: page
 permalink: /cursos/cambio-global-impacto-y-respuesta-de-los-ecosistemas/
 ---

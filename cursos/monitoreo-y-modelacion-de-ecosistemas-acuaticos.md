@@ -1,5 +1,5 @@
 ---
-title: Monitoreo y Modelación de Ecosistemas Acuáticos
+title: "Monitoreo y Modelación de Ecosistemas Acuáticos"
 layout: page
 permalink: /cursos/monitoreo-y-modelacion-de-ecosistemas-acuaticos/
 ---

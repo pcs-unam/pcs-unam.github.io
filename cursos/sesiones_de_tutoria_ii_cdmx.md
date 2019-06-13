@@ -1,5 +1,5 @@
 ---
-title: Sesiones de tutoría II
+title: "Sesiones de tutoría II"
 layout: page
 permalink: /cursos/sesiones_de_tutoria_ii_cdmx/
 ---

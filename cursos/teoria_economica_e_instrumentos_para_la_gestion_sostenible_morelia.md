@@ -1,5 +1,5 @@
 ---
-title: Teoría económica e instrumentos para la gestión sostenible
+title: "Teoría económica e instrumentos para la gestión sostenible"
 layout: page
 permalink: /cursos/teoria_economica_e_instrumentos_para_la_gestion_sostenible_morelia/
 ---

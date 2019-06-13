@@ -1,9 +1,8 @@
 ---
-title: "Seminario de doctorado: diseño y escritura de propuestas de investigación en temas de sostenibilidad"
+title: "Seminario de doctorado:: diseño y escritura de propuestas de investigación en temas de sostenibilidad"
 layout: page
 permalink: /cursos/seminario_de_doctorado_diseno_y_escritura_de_propuestas_de_investigacion_en_temas_de_sostenibilidad/
 ---
-
 
 
 | Entidad | &nbsp; |

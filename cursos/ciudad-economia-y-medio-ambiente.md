@@ -1,5 +1,5 @@
 ---
-title: Ciudad, Economía y Medio Ambiente
+title: "Ciudad, Economía y Medio Ambiente"
 layout: page
 permalink: /cursos/ciudad-economia-y-medio-ambiente/
 ---

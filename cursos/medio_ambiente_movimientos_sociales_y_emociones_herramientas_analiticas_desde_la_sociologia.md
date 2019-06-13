@@ -1,5 +1,5 @@
 ---
-title: "Medio ambiente, movimientos sociales y emociones: herramientas analíticas desde la sociología"
+title: "Medio ambiente, movimientos sociales y emociones:: herramientas analíticas desde la sociología"
 layout: page
 permalink: /cursos/medio_ambiente_movimientos_sociales_y_emociones_herramientas_analiticas_desde_la_sociologia/
 ---

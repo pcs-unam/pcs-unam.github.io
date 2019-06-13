@@ -1,5 +1,5 @@
 ---
-title: Elementos para la gobernanza de los socioecosistemas. Acción colectiva y bienes comunes
+title: "Elementos para la gobernanza de los socioecosistemas. Acción colectiva y bienes comunes"
 layout: page
 permalink: /cursos/elementos-para-la-gobernanza-de-los-socioecosistemas-accion-colectiva-y-bienes-comunes/
 ---

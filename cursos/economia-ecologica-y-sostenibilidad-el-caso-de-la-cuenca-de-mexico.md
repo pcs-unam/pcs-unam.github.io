@@ -1,5 +1,5 @@
 ---
-title: Economía ecológica y sostenibilidad: el caso de la Cuenca de México
+title: "Economía ecológica y sostenibilidad: el caso de la Cuenca de México"
 layout: page
 permalink: /cursos/economia-ecologica-y-sostenibilidad-el-caso-de-la-cuenca-de-mexico/
 ---

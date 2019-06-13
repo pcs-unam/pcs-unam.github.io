@@ -1,5 +1,5 @@
 ---
-title: Cambio climático: impactos, vulnerabilidad y adaptación
+title: "Cambio climático:: impactos, vulnerabilidad y adaptación"
 layout: page
 permalink: /cursos/cambio-climatico-impactos-vulnerabilidad-y-adaptacion/
 ---

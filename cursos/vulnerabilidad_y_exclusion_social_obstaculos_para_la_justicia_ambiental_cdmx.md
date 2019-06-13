@@ -1,5 +1,5 @@
 ---
-title: "Vulnerabilidad y exclusión social: obstáculos para la justicia ambiental"
+title: "Vulnerabilidad y exclusión social:: obstáculos para la justicia ambiental"
 layout: page
 permalink: /cursos/vulnerabilidad_y_exclusion_social_obstaculos_para_la_justicia_ambiental_cdmx/
 ---

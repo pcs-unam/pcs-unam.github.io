@@ -1,5 +1,5 @@
 ---
-title: Estadística y modelación matemática de sistemas socioecológicos en R
+title: "Estadística y modelación matemática de sistemas socioecológicos en R"
 layout: page
 permalink: /cursos/estadistica_y_modelacion_matematica_de_sistemas_socioecologicos_en_r/
 ---

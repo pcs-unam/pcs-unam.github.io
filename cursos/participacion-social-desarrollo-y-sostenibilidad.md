@@ -1,5 +1,5 @@
 ---
-title: Participación social, desarrollo y sostenibilidad
+title: "Participación social, desarrollo y sostenibilidad"
 layout: page
 permalink: /cursos/participacion-social-desarrollo-y-sostenibilidad/
 ---

@@ -1,5 +1,5 @@
 ---
-title: Diseño y tecnologías para la arquitectura sostenible
+title: "Diseño y tecnologías para la arquitectura sostenible"
 layout: page
 permalink: /cursos/diseno-y-tecnologias-para-la-arquitectura-sostenible/
 ---

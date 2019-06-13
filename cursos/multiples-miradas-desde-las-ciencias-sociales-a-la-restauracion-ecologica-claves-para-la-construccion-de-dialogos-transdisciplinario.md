@@ -1,5 +1,5 @@
 ---
-title: Múltiples miradas desde las ciencias sociales a la restauración ecológica: claves para la construcción de diálogos transdisciplinarios
+title: "Múltiples miradas desde las ciencias sociales a la restauración ecológica: claves para la construcción de diálogos transdisciplinarios"
 layout: page
 permalink: /cursos/multiples-miradas-desde-las-ciencias-sociales-a-la-restauracion-ecologica-claves-para-la-construccion-de-dialogos-transdisciplinarios
 ---

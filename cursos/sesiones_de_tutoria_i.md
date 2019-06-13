@@ -1,5 +1,5 @@
 ---
-title: Sesiones de tutoria I
+title: "Sesiones de tutoria I"
 layout: page
 permalink: /cursos/sesiones_de_tutoria_i/
 ---

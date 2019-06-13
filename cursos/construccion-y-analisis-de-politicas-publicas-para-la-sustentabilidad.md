@@ -1,5 +1,5 @@
 ---
-title: Construcción y análisis de políticas públicas para la sustentabilidad
+title: "Construcción y análisis de políticas públicas para la sustentabilidad"
 layout: page
 permalink: /cursos/construccion-y-analisis-de-politicas-publicas-para-la-sustentabilidad/
 ---

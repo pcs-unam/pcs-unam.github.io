@@ -1,5 +1,5 @@
 ---
-title: Evaluaciones de sostenibilidad en ámbitos rurales y urbanos
+title: "Evaluaciones de sostenibilidad en ámbitos rurales y urbanos"
 layout: page
 permalink: /cursos/evaluaciones-de-sostenibilidad-en-ambitos-rurales-y-urbanos/
 ---

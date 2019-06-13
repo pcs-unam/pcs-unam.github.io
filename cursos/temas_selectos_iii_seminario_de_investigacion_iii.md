@@ -1,5 +1,5 @@
 ---
-title: Temas Selectos III Seminario de Investigación III
+title: "Temas Selectos III Seminario de Investigación III"
 layout: page
 permalink: /cursos/temas_selectos_iii_seminario_de_investigacion_iii/
 ---

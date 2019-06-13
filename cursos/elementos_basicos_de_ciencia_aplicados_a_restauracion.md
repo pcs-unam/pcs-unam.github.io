@@ -1,5 +1,5 @@
 ---
-title: Elementos básicos de ciencia aplicados a restauración
+title: "Elementos básicos de ciencia aplicados a restauración"
 layout: page
 permalink: /cursos/elementos_basicos_de_ciencia_aplicados_a_restauracion/
 ---

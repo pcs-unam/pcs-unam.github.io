@@ -1,5 +1,5 @@
 ---
-title: Escasez, desarrollo y ecología(s) política(s). Reflexiones antropológicas para pensar la socionaturaleza
+title: "Escasez, desarrollo y ecología(s) política(s). Reflexiones antropológicas para pensar la socionaturaleza"
 layout: page
 permalink: /cursos/escasez-desarrollo-y-ecologia-s-politica-s-reflexiones-antropologicas-para-pensar-la-socionaturaleza/
 ---

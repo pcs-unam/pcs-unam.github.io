@@ -1,5 +1,5 @@
 ---
-title: Ecosistemas de México y restauración
+title: "Ecosistemas de México y restauración"
 layout: page
 permalink: /cursos/ecosistemas_de_mexico_y_restauracion/
 ---

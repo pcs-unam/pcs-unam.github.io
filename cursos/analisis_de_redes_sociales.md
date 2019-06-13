@@ -1,5 +1,5 @@
 ---
-title: Análisis de redes sociales
+title: "Análisis de redes sociales"
 layout: page
 permalink: /cursos/analisis_de_redes_sociales/
 ---

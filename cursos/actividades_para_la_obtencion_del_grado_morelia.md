@@ -1,5 +1,5 @@
 ---
-title: Actividades para la obtención del grado
+title: "Actividades para la obtención del grado"
 layout: page
 permalink: /cursos/actividades_para_la_obtencion_del_grado_morelia/
 ---

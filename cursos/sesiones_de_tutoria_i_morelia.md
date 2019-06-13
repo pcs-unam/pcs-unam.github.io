@@ -1,5 +1,5 @@
 ---
-title: Sesiones de tutoría I
+title: "Sesiones de tutoría I"
 layout: page
 permalink: /cursos/sesiones_de_tutoria_i_morelia/
 ---

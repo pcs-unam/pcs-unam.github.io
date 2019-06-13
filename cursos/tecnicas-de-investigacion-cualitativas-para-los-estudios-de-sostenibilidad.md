@@ -1,5 +1,5 @@
 ---
-title: Técnicas de investigación cualitativas para los estudios de sostenibilidad
+title: "Técnicas de investigación cualitativas para los estudios de sostenibilidad"
 layout: page
 permalink: /cursos/tecnicas-de-investigacion-cualitativas-para-los-estudios-de-sostenibilidad/
 ---

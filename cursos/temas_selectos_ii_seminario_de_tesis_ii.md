@@ -1,5 +1,5 @@
 ---
-title: Temas Selectos II Seminario de Tesis II
+title: "Temas Selectos II Seminario de Tesis II"
 layout: page
 permalink: /cursos/temas_selectos_ii_seminario_de_tesis_ii/
 ---

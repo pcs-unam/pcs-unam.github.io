@@ -1,5 +1,5 @@
 ---
-title: Enfoques metodológicos para la investigación social en ciencias de la sostenibilidad (estudios de caso, método comparado, cualitativo y mixto)
+title: "Enfoques metodológicos para la investigación social en ciencias de la sostenibilidad (estudios de caso, método comparado, cualitativo y mixto)"
 layout: page
 permalink: /cursos/enfoques-metodologicos-para-la-investigacion-social-en-ciencias-de-la-sostenibilidad-estudios-de-caso-metodo-comparado-cualitativo-y-mixto/
 ---

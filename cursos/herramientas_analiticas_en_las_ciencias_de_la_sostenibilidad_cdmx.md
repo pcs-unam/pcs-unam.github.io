@@ -1,5 +1,5 @@
 ---
-title: Herramientas analíticas en las ciencias de la sostenibilidad
+title: "Herramientas analíticas en las ciencias de la sostenibilidad"
 layout: page
 permalink: /cursos/herramientas_analiticas_en_las_ciencias_de_la_sostenibilidad_cdmx/
 ---

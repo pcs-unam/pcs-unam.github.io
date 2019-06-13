@@ -1,5 +1,5 @@
 ---
-title: Temas Selectos I Seminario de Investigación I
+title: "Temas Selectos I Seminario de Investigación I"
 layout: page
 permalink: /cursos/temas_selectos_i_seminario_de_investigacion_i/
 ---

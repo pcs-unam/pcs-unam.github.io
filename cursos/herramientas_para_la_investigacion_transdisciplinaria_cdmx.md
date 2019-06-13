@@ -1,5 +1,5 @@
 ---
-title: Herramientas para la investigación transdisciplinaria
+title: "Herramientas para la investigación transdisciplinaria"
 layout: page
 permalink: /cursos/herramientas_para_la_investigacion_transdisciplinaria_cdmx/
 ---

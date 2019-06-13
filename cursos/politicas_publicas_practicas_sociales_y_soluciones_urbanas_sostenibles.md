@@ -1,5 +1,5 @@
 ---
-title: Políticas públicas, prácticas sociales y soluciones urbanas sostenibles
+title: "Políticas públicas, prácticas sociales y soluciones urbanas sostenibles"
 layout: page
 permalink: /cursos/politicas_publicas_practicas_sociales_y_soluciones_urbanas_sostenibles/
 ---

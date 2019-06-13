@@ -1,5 +1,5 @@
 ---
-title: Principios de sostenibilidad
+title: "Principios de sostenibilidad"
 layout: page
 permalink: /cursos/principios_de_sostenibilidad_morelia/
 ---

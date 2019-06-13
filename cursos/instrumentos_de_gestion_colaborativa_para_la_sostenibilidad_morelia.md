@@ -1,5 +1,5 @@
 ---
-title: Instrumentos de gestión colaborativa para la sostenibilidad
+title: "Instrumentos de gestión colaborativa para la sostenibilidad"
 layout: page
 permalink: /cursos/instrumentos_de_gestion_colaborativa_para_la_sostenibilidad_morelia/
 ---

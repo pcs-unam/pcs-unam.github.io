@@ -1,5 +1,5 @@
 ---
-title: Diseño, desarrollo y reporte de la investigación
+title: "Diseño, desarrollo y reporte de la investigación"
 layout: page
 permalink: /cursos/diseno-desarrollo-y-reporte-de-la-investigacion/
 ---

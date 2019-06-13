@@ -1,5 +1,5 @@
 ---
-title: Evaluación de la sostenibilidad con enfoque de ciclo de vida
+title: "Evaluación de la sostenibilidad con enfoque de ciclo de vida"
 layout: page
 permalink: /cursos/evaluacion_de_la_sostenibilidad_con_enfoque_de_ciclo_de_vida/
 ---

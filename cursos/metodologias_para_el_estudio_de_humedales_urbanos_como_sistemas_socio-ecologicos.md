@@ -1,5 +1,5 @@
 ---
-title: Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos
+title: "Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos"
 layout: page
 permalink: /cursos/metodologias_para_el_estudio_de_humedales_urbanos_como_sistemas_socio-ecologicos/
 ---

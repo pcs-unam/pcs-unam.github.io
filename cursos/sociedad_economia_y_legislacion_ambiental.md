@@ -1,5 +1,5 @@
 ---
-title: Sociedad, economía y legislación ambiental
+title: "Sociedad, economía y legislación ambiental"
 layout: page
 permalink: /cursos/sociedad_economia_y_legislacion_ambiental/
 ---

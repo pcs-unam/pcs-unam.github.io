@@ -1,5 +1,5 @@
 ---
-title: Principios de política y gobernanza para el desarrollo sostenible
+title: "Principios de política y gobernanza para el desarrollo sostenible"
 layout: page
 permalink: /cursos/principios_de_politica_y_gobernanza_para_el_desarrollo_sostenible_cdmx/
 ---

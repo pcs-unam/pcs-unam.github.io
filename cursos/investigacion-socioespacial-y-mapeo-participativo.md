@@ -1,5 +1,5 @@
 ---
-title: Investigación socioespacial y mapeo participativo
+title: "Investigación socioespacial y mapeo participativo"
 layout: page
 permalink: /cursos/investigacion-socioespacial-y-mapeo-participativo/
 ---

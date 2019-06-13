@@ -1,5 +1,5 @@
 ---
-title: Cambio global
+title: "Cambio global"
 layout: page
 permalink: /cursos/cambio_global_cdmx/
 ---
