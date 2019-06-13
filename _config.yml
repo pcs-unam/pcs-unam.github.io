@@ -30,7 +30,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+
+
+#  - jekyll-feed
+
+#feed:
+#  collections:
+#    - changes
 
 show_excerpts: true
 
@@ -45,6 +51,19 @@ show_excerpts: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+menu:
+    Acerca del Posgrado: "/posgrado/"
+    Aspirantes: "/aspirantes/"
+    Maestría: "/maestria/"
+    Doctorado: "/doctorado/"
+    Comité Académico: "/comite/"
+    Apoyos: "/apoyos/"
+    Publicaciones: "/publicaciones/"
+    Cursos y horarios: "/cursos/"
+    Tutores: "/tutores/"
+    Sistema: "https://sostenibilidad.posgrado.unam.mx/siges"
 
 
 # menu:
