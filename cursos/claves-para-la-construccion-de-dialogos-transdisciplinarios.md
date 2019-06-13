@@ -1,7 +1,7 @@
 ---
 title: "Múltiples miradas desde las ciencias sociales a la restauración ecológica: claves para la construcción de diálogos transdisciplinarios"
 layout: page
-permalink: /cursos/multiples-miradas-desde-las-ciencias-sociales-a-la-restauracion-ecologica-claves-para-la-construccion-de-dialogos-transdisciplinarios
+permalink: /cursos/claves-para-la-construccion-de-dialogos-transdisciplinarios/
 ---
 
 |Entidad||
@@ -15,4 +15,4 @@ permalink: /cursos/multiples-miradas-desde-las-ciencias-sociales-a-la-restauraci
 ||Optativo|
 |Semestre|2020-1|
 |Contacto|<rmdiazm@correo.crim.unam.mx>|
-|Descargable|[Programa](multiples-miradas-desde-las-ciencias-sociales-a-la-restauracion-ecologica-claves-para-la-construccion-de-dialogos-transdisciplinarios.pdf)|
+|Descargable|[Programa](claves-para-la-construccion-de-dialogos-transdisciplinarios.pdf)|

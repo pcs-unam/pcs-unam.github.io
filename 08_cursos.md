@@ -90,7 +90,7 @@ durante el periodo de inscripciones 2019-2
  - [Evaluaciones de sostenibilidad en ámbitos rurales y urbanos](/cursos/evaluaciones-de-sostenibilidad-en-ambitos-rurales-y-urbanos/)
  - [Investigación socioespacial y mapeo participativo](/cursos/investigacion-socioespacial-y-mapeo-participativo/)
  - [Monitoreo y Modelación de Ecosistemas Acuáticos](/cursos/monitoreo-y-modelacion-de-ecosistemas-acuaticos/)
- - [Múltiples miradas desde las ciencias sociales a la restauración ecológica: claves para la construcción de diálogos transdisciplinarios](/cursos/multiples-miradas-desde-las-ciencias-sociales-a-la-restauracion-ecologica-claves-para-la-construccion-de-dialogos-transdisciplinarios/)
+ - [Múltiples miradas desde las ciencias sociales a la restauración ecológica: claves para la construcción de diálogos transdisciplinarios](/cursos/claves-para-la-construccion-de-dialogos-transdisciplinarios/)
  - [Participación social, desarrollo y sostenibilidad](/cursos/participacion-social-desarrollo-y-sostenibilidad/)
  - [Técnicas de investigación cualitativas para los estudios de sostenibilidad](/cursos/tecnicas-de-investigacion-cualitativas-para-los-estudios-de-sostenibilidad/)
  - [Teoría social para el Análisis Ambiental](/cursos/teoria-social-para-el-analisis-ambiental/)
