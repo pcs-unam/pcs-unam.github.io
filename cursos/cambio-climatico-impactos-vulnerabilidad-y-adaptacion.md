@@ -14,4 +14,4 @@ permalink: /cursos/cambio-climatico-impactos-vulnerabilidad-y-adaptacion/
 |Horario| Lunes y martes de 10:30 a 12:30|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|conde@unam.mx|
+|Contacto|<conde@unam.mx>|

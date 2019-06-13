@@ -14,4 +14,4 @@ permalink: /cursos/monitoreo-y-modelacion-de-ecosistemas-acuaticos/
 |Horario| Curso intensivo del 5 de agosto al 28 de septiembre, lunes y miércoles de 8 a 12 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|fpascualr@iies.unam.mx|
+|Contacto|<fpascualr@iies.unam.mx>|

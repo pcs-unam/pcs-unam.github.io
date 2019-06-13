@@ -14,4 +14,4 @@ permalink: /cursos/diseno-y-tecnologias-para-la-arquitectura-sostenible/
 |Horario| lunes y viernes de 9-11 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|adriana.lira@gmail.com, adriana.lira@comunidad.unam.mx|
+|Contacto|<adriana.lira@gmail.com>, <adriana.lira@comunidad.unam.mx>|

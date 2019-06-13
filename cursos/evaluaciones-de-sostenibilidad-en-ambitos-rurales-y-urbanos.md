@@ -14,4 +14,4 @@ permalink: /cursos/evaluaciones-de-sostenibilidad-en-ambitos-rurales-y-urbanos/
 |Horario| Curso intensivo del 5 al 16 de agosto de 9 a 16:30 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|Contacto: Ana Clara Pla: acpla@agro.uba.ar y Esperanza Arnés: earnes@ciga.unam.mx|
+|Contacto|Ana Clara Pla: <acpla@agro.uba.ar> y Esperanza Arnés: <earnes@ciga.unam.mx>|

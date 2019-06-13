@@ -14,4 +14,4 @@ permalink: /cursos/multiples-miradas-desde-las-ciencias-sociales-a-la-restauraci
 |Horario| Martes y jueves de 11 a 13 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|rmdiazm@correo.crim.unam.mx|
+|Contacto|<rmdiazm@correo.crim.unam.mx>|

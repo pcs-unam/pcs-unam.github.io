@@ -14,4 +14,4 @@ permalink: /cursos/economia-ecologica-y-sostenibilidad-el-caso-de-la-cuenca-de-m
 |Horario| Jueves de 17 a 19 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|nancy.arizpe@gmail.com|
+|Contacto|<nancy.arizpe@gmail.com>|

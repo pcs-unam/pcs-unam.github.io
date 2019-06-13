@@ -14,4 +14,4 @@ permalink: /cursos/escasez-desarrollo-y-ecologia-s-politica-s-reflexiones-antrop
 |Horario| Jueves de 16 a 20 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|mmorales@enesmorelia.unam.mx |
+|Contacto|<mmorales@enesmorelia.unam.mx> |

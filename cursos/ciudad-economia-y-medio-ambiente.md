@@ -14,4 +14,4 @@ permalink: /cursos/ciudad-economia-y-medio-ambiente/
 |Horario| Jueves de 9 a 13 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|eperez@igg.unam.mx|
+|Contacto|<eperez@igg.unam.mx>|

@@ -14,4 +14,4 @@ permalink: /cursos/diseno-desarrollo-y-reporte-de-la-investigacion/
 |Horario| Miércoles de 17 a 21 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|ptorres@correo.xoc.uam.mx|
+|Contacto|<ptorres@correo.xoc.uam.mx>|

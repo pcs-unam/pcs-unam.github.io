@@ -14,4 +14,4 @@ permalink: /cursos/enfoques-metodologicos-para-la-investigacion-social-en-cienci
 |Horario| Sábados de 10 a 14 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|itzaben@gmail.com, g_cabestruiz@hotmail.com|
+|Contacto|<itzaben@gmail.com>, <g_cabestruiz@hotmail.com>|

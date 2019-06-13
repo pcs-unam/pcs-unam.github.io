@@ -14,4 +14,4 @@ permalink: /cursos/teoria-social-para-el-analisis-ambiental/
 |Horario| Juves de 10 a 14 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|leticiad@unam.mx, lazos@unam.mx|
+|Contacto|<leticiad@unam.mx>, <lazos@unam.mx>|

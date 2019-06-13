@@ -14,4 +14,4 @@ permalink: /cursos/participacion-social-desarrollo-y-sostenibilidad/
 |Horario| jueves de 9 a 13 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|ayaripasquier@gmail.com, ayari.pasquier@unam.mx, alejandra.fonseca@unam.mx
+|Contacto|<ayaripasquier@gmail.com>, <ayari.pasquier@unam.mx>, <alejandra.fonseca@unam.mx> |

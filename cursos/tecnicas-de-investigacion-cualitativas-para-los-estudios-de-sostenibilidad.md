@@ -14,4 +14,4 @@ permalink: /cursos/tecnicas-de-investigacion-cualitativas-para-los-estudios-de-s
 |Horario| Lunes de 10 a 14 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|aliciamjb@hotmail.com|
+|Contacto|<aliciamjb@hotmail.com>|

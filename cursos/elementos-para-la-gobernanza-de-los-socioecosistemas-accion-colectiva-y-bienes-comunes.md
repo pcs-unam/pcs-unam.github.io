@@ -14,4 +14,4 @@ permalink: /cursos/elementos-para-la-gobernanza-de-los-socioecosistemas-accion-c
 |Horario| Viernes de 9 a 13 horas|
 ||Optativo|
 |Semestre|2020-1|
-|Contacto|merino@sociales.unam.mx, merinoleticia@gmail.com|
+|Contacto|<merino@sociales.unam.mx>, <merinoleticia@gmail.com>|
