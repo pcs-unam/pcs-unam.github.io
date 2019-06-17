@@ -6,7 +6,7 @@ permalink: /maestria/descargables/
 
 
  - [Propuesta de Comité Tutor](/assets/docs/propuesta_comite_tutor.xlsx)
- - [Solicitud cambio de título de proyecto](/assets/docs/solicitud_cambio_de_titulo.docx)
+ - [Registro cambio de título de proyecto](/assets/docs/registro_cambio_de_titulo.docx)
  - [Solicitud y plan de trabajo para seminario de tesis](/assets/docs/seminario-tesis-maestria.xls)
 
 ## Proceso de graduación
