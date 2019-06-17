@@ -5,7 +5,7 @@ permalink: /doctorado/descargables/
 ---
 
  - [Registro de actividades académicas complementarias](/assets/docs/formato-actividades-academicas-complementarias.xlsx)
- - [Solicitud cambio de título de proyecto](/assets/docs/solicitud_cambio_de_titulo.docx)
+ - [Registro cambio de título de proyecto](/assets/docs/registro_cambio_de_titulo.docx)
  - [Propuesta de comité tutor](/assets/docs/propuesta_comite_tutor.xlsx)
 
 # Examen de Candidatura
