@@ -34,7 +34,7 @@ Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
  - [Teoría social para el Análisis Ambiental](/cursos/teoria-social-para-el-analisis-ambiental/)
  
  
- ## Cursos optativos Morelia
+## Cursos optativos Morelia
  
  
  - [Evaluaciones de sostenibilidad en ámbitos rurales y urbanos](/cursos/evaluaciones-de-sostenibilidad-en-ambitos-rurales-y-urbanos/)
