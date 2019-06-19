@@ -5,14 +5,11 @@ permalink: /posgrado/calendario1/
 pleca: /assets/plecas/p16.jpg
 ---
 
-### Actividades del semestre 2019-2
+Notas importantes: 
 
-- **11 de junio** Sesión de Comité Académico
- - **14 de junio** Fecha límite para evaluaciones tutorales de Maestría en [*https://www.saep.unam.mx*](https://www.saep.unam.mx/). Los miembros del comité tutor deberán ingresar sus comentarios en el acta electrónica y **al final el tutor principal será el responsable de cerrar el acta** con su comentario y calificación acordada entre los miembros del comité tutor. El tutor principal es el único que requiere de firma electrónica para calificar.
- - **14 de junio** Fecha límite para evaluaciones tutorales de Doctorado en [*https://www.saep.unam.mx*](https://www.saep.unam.mx/). El tutor principal y miembros del comité tutor deberán ingresar al sistema para emitir comentarios sobre la evaluación tutoral. No se requiere de firma electrónica. La evaluación tutoral y la evaluación de la actividad complementaria forman parte de una sola evaluación semestral.
- - **14 de junio** Fecha límite para entregar en la oficina de Posgrado correspondiente el acta de la actividad académica complementaria de Doctorado del semestre 2019-2, evaluada y firmada por todos los miembros del comité tutor.
- - **14 de junio** Fecha límite para entregar en la oficina de Posgrado correspondiente el acta y resumen del seminario de tesis o acta y constancia del seminario de investigación de Maestría del semestre 2019-2, evaluadas y firmadas por todos los miembros del comité tutor.
- - **14 de junio** Fecha límite para evaluar asignaturas correspondientes al semestre 2019-2 en [*https://www.saep.unam.mx*](https://www.saep.unam.mx/)
+Para que una solicitud al Comité Académico pase a la sesión más próxima, tendrá que entregarse en la oficina de Posgrado correspondiente a más tardar el jueves anterior a las 12:00 horas. 
+
+Para que un cambio aprobado por el Comité Académico se vea reflejado en el sistema de SAEP a finales del semestre en curso, deberá  solicitarse a más tardar en la sesión de octubre, de lo contrario se verá reflejado en el semestre 2020-2.
 
 
 ### Julio
@@ -21,7 +18,7 @@ pleca: /assets/plecas/p16.jpg
 
 ### Agosto
 
- - **31 de julio al 2 de agosto** Validación de inscripciones y reinscripciones en la oficina de Posgrado correspondiente (Ciudad de México o Morelia)
+ - **31 de julio al 2 de agosto** Validación de inscripciones y reinscripciones en la oficina de Posgrado correspondiente (Ciudad de México, Morelia o León)
  - **31 de julio al 2 de agosto** Registro de [actividades académicas complementarias](/doctorado/actividades) para alumnos de Doctorado en la oficina de Posgrado correspondiente.
  - **5 de agosto** Inicio del semestre 2020-1
  - **5 de agosto** Reunión de bienvenida para alumnos de nuevo ingreso
@@ -35,7 +32,7 @@ Para conocer las fechas de entrega del informe de becarios CONACyT y las fechas 
 
  - **10 de septiembre** Sesión de Comité Académico
  - **27 de septiembre** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx> la propuesta de miembros de comité tutor de los alumnos de Doctorado de nuevo ingreso ([descargar formato](/doctorado/descargables)).
- - **27 de septiembre** Fecha límite para entregar en la Coordinación la documentación completa para recibir el apoyo PAEP-2019 (solicitudes aprobadas por Comité Académico). Los alumnos de Morelia deberán entregar los documentos en su oficina de Posgrado y enviarla en formato digital a <sostenibilidad@posgrado.unam.mx>
+ - **27 de septiembre** Fecha límite para entregar en la Coordinación la documentación completa para recibir el apoyo PAEP-2019 (solicitudes aprobadas por Comité Académico). Los alumnos de Morelia y León deberán entregar los documentos en su oficina de Posgrado y enviarla en formato digital a <sostenibilidad@posgrado.unam.mx>
 
 ### Octubre
 
