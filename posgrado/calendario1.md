@@ -32,7 +32,7 @@ Para conocer las fechas de entrega del informe de becarios CONACyT y las fechas 
 
  - **10 de septiembre** Sesión de Comité Académico
  - **27 de septiembre** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx> la propuesta de miembros de comité tutor de los alumnos de Doctorado de nuevo ingreso ([descargar formato](/doctorado/descargables)).
- - **27 de septiembre** Fecha límite para entregar en la Coordinación la documentación completa para recibir el apoyo PAEP-2019 (solicitudes aprobadas por Comité Académico). Los alumnos de Morelia y León deberán entregar los documentos en su oficina de Posgrado y enviarla en formato digital a <sostenibilidad@posgrado.unam.mx>
+ - **27 de septiembre** Fecha límite para entregar en la Coordinación la documentación completa para recibir el apoyo PAEP-2019 (solicitudes aprobadas por Comité Académico). Los alumnos de Morelia deberán entregar los documentos en su oficina de Posgrado y enviarlos en formato digital a <sostenibilidad@posgrado.unam.mx>
 
 ### Octubre
 
