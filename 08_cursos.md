@@ -21,29 +21,8 @@ Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
 <!-- cursos-obligatorios-por-campo-cdmx -->
 <!-- cursos-obligatorios-por-campo-morelia -->
 <!-- cursos-obligatorios-por-campo-leon -->
-
-
-## Cursos optativos CDMX
-
- - [Cambio climático: impactos, vulnerabilidad y adaptación](/cursos/cambio-climatico-impactos-vulnerabilidad-y-adaptacion_cdmx/)
- - [Cambio global: impacto y respuesta de los ecosistemas](/cursos/cambio-global-impacto-y-respuesta-de-los-ecosistemas_cdmx/)
- - [Diseño y tecnologías para la arquitectura sostenible](/cursos/diseno-y-tecnologias-para-la-arquitectura-sostenible_cdmx/)
- - [Diseño, desarrollo y reporte de la investigación](/cursos/diseno-desarrollo-y-reporte-de-la-investigacion_cdmx/)
- - [Elementos para la gobernanza de los socioecosistemas. Acción colectiva y bienes comunes](/cursos/elementos-para-la-gobernanza-de-los-socioecosistemas-accion-colectiva-y-bienes-comunes_cdmx/)
- - [Enfoques metodológicos para la investigación social en ciencias de la sostenibilidad (estudios de caso, método comparado, cualitativo y mixto)](/cursos/enfoques-metodologicos-para-la-investigacion-social-en-ciencias-de-la-sostenibilidad-estudios-de-caso-metodo-comparado-cualitativo-y-mixto_cdmx/)
- - [Investigación socioespacial y mapeo participativo](/cursos/investigacion-socioespacial-y-mapeo-participativo_cdmx/)
- - [Participación social, desarrollo y sostenibilidad](/cursos/participacion-social-desarrollo-y-sostenibilidad_cdmx/)
- - [Teoría social para el análisis ambiental](/cursos/teoria-social-para-el-analisis-ambiental_cdmx/)
- - [Técnicas de investigación cualitativas para los estudios de sostenibilidad](/cursos/tecnicas-de-investigacion-cualitativas-para-los-estudios-de-sostenibilidad_cdmx/)
-
-
-
-## Cursos optativos Morelia
-
- - [Escasez, desarrollo y ecología(s) política(s)](/cursos/escasez-desarrollo-y-ecologias-politicas_morelia/)
- - [Evaluaciones de sostenibilidad en ámbitos rurales y urbanos](/cursos/evaluaciones-de-sostenibilidad-en-ambitos-rurales-y-urbanos_morelia/)
- - [Monitoreo y modelación de ecosistemas acuáticos](/cursos/monitoreo-y-modelacion-de-ecosistemas-acuaticos_morelia/)
-
+<!-- cursos-optativos-cdmx -->
+<!-- cursos-optativos-morelia -->
 <!-- cursos-optativos-leon -->
 
 
