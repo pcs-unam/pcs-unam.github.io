@@ -23,4 +23,4 @@ Maestría o Doctorado en Ciencias de la Sostenibilidad.
 
 
 
-![sistema de siembra en Xochimilco](/assets/xochi_sistema_sembrado.jpg)
+[comment]: <> ![sistema de siembra en Xochimilco](/assets/xochi_sistema_sembrado.jpg)
