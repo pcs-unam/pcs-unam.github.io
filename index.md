@@ -24,13 +24,17 @@ Maestría o Doctorado en Ciencias de la Sostenibilidad.
 
 # Avisos importantes
 
+## La reunión de bienvenida para alumnos de primer ingreso al semestre 2020-1 el próximo viernes 2 de agosto cambia de horario a las 10:30 horas. 
+
+La reunión se llevará a cabo en la Biblioteca del Instituto de Investigaciones Sociales de la UNAM [cartel](/assets/docs/cartel_reunion_bienvenida_2020_1) 
+Los alumnos de Morelia se podrán conectar por videoconferencia desde la sala SUM-1 del Instituto de Investigaciones en Ecosistemas y Sustentabilidad.
+Los alumnos de León se podrán conectar por videoconferencia desde la sala 3D del edificio A de la ENES-León.
+
 ## Resultados del proceso de admisión al Posgrado (ingreso 2020-1)
 
  - [Lista de aspirantes aceptados al Programa de Maestría en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_maestria_2020_1.pdf)
 
  - [Lista de aspirantes aceptados al Programa de Doctorado en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_doctorado_2020_1.pdf)
-
-Los aspirantes no aceptados que deseen conocer el dictamen del subcomité de admisión, favor de comunicarse el martes 23 de julio entre 9:00 y 14:00 horas al teléfono 56237012, con el objeto de programar una cita para el viernes 26 de julio. Después del 23 de julio ya no será posible programar citas.
 
 [Instrucciones para la entrega documental e inscripción de aspirantes aceptados](/assets/docs/instrucciones_entrega documental_inscripcion_aspirantes_aceptados.pdf)
 
