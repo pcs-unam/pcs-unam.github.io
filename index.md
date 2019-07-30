@@ -26,7 +26,7 @@ Maestría o Doctorado en Ciencias de la Sostenibilidad.
 
 ## La reunión de bienvenida para alumnos de primer ingreso al semestre 2020-1 el próximo viernes 2 de agosto cambia de horario a las 10:30 horas. 
 
-La reunión se llevará a cabo en la Biblioteca del Instituto de Investigaciones Sociales de la UNAM [(cartel)](/assets/docs/cartel_reunion_bienvenida_2020_1) 
+La reunión se llevará a cabo en la Biblioteca del Instituto de Investigaciones Sociales de la UNAM [(cartel)](/assets/docs/cartel_reunion_bienvenida_2020_1.pdf) 
 
 Los alumnos de Morelia se podrán conectar por videoconferencia desde la sala SUM-1 del Instituto de Investigaciones en Ecosistemas y Sustentabilidad.
 
