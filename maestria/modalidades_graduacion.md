@@ -53,7 +53,8 @@ recomendaciones y bibliografía complementaria.
 Los alumnos que se gradúen por artículo deberán presentar, al momento
 de solicitar su jurado para el examen de grado, el documento final
 para revisión del Comité Académico, mismo que debe ser escrito
-siguiendo estos lineamientos.
+siguiendo estos lineamientos. Favor de señalar el nombre de la revista 
+donde se pretende publicar el artículo.
 
  
 
