@@ -18,10 +18,10 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 
 ### Agosto
 
- - **31 de julio al 2 de agosto** Validación de inscripciones y reinscripciones en la oficina de Posgrado correspondiente (Ciudad de México, Morelia o León)
+ - **31 de julio al 2 de agosto** Validación de inscripciones y reinscripciones en la oficina de Posgrado correspondiente (Ciudad de México, Morelia o León). Es necesario presentar la hoja de inscripción que se descarga del sistema de SAEP.
  - **31 de julio al 2 de agosto** Registro de [actividades académicas complementarias](/doctorado/actividades) para alumnos de Doctorado en la oficina de Posgrado correspondiente.
  - **5 de agosto** Inicio del semestre 2020-1
- - **5 de agosto** Reunión de bienvenida para alumnos de nuevo ingreso
+ - **2 de agosto** Reunión de bienvenida para alumnos de nuevo ingreso
  - **10 de agosto** Fecha límite para registrar cambios en la inscripción. Estos cambios deben solicitarse en la Coordinación (oficina de Posgrado Ciudad de México)
  - **13 de agosto** Sesión de Comité Académico
  - **Del 19 de agosto al 15 de noviembre** Resello y reposición de credenciales
