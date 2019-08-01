@@ -7,7 +7,7 @@ menu: true
 ---
 
  - [Calendario de sesiones](/comite/calendario)
- - [Acuerdos](/comite/acuerdos)
+ [comment]: <> - [Acuerdos](/comite/acuerdos)
 
 
 ## Integrantes
