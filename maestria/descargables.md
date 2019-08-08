@@ -5,30 +5,31 @@ permalink: /maestria/descargables/
 ---
 
 
- - [Propuesta de Comité Tutor](/assets/docs/propuesta_comite_tutor_maestria.xlsx)
- - [Registro cambio de título de proyecto](/assets/docs/registro_cambio_de_titulo.docx)
- - [Solicitud y plan de trabajo para seminario de tesis](/assets/docs/seminario-tesis-maestria.xls)
+ - [Propuesta de Comité Tutor](/assets/formatos/maestria/propuesta_comite_tutor_maestria.xlsx)
+ - [Registro cambio de título de proyecto](/assets/formatos/registro_cambio_de_titulo.docx)
+ - [Solicitud y plan de trabajo para seminario de tesis I](/assets/formatos/maestria/seminario-I-tesis-maestria.xls)
+ - [Solicitud y plan de trabajo para seminario de tesis II](/assets/formatos/maestria/seminario-II-tesis-maestria.xls)
 
 ## Proceso de graduación
 
- - [Visto bueno para iniciar trámites de graduación](/assets/docs/graduacion/visto_bueno_iniciar_graduacion.docx)
- 
- - [Modalidad de graduación](/assets/docs/graduacion/formato-modalidad-graduacion.docx)
- 
- - [Solicitud de jurado](/assets/docs/graduacion/solicitud_jurado_maestria2.docx)
- 
+ - [Visto bueno para iniciar trámites de graduación](/assets/formatos/maestria/graduacion/visto_bueno_iniciar_graduacion.docx)
+
+ - [Modalidad de graduación](/assets/formatos/maestria/graduacion/formato-modalidad-graduacion.docx)
+
+ - [Solicitud de jurado](/assets/formatos/maestria/graduacion/solicitud_jurado_maestria.docx)
+
  - [Requisitos para solicitar autorización de examen](/assets/docs/graduacion/doc_solicitar_autorizacion_examen.pdf)
- 
+
  - [Ejemplo autorización de transferencia de información](/assets/docs/graduacion/ejemplo_solicitud_transf_datos.pdf)
 
  - [Características de la fotografía](/assets/docs/graduacion/foto_emision_titulo.pdf)
- 
- - [Solicitud de emisión de grado](/assets/docs/graduacion/solicitud_emision_grado.docx)
+
+ - [Solicitud de emisión de grado](/assets/formatos/maestria/graduacion/solicitud_emision_grado.docx)
 
  - [Propuesta formato voto aprobatorio Tesis](/assets/docs/graduacion/fvam-tesis.docx)
- 
+
  - [Propuesta formato voto aprobatorio Artículo](/assets/docs/graduacion/fvam-articulo.docx)
- 
+
  - [Propuesta formato voto aprobatorio Reporte Técnico](/assets/docs/graduacion/fvam-reporte-tecnico.docx)
 
  - [Propuesta formato voto aprobatorio Protocolo](/assets/docs/graduacion/fvam-protocolo.docx)

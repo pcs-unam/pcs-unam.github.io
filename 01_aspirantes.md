@@ -12,9 +12,9 @@ Consultar detalles de la [Convocatoria anterior](/assets/docs/convocatoria_2020-
 
  - [Instructivo para aspirantes de Maestría](/assets/docs/instructivo-maestria.pdf)
  - [Instructivo para aspirantes de Doctorado](/assets/docs/instructivo-doctorado.pdf)
- 
+
 
 ## Documentos descargables
 
- - [Carta de aceptación de tutores de Doctorado](/assets/docs/formato_carta_aceptacion_tutor_doctorado.doc)
+ - [Carta de aceptación de tutores de Doctorado](/assets/formatos/aspirantes/formato_carta_aceptacion_tutor_doctorado.doc)
  - [Recomendaciones para proyectos](/assets/docs/recomendaciones_proyectos_pcs.pdf)
