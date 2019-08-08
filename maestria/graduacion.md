@@ -182,15 +182,15 @@ Las propuestas de personas no acreditadas deberán justificarse en cuanto a la i
 
 ## Formatos
 
- - [Visto bueno para iniciar trámites de graduación](/assets/docs/graduacion/visto_bueno_iniciar_graduacion.docx)
+ - [Visto bueno para iniciar trámites de graduación](/assets/formatos/maestria/graduacion/visto_bueno_iniciar_graduacion.docx)
 
- - [Solicitud de emisión de grado](/assets/docs/graduacion/solicitud_emision_grado.docx)
+ - [Solicitud de emisión de grado](/assets/formatos/maestria/graduacion/solicitud_emision_grado.docx)
 
- - [Modalidad de graduación](/assets/docs/graduacion/formato-modalidad-graduacion.docx)
+ - [Modalidad de graduación](/assets/formatos/maestria/graduacion/formato-modalidad-graduacion.docx)
 
  - [Propuesta formato voto aprobatorio Tesis](/assets/docs/graduacion/fvam-tesis.docx)
 
- - [Solicitud de jurado](/assets/docs/graduacion/solicitud_jurado_maestria2.docx)
+ - [Solicitud de jurado](/assets/formatos/maestria/graduacion/solicitud_jurado_maestria.docx)
 
  - [Propuesta formato voto aprobatorio Artículo](/assets/docs/graduacion/fvam-articulo.docx)
 
