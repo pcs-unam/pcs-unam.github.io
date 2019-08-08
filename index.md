@@ -22,22 +22,4 @@ tránsito hacia el desarrollo sostenible. Se ofrecen las opciones de
 Maestría o Doctorado en Ciencias de la Sostenibilidad.
 
 
-# Avisos importantes
-
-## La reunión de bienvenida para alumnos de primer ingreso al semestre 2020-1 el próximo viernes 2 de agosto cambia de horario a las 10:30 horas. 
-
-La reunión se llevará a cabo en la Biblioteca del Instituto de Investigaciones Sociales de la UNAM [(cartel)](/assets/docs/cartel_reunion_bienvenida_2020_1.pdf) 
-
-Los alumnos de Morelia se podrán conectar por videoconferencia desde la sala SUM-1 del Instituto de Investigaciones en Ecosistemas y Sustentabilidad.
-
-Los alumnos de León se podrán conectar por videoconferencia desde la sala 3D del edificio A de la ENES-León.
-
-## Resultados del proceso de admisión al Posgrado (ingreso 2020-1)
-
- - [Lista de aspirantes aceptados al Programa de Maestría en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_maestria_2020_1.pdf)
-
- - [Lista de aspirantes aceptados al Programa de Doctorado en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_doctorado_2020_1.pdf)
-
-[Instrucciones para la entrega documental e inscripción de aspirantes aceptados](/assets/docs/instrucciones_entrega documental_inscripcion_aspirantes_aceptados.pdf)
-
-[comment]: <> ![sistema de siembra en Xochimilco](/assets/xochi_sistema_sembrado.jpg)
+![sistema de siembra en Xochimilco](/assets/xochi_sistema_sembrado.jpg)
