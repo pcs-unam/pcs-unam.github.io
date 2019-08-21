@@ -60,6 +60,6 @@ Actitudes:
 
 ## Formatos
 
- - [Solicitud de candidatura](/assets/docs/solicitud-jurado-candidatura.docx)
+ - [Solicitud de candidatura](/assets/formatos/doctorado/solicitud-jurado-candidatura.docx)
  - [Evaluación escrita](/assets/docs/evaluacion_escrita_candidatura.pdf)
  - [Evaluación oral](/assets/docs/evaluacion_oral_candidatura.pdf)
