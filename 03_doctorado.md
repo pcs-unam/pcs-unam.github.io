@@ -6,8 +6,6 @@ pleca: /assets/plecas/p03.jpg
 menu: true
 ---
 
-## Plan de estudios
-
 El Doctorado tiene como propósito fundamental la formación de
 científicos que, además de poseer un dominio del cuerpo integrador de
 conocimientos de las ciencias de la sostenibilidad y de sus
@@ -19,6 +17,7 @@ investigación relevantes en el tránsito hacia la sostenibilidad.
  - [Normas operativas](/assets/docs/normas_operativas.pdf)
  - [Líneas de investigación](/doctorado/lineas)
  - [Actividades académicas complementarias](/doctorado/actividades)
+ - [Revistas aprobadas por el Comité Académico para la publicación del artículo de requisito](/doctorado/revistas)
  - [Candidatura](/doctorado/candidatura)
  - [Procedimiento de graduación](/doctorado/graduacion)
  - [Descargables](/doctorado/descargables)
