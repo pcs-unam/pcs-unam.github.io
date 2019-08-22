@@ -12,6 +12,8 @@ Ayala-Azcárraga, C., Diaz, D., & Zambrano L. (2019). Characteristics of urban p
 
 Charli-Joseph, L., J. Siqueiros-Garcia, H. Eakin, D. Manuel-Navarrete, and R. Shelton. 2018. Promoting agency for social-ecological transformation: a transformation-lab in the Xochimilco social-ecological system. Ecology and Society 23(2):46. https://www.ecologyandsociety.org/vol23/iss2/art46/
 
+García-Sánchez, M., Güereca, L. P., 2019. Environmental and social life cycle assessment of urban water systems: The case of Mexico City. Science of The Total Environment, 693, 133464. https://doi.org/10.1016/j.scitotenv.2019.07.270
+
 Rodríguez-Izquierdo, E., Miquelajauregui, Y., Padilla, P., & Bojórquez-Tapia, L. A. (2019). Modelling approach for crafting environmental regulations under deep uncertainty: Whale watching in Ojo de liebre, Mexico. Ecological Modelling, 408, 108731.
 https://doi.org/10.1016/j.ecolmodel.2019.108731
 
