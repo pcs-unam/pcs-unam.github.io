@@ -17,7 +17,7 @@ investigación relevantes en el tránsito hacia la sostenibilidad.
  - [Normas operativas](/assets/docs/normas_operativas.pdf)
  - [Líneas de investigación](/doctorado/lineas)
  - [Actividades académicas complementarias](/doctorado/actividades)
-[comment]: <> - [Revistas aprobadas por el Comité Académico para la publicación del artículo de requisito](/doctorado/revistas)
+ - [Revistas aprobadas por el Comité Académico para la publicación del artículo de requisito](/doctorado/revistas)
  - [Candidatura](/doctorado/candidatura)
  - [Procedimiento de graduación](/doctorado/graduacion)
  - [Descargables](/doctorado/descargables)
