@@ -25,13 +25,12 @@ Para iniciar los trámites de graduación es necesario haber cursado y acreditad
 
 <tr>
 <td>
-Solicitar al Comité Académico el inicio del proceso de graduación. Para ello se deberán entregar en la Coordinación los siguientes formatos:
+Solicitar al Comité Académico el inicio del proceso de graduación. Para ello se deberán entregar en la Coordinación los siguientes documentos:
 <ul>
-<li>Visto bueno para iniciar trámites de graduación</li>
-<li>Formato del artículo de requisito. En caso de graduarse por tesis organizada en artículos se deberá incluir el formato del artículo o artículos complementarios</li>
-<li>Artículo de requisito</li>
-<li>Solicitud de jurado</li>
-</ul>
+<li>Formato de visto bueno para iniciar trámites de graduación</li>
+<li>Formato de solicitud de jurado</li>
+<li>Evidencia de aceptación del artículo de requisito (eg. PDF del artículo, carta o correo del editor, captura de pantalla de la situación del artículo, DOI)</li>
+</ul>En caso de no contar con la aceptación del artículo de requisito, provisonalmente se puede presentar la evidencia del envío (con la intención de avanzar con los trámites de graduación)
 </td>
 <td></td>
 </tr>
