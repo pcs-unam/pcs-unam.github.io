@@ -54,7 +54,7 @@ La Coordinación solicita la revisión de estudios al área de Revisión de Estu
 </tr>
 <tr>
 <td>
-Reunir los documentos solicitados por REP para realizar el trámite de autorización de examen de grado.
+Reunir los documentos solicitados por REP para realizar el trámite de autorización de examen de grado. Esto incluye la evidencia de ACEPTACIÓN del artículo de requisito.
 </td>
 <td></td>
 </tr>
@@ -66,7 +66,7 @@ Solicitar a REP la autorización de examen de grado.
 </tr>
 <tr>
 <td>
-Entregar en la Coordinación el comprobante de pago expedido por REP, seis fotografías (ver <a href="/doctorado/descargables">especificaciones</a>) y el archivo PDF del documento final para la graduación.
+Entregar en la Coordinación el comprobante de pago expedido por REP, seis fotografías (ver <a href="/doctorado/descargables">especificaciones</a>) y los archivos PDF de la versión final de la tesis y del artículo para la graduación.
 </td>
 <td></td>
 </tr>
@@ -122,8 +122,6 @@ a <sostenibilidad@posgrado.unam.mx>.
 
 
  - [Agradecimiento al posgrado en articulos y tesis](/assets/docs/graduacion_doctorado/agradecimiento_al_posgrado_en_articulos_y_tesis.pdf)
- - [Formato de artículo complementario](/assets/formatos/doctorado/graduacion/formato_articulo_complementario.docx)
- - [Formato artículo requisito](/assets/formatos/doctorado/graduacion/formato_articulo_requisito.docx)
  - [Formato de solicitud de jurado](/assets/formatos/doctorado/graduacion/formato_solicitud_jurado_doc.docx)
  - [Formato de solicitud de autorización de revista para articulo de requisito](/assets/formatos/doctorado/graduacion/formato_solicitud_revista_para_articulo_de_requisito.docx)
  - [Formato de visto bueno para iniciar graduación](/assets/formatos/doctorado/graduacion/formato_visto_bueno_iniciar_graduacion.docx)
