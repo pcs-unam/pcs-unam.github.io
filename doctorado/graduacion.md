@@ -30,7 +30,7 @@ Solicitar al Comité Académico el inicio del proceso de graduación. Para ello 
 <li>Formato de visto bueno para iniciar trámites de graduación</li>
 <li>Formato de solicitud de jurado</li>
 <li>Evidencia de aceptación del artículo de requisito (eg. PDF del artículo, carta o correo del editor, captura de pantalla de la situación del artículo, DOI)</li>
-</ul>En caso de no contar con la aceptación del artículo de requisito, provisionalmente se puede presentar la evidencia del envío (con la intención de avanzar con los trámites de graduación)
+</ul>En caso de no contar con la aceptación del artículo de requisito, provisionalmente se puede presentar la evidencia del envío (con la intención de avanzar con los trámites de graduación).
 </td>
 <td></td>
 </tr>
@@ -49,7 +49,7 @@ Entregar la tesis a cada uno de los miembros del jurado asignado por el Comité 
 <tr>
 <td></td>
 <td>
-La Coordinación solicita la revisión de estudios al área de Revisión de Estudios de Posgrado (REP), y cuando está lista la entrega al alumno junto con la papelería para solicitar autorización de examen de grado.
+La Coordinación solicita la revisión de estudios al área de Revisión de Estudios de Posgrado (REP), y cuando está lista la entrega al alumno.
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ La Coordinación entrega los documentos para el examen de grado.
 </tr>
 <tr>
 <td>
-Posterior al examen, entregar los documentos de grado en la Coordinación. Una vez aprobado el examen de grado, es responsabilidad de los alumnos solicitar en la Coordinación el estímulo a la graduación oportuna y entregar los documentos requeridos. Revisar los requisitos y condiciones de la <a href="http://www.posgrado.unam.mx/es/estimulo-la-graduacion-oportuna">convocatoria correspondiente</a>.
+Posterior al examen, entregar los documentos de grado en la Coordinación. Una vez aprobado el examen de grado, es responsabilidad de los alumnos solicitar el estímulo a la graduación oportuna. Revisar los requisitos y condiciones de la <a href="http://www.posgrado.unam.mx/es/estimulo-la-graduacion-oportuna">convocatoria correspondiente</a>.
 </td>
 <td></td>
 </tr>
