@@ -9,14 +9,11 @@ pleca: /assets/plecas/p13.jpg
 
 
 El seminario de tesis es una opción para que los alumnos de Maestría
-que planean graduarse por la modalidad de tesis o artículo, tengan la
-posibilidad de dedicar horas-crédito a actividades específicas para el
-desarrollo de su proyecto de investigación. La decisión de optar por
-el seminario de tesis se debe evaluar y acordar en conjunto con el
-comité tutor, ya que implica tiempo de dedicación adicional al
-proyecto de investigación, en lugar de cursar una materia optativa. El
-seminario de tesis no aplica para los alumnos que se gradúen por
-protocolo de investigación doctoral o reporte técnico.
+tengan la posibilidad de dedicar horas-crédito a actividades específicas 
+para el desarrollo de su proyecto de investigación. La decisión de optar 
+por el seminario de tesis se debe evaluar y acordar en conjunto con el
+comité tutor, ya que implica tiempo de dedicación adicional al proyecto 
+de investigación, en lugar de cursar una materia optativa. 
 
 Los alumnos interesados en inscribir el seminario de tesis, podrán
 hacerlo a partir del tercer semestre y se considerará como una
