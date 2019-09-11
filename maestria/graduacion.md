@@ -77,8 +77,7 @@ voto.
 <h1>5</h1>
 La Coordinación solicita la revisión de estudios al área de Revisión
 de Estudios de Posgrado (REP), y cuando está lista la entrega al
-alumno junto con la papelería para solicitar autorización de examen de
-grado.
+alumno.
 </td>
 </tr>
 <tr>
@@ -150,8 +149,7 @@ Posterior al examen, entregar los documentos de grado en la
 Coordinación.</p>
 <p>
 Una vez aprobado el examen de grado, es responsabilidad de los alumnos
-solicitar en la Coordinación el estímulo a la graduación oportuna y
-entregar los documentos requeridos.
+solicitar el estímulo a la graduación oportuna.
 Consultar los <a href="http://www.posgrado.unam.mx/es/estimulo-la-graduacion-oportuna">
 	requisitos y condiciones de la convocatoria</a>.</p>
 
