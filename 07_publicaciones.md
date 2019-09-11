@@ -14,6 +14,8 @@ Charli-Joseph, L., J. Siqueiros-Garcia, H. Eakin, D. Manuel-Navarrete, and R. Sh
 
 García-Sánchez, M., Güereca, L. P., 2019. Environmental and social life cycle assessment of urban water systems: The case of Mexico City. Science of The Total Environment, 693, 133464. <https://doi.org/10.1016/j.scitotenv.2019.07.270>
 
+González-Padrón, S.K.; Lerner, A.M.; Mazari-Hiriart, M. Improving Water Access and Health through Rainwater Harvesting: Perceptions of an Indigenous Community in Jalisco, Mexico. Sustainability 2019, 11, 4884. <https://doi.org/10.3390/su11184884>
+
 Rodríguez-Izquierdo, E., Miquelajauregui, Y., Padilla, P., & Bojórquez-Tapia, L. A. (2019). Modelling approach for crafting environmental regulations under deep uncertainty: Whale watching in Ojo de liebre, Mexico. Ecological Modelling, 408, 108731.
 <https://doi.org/10.1016/j.ecolmodel.2019.108731>
 
