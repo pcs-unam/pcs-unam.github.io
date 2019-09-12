@@ -126,3 +126,4 @@ a <sostenibilidad@posgrado.unam.mx>.
  - [Formato para solicitar autorización de revista](/assets/formatos/doctorado/formato_solicitud_revista.xlsx)
  - [Formato de visto bueno para iniciar graduación](/assets/formatos/doctorado/graduacion/formato_visto_bueno_iniciar_graduacion.docx)
  - [Plantilla de Portada de Tesis](/assets/docs/graduacion_doctorado/portada-tesis-doc-pcs.docx)
+ - [Formato voto aprobatorio](/assets/docs/graduacion_doctorado/fvad.docx)
