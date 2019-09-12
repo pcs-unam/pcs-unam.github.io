@@ -42,7 +42,7 @@ entregar en la Coordinación el acta de evaluación y un resumen
 ejecutivo de dos cuartillas. Ambos documentos deberán estar firmados
 por todos los miembros del comité tutor.
 
-# Descargables 
+# Formatos descargables 
 
 Ver formatos en [sección descargables](/maestria/descargables/).
 
