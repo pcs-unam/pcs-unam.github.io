@@ -15,7 +15,7 @@ permalink: /doctorado/revistas
  - Conservation and Society
  - Conservation Biology
  - Contaminación Ambiental
- - Ecological Modelling  
+ - Ecological Modeling  
  - Ecology and Society
  - Energy for Sustainable Development
  - Energy Research & Social Science
