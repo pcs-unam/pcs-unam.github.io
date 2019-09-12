@@ -130,8 +130,7 @@ dio seguimiento al desarrollo de la actividad.
 **Cualquier actividad académica complementaria propuesta no contemplada en esta lista, será evaluada por el Comité Académico.**
  
 
-# Descargables
+# Formatos descargables
 
- - [Formato para registro de actividades académicas complementarias](/assets/formatos/doctorado/formato-actividades-academicas-complementarias.xlsx)
- - [Formato de solicitud de autorización para articulo de requisito](/assets/formatos/doctorado/graduacion/formato_solicitud_revista_para_articulo_de_requisito.docx)
+ Ver formatos en [sección descargables](/doctorado/descargables/).
 
