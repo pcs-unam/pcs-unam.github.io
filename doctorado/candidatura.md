@@ -58,8 +58,6 @@ Actitudes:
  - Disposición para desarrollar su proyecto de investigación en un contexto transdisciplinario. 
  - Disposición para comunicar y difundir los avances de su investigación en un contexto transacadémico.
 
-## Formatos
+# Formatos descargables
 
- - [Solicitud de candidatura](/assets/formatos/doctorado/solicitud-jurado-candidatura.docx)
- - [Evaluación escrita](/assets/docs/evaluacion_escrita_candidatura.pdf)
- - [Evaluación oral](/assets/docs/evaluacion_oral_candidatura.pdf)
+ Ver formatos en [sección descargables](/maestria/descargables/).
