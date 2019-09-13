@@ -120,5 +120,5 @@ a <sostenibilidad@posgrado.unam.mx>.
 
 # Formatos descargables
 
- Ver formatos en [sección descargables](/maestria/descargables/).
+ Ver formatos en [sección descargables](/doctorado/descargables/).
 
