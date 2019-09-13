@@ -27,3 +27,5 @@ permalink: /doctorado/descargables/
  - [Formato de solicitud de jurado](/assets/formatos/doctorado/graduacion/formato_solicitud_jurado_doc.docx)
  - [Formato de visto bueno para iniciar graduación](/assets/formatos/doctorado/graduacion/formato_visto_bueno_iniciar_graduacion.docx)
  - [Plantilla de Portada de Tesis](/assets/docs/graduacion_doctorado/portada-tesis-doc-pcs.docx)
+ - [Formato voto aprobatorio](/assets/docs/graduacion_doctorado/fvad.docx)
+
