@@ -1,7 +1,7 @@
 ---
 title: Catálogo de revistas autorizadas por el Comité Académico
 layout: page
-permalink: /doctorado/catalogo_revistas
+permalink: /doctorado/catalogo_revistas/
 ---
 
 
