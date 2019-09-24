@@ -20,12 +20,12 @@ de los Programas de Posgrado estimulando la obtención del grado de
 manera oportuna de los egresados de Maestría y Doctorado a través de
 un incentivo económico.
 
-Consultar más acerca del [estímulo a la graduación oportuna](http://www.posgrado.unam.mx/es/estimulo-para-la-graduacion-oportuna).
+Consultar más acerca del [estímulo a la graduación oportuna](https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/estimulo_GO.php).
 
 
 # Becas CONACyT
 
 El Posgrado forma parte del Programa Nacional de Posgrados de Calidad del Consejo Nacional de Ciencia y Tecnología (CONACYT)
 
-Consultar el [Módulo de Becas](http://www.posgrado.unam.mx/modulo-de-becas) de la Coordinación
+Consultar el [Módulo de Becas](https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php) de la Coordinación
 General de Estudios de Posgrado.
