@@ -66,7 +66,7 @@ Solicitar a REP la autorización de examen de grado.
 </tr>
 <tr>
 <td>
-Entregar en la Coordinación el comprobante de pago expedido por REP, seis fotografías (ver <a href="/doctorado/descargables">especificaciones</a>) y los archivos PDF de la versión final de la tesis y del artículo para la graduación.
+Entregar en la Coordinación el comprobante de pago expedido por REP, seis fotografías (ver en descargables) y los archivos PDF de la versión final de la tesis y del artículo para la graduación.
 </td>
 <td></td>
 </tr>
@@ -90,7 +90,7 @@ La Coordinación entrega los documentos para el examen de grado.
 </tr>
 <tr>
 <td>
-Posterior al examen, entregar los documentos de grado en la Coordinación. Una vez aprobado el examen de grado, es responsabilidad de los alumnos solicitar el estímulo a la graduación oportuna. Revisar los requisitos y condiciones de la <a href="http://www.posgrado.unam.mx/es/estimulo-la-graduacion-oportuna">convocatoria correspondiente</a>.
+Posterior al examen, entregar los documentos de grado en la Coordinación. Una vez aprobado el examen de grado, es responsabilidad de los alumnos solicitar el estímulo a la graduación oportuna. Revisar los requisitos y condiciones de la <a href="https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/estimulo_GO.php">convocatoria correspondiente</a>.
 </td>
 <td></td>
 </tr>
