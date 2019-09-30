@@ -73,45 +73,4 @@ Mexicana, entre otros.
 
 # Protocolo de investigación doctoral
 
-El objetivo de esta modalidad de graduación es que el alumno
-desarrolle un protocolo de investigación original sobre un problema de
-sostenibilidad derivado de su proyecto de maestría, bajo la dirección
-de su tutor o tutores principales. Para optar por esta modalidad es
-necesario concluir los estudios de Maestría con un promedio mínimo de
-8.5 (ocho punto cinco).
-
-El protocolo de investigación doctoral deberá cumplir con los
-siguientes elementos:
-
- - Título
- - Resumen ejecutivo (extensión sugerida dos páginas)
- - Pregunta o preguntas de investigación y objetivos centrales del
-   proyecto. Debe ser explícito de qué manera la investigación
-   aportará al conocimiento original dentro de alguna de las líneas
-   del Programa de Doctorado (extensión sugerida de una a dos páginas)
- - Justificación del proyecto. Describir la importancia del proyecto
-   en el marco de las ciencias de la sostenibilidad. Las preguntas de
-   investigación deben dirigirse al planteamiento de posibles
-   soluciones (extensión sugerida de una a dos páginas)
- - Antecedentes y literatura relevante. Incluir el marco teórico bajo
-   el cual se desarrollará el proyecto. El marco teórico se seguirá
-   enriqueciendo durante los estudios de doctorado, sin embargo, se
-   requiere contar con un desarrollo sustantivo del mismo. Incluir, si
-   es relevante, la descripción del sitio de estudio (extensión
-   sugerida de 20 a 25 páginas)
- - Métodos, resultados esperados y cronograma de actividades
-   propuestas durante el tiempo en que se realizarán los estudios de
-   Doctorado (extensión sugerida de 12 a 15 páginas). En esta sección
-   se debe separar el trabajo que se desarrolló durante la Maestría y
-   su vinculación con la propuesta metodológica del Doctorado. Es
-   deseable que se reporten resultados preliminares obtenidos en la
-   Maestría (extensión sugerida de 6 a 8 páginas)
- - Referencias bibliográficas
- - Anexos
-
-
-Extensión total sugerida: 50-55 páginas sin referencias y anexos
-
-Formato sugerido: tamaño de letra 12 y espacio doble
-
-El jurado de los alumnos que opten por esta modalidad de graduación deberá conformarse por un miembro del comité tutor, que no sea el tutor principal y cuatro miembros externos al comité tutor acreditados como tutores del Posgrado.
+Lineamientos en revisión por el Comité Académico
