@@ -26,7 +26,7 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
  - **13 de agosto** Sesión de Comité Académico
  - **Del 19 de agosto al 15 de noviembre** Resello y reposición de credenciales
 
-Para conocer las fechas de entrega del informe de becarios CONACyT y las fechas de entrega de solicitudes de becas para alumnos de nuevo ingreso, consultar la siguiente dirección: <http://www.posgrado.unam.mx/modulo-de-becas>
+Para conocer las fechas de entrega del informe de becarios CONACyT y las fechas de entrega de solicitudes de becas para alumnos de nuevo ingreso, consultar la siguiente dirección: <https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php>
 
 ### Septiembre
 
@@ -43,8 +43,8 @@ Para conocer las fechas de entrega del informe de becarios CONACyT y las fechas 
 
  - **12 de noviembre** Sesión de Comité Académico
  - **15 de noviembre** Fecha límite para resello y reposición de credenciales 
- - **19 de noviembre** Recoger en la oficina de Posgrado correspondiente el acta de evaluación de la actividad académica complementaria de Doctorado del semestre 2020-1
- - **19 de noviembre** Recoger en la oficina de Posgrado correspondiente el acta de evaluación del seminario de tesis o seminario de investigación de Maestría del semestre 2020-1. Sólo aplica para alumnos que hayan registrado alguna de estas dos actividades
+ - **19 de noviembre** Desde la oficina de Posgrado correspondiente se enviará por correo electrónico a los alumnos el acta de evaluación de la actividad académica complementaria de Doctorado del semestre 2020-1
+ - **19 de noviembre** Desde la oficina de Posgrado correspondiente se enviará por correo electrónico a los alumnos el acta de evaluación del seminario de tesis o seminario de investigación de Maestría del semestre 2020-1. Sólo aplica para alumnos que hayan registrado alguna de estas dos actividades
  - **21 de noviembre** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx> la propuesta de comité tutor de los alumnos de Maestría de nuevo ingreso ([descargar formato](/maestria/descargables))
  - **22 de noviembre** Fecha límite para presentar en la oficina de Posgrado correspondiente solicitudes para el registro en el semestre 2020-2 de [seminario de tesis](/maestria/seminario_tesis). Sólo aplica para alumnos de Maestría que cursan el tercer semestre.
  - **22 de noviembre** Fin del semestre 2020-1
