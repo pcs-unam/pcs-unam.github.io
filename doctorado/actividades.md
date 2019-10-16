@@ -105,7 +105,7 @@ Al finalizar el semestre se deberá entregar un acta de evaluación
 firmada por el comité tutor del alumno y el comprobante de envío de 
 la publicación. En caso de no contar con dicho comprobante, se deberá 
 entregar el borrador final del artículo, listo para enviarse y aprobado 
-por el comité tutor..
+por el comité tutor.
  
 
 # Publicación de artículo (independiente del artículo requisito)
