@@ -102,28 +102,24 @@ revista donde se pretenda publicar el artículo debe ser aprobada por
 el Comité Académico.
 
 Al finalizar el semestre se deberá entregar un acta de evaluación
-firmada por el tutor del alumno, el comprobante de envío de la
-publicación y el acuse de recibido.
+firmada por el comité tutor del alumno y el comprobante de envío de 
+la publicación. En caso de no contar con dicho comprobante, se deberá 
+entregar el borrador final del artículo, listo para enviarse y aprobado 
+por el comité tutor..
  
 
 # Publicación de artículo (independiente del artículo requisito)
 
-Esta actividad debe centrarse en la redacción de un artículo
-científico para su publicación (de acuerdo a los lineamientos que se
-establecen en el plan de estudios). Esta publicación puede ser
-resultado del proyecto de doctorado o de una investigación previa,
-relacionada con su línea de investigación. Lo anterior con el objeto
-de promover la publicación de artículos. Es importante mencionar que
-la publicación debe contener datos inéditos. La actividad deberá
-contar con la revisión sistemática a lo largo del semestre de un tutor
-acreditado para Doctorado externo al comité tutor del alumno que dé
-seguimiento a los avances del artículo.
+Esta actividad debe centrarse en la redacción de un artículo científico 
+para su publicación. Esta publicación puede ser resultado del proyecto de 
+doctorado o de una investigación previa, relacionada con su línea de 
+investigación. Lo anterior con el objeto de promover la publicación de artículos. 
+Es importante mencionar que la publicación debe contener datos inéditos.
 
-Al finalizar el semestre se deberá entregar un acta de evaluación
-firmada por el tutor del alumno, el comprobante de envío de la
-publicación y el acuse de recibido, así como un informe sobre la participación del alumno en
-el artículo, firmado por el tutor principal y por el tutor externo que
-dio seguimiento al desarrollo de la actividad.
+Al finalizar el semestre se deberá entregar un acta de evaluación firmada por 
+el comité tutor del alumno y el comprobante de envío de la publicación. En caso 
+de no contar con dicho comprobante, se deberá entregar el borrador final del 
+artículo, listo para enviarse y aprobado por el comité tutor.
 
  
 
