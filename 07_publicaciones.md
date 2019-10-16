@@ -20,6 +20,8 @@ González-Padrón, S. K., Lerner, A. M., & Mazari-Hiriart, M. (2019). Improving 
 Oliva, M., García-Frapolli, E., Porter-Bolland, L., & Montiel, S. (2019). Early Detection of Conflicts for the Management of Protected Areas: The Case of Charcoal Production in the Los Petenes Biosphere Reserve, Mexico. Environmental management, 1-12.
 <https://doi.org/10.1007/s00267-019-01170-x>
 
+Pelayo Pérez, M. B., y Gasca Zamora, J. (2019). Reconfiguración de un territorio hidrosocial tras la construcción de la presa El Cajón, en Nayarit. región y sociedad, 31, e1201. <doi: 10.22198/rys2019/31/1201>
+
 Rodríguez-Izquierdo, E., Miquelajauregui, Y., Padilla, P., & Bojórquez-Tapia, L. A. (2019). Modelling approach for crafting environmental regulations under deep uncertainty: Whale watching in Ojo de liebre, Mexico. Ecological Modelling, 408, 108731. <https://doi.org/10.1016/j.ecolmodel.2019.108731>
 
 
