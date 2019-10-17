@@ -4,13 +4,27 @@ function AcadList(props) {
     const acads = props.acads;
     var arr = [];
     for (var key in acads) {
-	arr.push(key);	
+	arr.push([acads[key], key]);
     }
-    const listItems = arr.map((a) =>
-			      <li>{a}</li>
-			     );
+    const listItems = arr.map(
+	(a) =>
+	    <tr>
+	    <td><a href={"/tutores/" + a[1] + "/"}>{a[0]['nombre']}</a></td>
+	    <td>{a[0]['palabras_clave']}</td>
+	    </tr>
+    );
     return (
-	    <ul>{listItems}</ul>
+	    <table>
+	    <thead>
+	    <tr>
+	    <th>Nombre</th>
+	    <th>Palabras clave</th>
+	    </tr>
+	    </thead>
+	    <tbody>
+	    {listItems}
+	    </tbody>
+	    </table>
     );
 }
 
@@ -58,6 +72,7 @@ class NameForm extends React.Component {
 		</label>
 		<input type="submit" value="buscar" />
 		</form>
+		<br />
 		<AcadList acads={this.state.result} />
 		</div>
 	);
