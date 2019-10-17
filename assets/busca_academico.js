@@ -1,18 +1,25 @@
 'use strict';
 
+
 function AcadList(props) {
     const acads = props.acads;
-    var arr = [];
-    for (var key in acads) {
-	arr.push([acads[key], key]);
+    console.log(acads);
+    const acad_rows = []
+
+    for (var a in acads) {
+	// const wordlist = a['palabras_clave'].map((w) => {
+	// 	<li>{w}</li>
+	// });
+	// console.log(wordlist);
+    
+	acad_rows.push(
+		<tr>
+		<td><a href={"/tutores/" + a['username'] + "/"}>{a['nombre']}</a></td>
+		<td></td>
+		</tr>
+	)
     }
-    const listItems = arr.map(
-	(a) =>
-	    <tr>
-	    <td><a href={"/tutores/" + a[1] + "/"}>{a[0]['nombre']}</a></td>
-	    <td>{a[0]['palabras_clave']}</td>
-	    </tr>
-    );
+    
     return (
 	    <table>
 	    <thead>
@@ -22,7 +29,7 @@ function AcadList(props) {
 	    </tr>
 	    </thead>
 	    <tbody>
-	    {listItems}
+	    {acad_rows}
 	    </tbody>
 	    </table>
     );
@@ -53,18 +60,16 @@ class NameForm extends React.Component {
 	fetch(URL)
 	    .then(response => response.json())
 	    .then((jsonData) => {
-		console.log(jsonData);
 		this.setState({result: jsonData});
 	    })
 	    .catch((error) => {
 	    	// handle your errors here
 	    	console.log(error);
 	    });
-	
+	console.log(this.state.result);
     }
     
     render() {
-	const epa = [1, 2, 3, 4];
 	return (<div>
 		<form onSubmit={this.handleSubmit}>
 		<label>
