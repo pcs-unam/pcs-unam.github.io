@@ -48,7 +48,7 @@ class NameForm extends React.Component {
 
 	event.preventDefault();
 	
-	const URL = 'http://localhost:8000/inicio/academicos/search/?qs=' + this.state.value;
+	const URL = '/inicio/academicos/search/?qs=' + this.state.value;
 	
 	fetch(URL)
 	    .then(response => response.json())
