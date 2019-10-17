@@ -1,26 +1,50 @@
 'use strict';
 
 
-function AcadList(props) {
-    const acads = props.acads;
-    console.log(acads);
-    const acad_rows = []
+class WordList extends React.Component {
+    render() {
+	const words = this.props.words;
+	const wl = words.map((w) =>
+			     <li>{w}</li>
+			    );
+	return (<ul>{wl}</ul>);
+    }
+}
 
-    for (var a in acads) {
+
+class AcademicoRow extends React.Component {
+    render() {
+	const academico = this.props.academico;
+	
+	return (
+		<tr>
+		<td><a href={"/tutores/" + academico.username + "/"}>{academico.nombre}</a></td>
+		<td><WordList words={academico.palabras_clave} /></td>
+		</tr>
+	);
+    }
+}
+
+
+class AcadTable extends React.Component {
+    
+    render () {
+	//const acads = props.acads['result'];
+	const acad_rows = []
+
+	//for (var a in acads) {
 	// const wordlist = a['palabras_clave'].map((w) => {
 	// 	<li>{w}</li>
 	// });
 	// console.log(wordlist);
-    
-	acad_rows.push(
-		<tr>
-		<td><a href={"/tutores/" + a['username'] + "/"}>{a['nombre']}</a></td>
-		<td></td>
-		</tr>
-	)
-    }
-    
-    return (
+	
+	for (var i=0; i< this.props.acads.length; i++) {
+	    acad_rows.push(
+	 	    <AcademicoRow academico={this.props.acads[i]} key={i} />
+	    );
+	}
+	
+	return(
 	    <table>
 	    <thead>
 	    <tr>
@@ -32,7 +56,8 @@ function AcadList(props) {
 	    {acad_rows}
 	    </tbody>
 	    </table>
-    );
+	)
+    }
 }
 
 
@@ -55,12 +80,13 @@ class NameForm extends React.Component {
 
 	event.preventDefault();
 	
-	const URL = '/siges/inicio/academicos/search/?qs=' + this.state.value;
+	//const URL = '/siges/inicio/academicos/search/?qs=' + this.state.value;
+	const URL = 'http://localhost:8000/inicio/academicos/search/?qs=' + this.state.value;	
 	
 	fetch(URL)
 	    .then(response => response.json())
 	    .then((jsonData) => {
-		this.setState({result: jsonData});
+		this.setState({result: jsonData['result']});
 	    })
 	    .catch((error) => {
 	    	// handle your errors here
@@ -78,7 +104,7 @@ class NameForm extends React.Component {
 		<input type="submit" value="buscar" />
 		</form>
 		<br />
-		<AcadList acads={this.state.result} />
+		<AcadTable acads={this.state.result} />
 		</div>
 	);
     }
