@@ -15,11 +15,15 @@ class WordList extends React.Component {
 class AcademicoRow extends React.Component {
     render() {
 	const academico = this.props.academico;
-	
+	console.log(academico);
+	const disp_tutor = academico.disponible_tutor ? '✔' : ' ';
+	const disp_miembro = academico.disponible_miembro ? '✔' : ' ';	
 	return (
 		<tr>
 		<td><a href={"/tutores/" + academico.username + "/"}>{academico.nombre}</a></td>
 		<td><WordList words={academico.palabras_clave} /></td>
+		<td>{disp_tutor}</td>
+		<td>{disp_miembro}</td>
 		</tr>
 	);
     }
@@ -48,8 +52,10 @@ class AcadTable extends React.Component {
 	    <table>
 	    <thead>
 	    <tr>
-	    <th>Nombre</th>
-	    <th>Palabras clave</th>
+		<th>Nombre</th>
+		<th>Palabras clave</th>
+		<th>Disponible como tutor principal (dirección de alumnos)</th>
+		<th>Disponible como miembro de comité tutor (asesoría de alumnos)</th>
 	    </tr>
 	    </thead>
 	    <tbody>
@@ -92,14 +98,13 @@ class NameForm extends React.Component {
 	    	// handle your errors here
 	    	console.log(error);
 	    });
-	console.log(this.state.result);
     }
     
     render() {
 	return (<div>
 		<form onSubmit={this.handleSubmit}>
 		<label>
-		<input type="text" value={this.state.value} onChange={this.handleChange} />
+		<input type="text" value={this.state.value} onChange={this.handleChange} placeholder="nombres, palabras clave..." />
 		</label>
 		<input type="submit" value="buscar" />
 		</form>
