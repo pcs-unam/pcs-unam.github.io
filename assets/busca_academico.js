@@ -15,7 +15,6 @@ class WordList extends React.Component {
 class AcademicoRow extends React.Component {
     render() {
 	const academico = this.props.academico;
-	console.log(academico);
 	const disp_tutor = academico.disponible_tutor ? '✔' : ' ';
 	const disp_miembro = academico.disponible_miembro ? '✔' : ' ';	
 	return (
@@ -33,14 +32,8 @@ class AcademicoRow extends React.Component {
 class AcadTable extends React.Component {
     
     render () {
-	//const acads = props.acads['result'];
-	const acad_rows = []
 
-	//for (var a in acads) {
-	// const wordlist = a['palabras_clave'].map((w) => {
-	// 	<li>{w}</li>
-	// });
-	// console.log(wordlist);
+	const acad_rows = []
 	
 	for (var i=0; i< this.props.acads.length; i++) {
 	    acad_rows.push(
@@ -86,8 +79,8 @@ class NameForm extends React.Component {
 
 	event.preventDefault();
 	
-	//const URL = '/siges/inicio/academicos/search/?qs=' + this.state.value;
-	const URL = 'http://localhost:8000/inicio/academicos/search/?qs=' + this.state.value;	
+	const URL = '/siges/inicio/academicos/search/?qs=' + this.state.value;
+	// const URL = 'http://localhost:8000/inicio/academicos/search/?qs=' + this.state.value;	
 	
 	fetch(URL)
 	    .then(response => response.json())
@@ -95,7 +88,6 @@ class NameForm extends React.Component {
 		this.setState({result: jsonData['result']});
 	    })
 	    .catch((error) => {
-	    	// handle your errors here
 	    	console.log(error);
 	    });
     }
