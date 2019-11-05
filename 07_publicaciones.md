@@ -17,6 +17,8 @@ García-Sánchez, M., & Güereca, L. P. (2019). Environmental and social life cy
 
 González-Padrón, S. K., Lerner, A. M., & Mazari-Hiriart, M. (2019). Improving Water Access and Health through Rainwater Harvesting: Perceptions of an Indigenous Community in Jalisco, Mexico. Sustainability, 11(18), 4884. <https://doi.org/10.3390/su11184884>
 
+González-Quintero, C., & Avila-Foucat, V. S. (2019). Operationalization and Measurement of Social-Ecological Resilience: A Systematic Review. Sustainability, 11(21), 6073. <https://doi.org/10.3390/su11216073>
+
 Oliva, M., García-Frapolli, E., Porter-Bolland, L., & Montiel, S. (2019). Early Detection of Conflicts for the Management of Protected Areas: The Case of Charcoal Production in the Los Petenes Biosphere Reserve, Mexico. Environmental management, 1-12.
 <https://doi.org/10.1007/s00267-019-01170-x>
 
