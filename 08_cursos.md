@@ -17,7 +17,7 @@ Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
 Interesados en cursar materias intersemestrales, favor de registrarse directamente con los 
 profesores del curso. 
 
-Los cursos intersemestrales se deberán inscribir formalmente en el sistema de SIAEP
+Los cursos intersemestrales se deberán inscribir formalmente en el sistema de SAEP
 durante el periodo de inscripciones 2020-2.
 
 
