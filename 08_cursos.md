@@ -7,12 +7,19 @@ menu: true
 ---
 
 
-### Semestre 2020-1
+### Semestre 2020-2
 
-El semestre 2020-1 inicia el 5 de agosto y termina el 6 de diciembre, considerando dos semanas de
+El semestre 2020-2 inicia el 27 de enero y termina el 5 de junio, considerando dos semanas de
 evaluaciones y exámenes tutorales.
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
+
+Interesados en cursar materias intersemestrales, favor de registrarse directamente con los 
+profesores del curso. 
+
+Los cursos intersemestrales se deberán inscribir formalmente en el sistema de SIAEP
+durante el periodo de inscripciones 2020-2.
+
 
 
 <!-- cursos-obligatorios-cdmx -->
