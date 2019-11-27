@@ -36,6 +36,7 @@ permalink: /doctorado/catalogo_revistas/
  - Journal of Rural Studies
  - Landscape and urban planning
  - Landscape Ecology
+ - Letras Verdes. Revista Latinoamericana de Estudios Socioambientales
  - Marine Policy
  - Ocean & Coastal Management
  - ORYX. The International Journal of Conservation
