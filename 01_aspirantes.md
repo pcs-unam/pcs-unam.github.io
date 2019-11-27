@@ -16,7 +16,7 @@ Consultar detalles de la [Convocatoria](/assets/docs/convocatoria_2020-1_supleme
 
 ## Registro para el examen de inglés que aplica la ENALLT
 
-Revisar los detalles para el registro al examen de comprensión de lectura y dominio de inglés en el [Instructivo para inglés](/assets/docs/instrucciones-ingles.pdf)
+Revisar los detalles para el registro al examen de comprensión de lectura y dominio de inglés en el [Instructivo ENALLT](/assets/docs/instrucciones-ingles.pdf)
 
 ## Documentos descargables
 
