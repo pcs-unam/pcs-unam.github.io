@@ -27,7 +27,7 @@ menu: true
 |![biologia](/assets/logos/ibiol.png)			  |Instituto de Biología    															 |Dr. Víctor Sánchez Cordero Dávila     |Dra. Andrea Martínez Ballesté          |Dr. Enrique Martínez Meyer       |
 |![icmyl](/assets/logos/icml.png)				  |Instituto de Ciencias del Mar y Limnología   										 |Dra. Elva G. Escobar Briones          |Dr. Guillermo Juan Fernández Aceves    |Dr. Francisco Javier Flores de Santiago    |
 |![ecologia](/assets/logos/ecologia.png)		  |Instituto de Ecología    															 |Dr. Constantino Macías García         |Dra. Karina Boege Paré                 |Dra. Amy Michelle Lerner       |
-|![renovables](/assets/logos/ier.png)			  |Instituto de Energías Renovables     												 |Dr. Antonio del Río Portilla          |Dr. Oscar Alfredo Jaramillo Salgado           |                            |
+|![renovables](/assets/logos/ier.png)			  |Instituto de Energías Renovables     												 |Dr. Antonio del Río Portilla          |Dr. Eduardo Ramos Mora           |                            |
 |![ingenieria](/assets/logos/ingenieria.png)	  |Instituto de Ingeniería      														 |Dr. Luis Álvarez Icaza Longoria       |Dra. Leonor Patricia Güereca Hernández |Dra. Alma Chávez Mejía         |
 |![iies](/assets/logos/iies.png)				  |Instituto de Investigaciones en Ecosistemas y Sustentabilidad     					 |Dr. Diego R. Pérez Salicrup        |Dr. Roberto Lindig Cisneros                |Dra. Tuyeni Heita Mwampamba       |
 |![iie](/assets/logos/economicas.png)			  |Instituto de Investigaciones Económicas      										 |Dr. Armando Sánchez Vargas         |Dr. Gustavo López Pardo            |Dra. Rosario Haydee Pérez y Espejo    |
