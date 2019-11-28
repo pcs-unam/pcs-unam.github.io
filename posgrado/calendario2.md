@@ -18,7 +18,7 @@ Para que una solicitud al Comité Académico pase a la sesión más próxima, te
 - **27 de enero**  Inicia el período de reposición y resello de credenciales
 
 
-Para conocer las fechas de entrega del informe de becarios CONACyT 2019-1, consultar la siguiente dirección: <https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php>
+Para conocer las fechas de entrega del informe de becarios CONACyT 2020-1, consultar la siguiente dirección: <https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php>
 
 
 ### Febrero
