@@ -35,3 +35,6 @@ permalink: /maestria/descargables/
  - [Propuesta formato voto aprobatorio Protocolo](/assets/docs/graduacion/fvam-protocolo.docx)
 
  - [Portada de Tesis, Reporte Técnico, Artículo o Protocolo](/assets/docs/graduacion/portada-tesis-art-prot-rep-pcs.docx)
+ 
+ - [Formato de trámite de titulación](/assets/formatos/maestria/graduacion/formato_tramite_titulacion.pdf)
+

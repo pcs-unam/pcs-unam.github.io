@@ -7,10 +7,12 @@ menu: true
 ---
 
  - [Directorio](/posgrado/directorio)
- - [Calendario de actividades](/posgrado/calendario1)
+ - [Calendario de actividades 2020-2](/posgrado/calendario2)
+ - [Calendario de actividades 2020-1](/posgrado/calendario1)
  - [Calendario escolar](https://www.dgae.unam.mx/calendarios_escolares.html)
  - [Entidades](/posgrado/entidades)
  - [Ubicación](/posgrado/ubicacion)
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEQ6jIR4zGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

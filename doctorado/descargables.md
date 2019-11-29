@@ -32,4 +32,4 @@ permalink: /doctorado/descargables/
  - [Ejemplo autorización de transferencia de información](/assets/docs/graduacion/ejemplo_solicitud_transf_datos.pdf)
  - [Características de la fotografía](/assets/docs/graduacion/foto_emision_titulo.pdf)
  - [Solicitud de emisión de grado](/assets/formatos/doctorado/graduacion/solicitud_emision_grado.docx)
-
+ - [Formato de trámite de titulación](/assets/formatos/doctorado/graduacion/formato_tramite_titulacion.pdf)
