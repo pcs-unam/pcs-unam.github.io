@@ -5,7 +5,7 @@ permalink: /posgrado/calendario2/
 pleca: /assets/plecas/p17.jpg
 ---
 
-Notas importantes: 
+El semestre 2020-2 inicia el 27 de enero y termina el 5 de junio, considerando dos semanas de evaluaciones y exámenes tutorales.
 
 Para que una solicitud al Comité Académico pase a la sesión más próxima, tendrá que entregarse en la oficina de Posgrado correspondiente a más tardar el jueves anterior a las 12:00 horas. 
 
