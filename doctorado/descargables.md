@@ -28,7 +28,7 @@ permalink: /doctorado/descargables/
  - [Formato de visto bueno para iniciar graduación](/assets/formatos/doctorado/graduacion/formato_visto_bueno_iniciar_graduacion.docx)
  - [Plantilla de Portada de Tesis](/assets/docs/graduacion_doctorado/portada-tesis-doc-pcs.docx)
  - [Formato voto aprobatorio](/assets/docs/graduacion_doctorado/fvad.docx)
- - [Requisitos para solicitar autorización de examen](/assets/docs/graduacion/doc_solicitar_autorizacion_examen.pdf)
+ - [Requisitos para solicitar autorización de examen](/assets/docs/graduacion_doctorado/doc_solicitar_autorizacion_examen.pdf)
  - [Ejemplo autorización de transferencia de información](/assets/docs/graduacion/ejemplo_solicitud_transf_datos.pdf)
  - [Características de la fotografía](/assets/docs/graduacion/foto_emision_titulo.pdf)
  - [Solicitud de emisión de grado](/assets/formatos/doctorado/graduacion/solicitud_emision_grado.docx)
