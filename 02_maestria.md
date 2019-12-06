@@ -18,5 +18,6 @@ implementar exitosamente políticas y proyectos sostenibles.
  - [Mapa curricular](/maestria/mapa)
  - [Seminario de tesis](/maestria/seminario_tesis)
  - [Modalidades para la graduación](/maestria/modalidades_graduacion)
- - [Procedimiento de Graduación](/maestria/graduacion)
+ - [Procedimiento de graduación](/maestria/graduacion)
+ - [Procedimiento de graduación anticipada](/maestria/graduacion-anticipada/)
  - [Descargables](/maestria/descargables)
