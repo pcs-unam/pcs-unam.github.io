@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Maestría
+title: Trámites de graduación anticipada
 permalink: /maestria/graduacion-anticipada/
 pleca: /assets/plecas/p17.jpg
 menu: false
 ---
-
-## Trámites de graduación anticipada
 
 Este proceso lo pueden realizar los alumnos de Maestría interesados en obtener el grado durante el cuarto semestre 
 de sus estudios, incluyendo a los interesados en ingresar al Doctorado en Ciencias de la Sostenibilidad en el mes 
