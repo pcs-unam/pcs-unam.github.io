@@ -31,6 +31,8 @@ durante el periodo de inscripciones 2020-2.
 <!-- cursos-optativos-cdmx -->
 <!-- cursos-optativos-morelia -->
 <!-- cursos-optativos-leon -->
+<!-- seminarios-de-doctorado-cdmx -->
+<!-- seminarios-de-doctorado-morelia -->
 
 
 
