@@ -16,7 +16,7 @@ Consultar detalles de la [Convocatoria](/assets/docs/convocatoria2021-1.pdf) en 
 
 ## Registro para el examen de inglés que aplica la ENALLT
 
-Revisar los detalles para el registro al examen de comprensión de lectura y dominio de inglés en el [Instructivo ENALLT](/assets/docs/instrucciones-ingles.pdf)
+Revisar los detalles para el registro al examen de comprensión de lectura y dominio de inglés en el [Instructivo ENALLT](/assets/docs/instrucciones-ingles.pdf). NOTA IMPORTANTE: Los pagos deberán realizarse directamente en el banco BBVA (tarda 3 días hábiles en ser validado).
 
 ## Documentos descargables
 
