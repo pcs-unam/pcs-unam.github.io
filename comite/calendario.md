@@ -1,21 +1,21 @@
 ---
-title: Calendario de sesiones 2019
+title: Calendario de sesiones 2020
 layout: page
 permalink: /comite/calendario/
 ---
 
 
-| 15 de enero | 
-| 12 de febrero |
-| 12 de marzo | 
-| 9 de abril | 
-| 14 de mayo |
-| 11 de junio |
+| 14 de enero | 
+| 11 de febrero |
+| 10 de marzo | 
+| 14 de abril | 
+| 12 de mayo |
+| 9 de junio |
 
-| 13 de agosto |
-| 10 de septiembre |
-| 8 de octubre | 
-| 12 de noviembre |
-| 10 de diciembre |
+| 11 de agosto |
+| 8 de septiembre |
+| 13 de octubre | 
+| 10 de noviembre |
+| 8 de diciembre |
 
 
