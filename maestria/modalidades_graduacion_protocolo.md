@@ -30,15 +30,15 @@ Evaluación Doctorado  |        Ingresa al Doctorado   | 	No ingresa al Doctorad
 
 Calendario de aplicación de estos lineamientos por generación de ingreso a la Maestría en Ciencias de la Sostenibilidad:
 
-Generación        |     2016	    |   2017      | 2018	        | 2019	       | 2020
-------------------|--------------|-------------|--------------|-------------|-------------
-Formato del texto | Sugerido     | Sugerido    | Sugerido     | Obligatorio | Obligatorio
-------------------|--------------|-------------|--------------|-------------|-------------
-Promedio          | Sugerido     | Sugerido    | Sugerido     | Sugerido    | Obligatorio	
+Generación             |     2016	    |   2017      | 2018	        | 2019	       | 2020
+-----------------------|--------------|-------------|--------------|-------------|-------------
+Lineamientos del texto | Sugerido     | Sugerido    | Sugerido     | Obligatorio | Obligatorio
+-----------------------|--------------|-------------|--------------|-------------|-------------
+Promedio               | No aplica    | No aplica   | No aplica    | No aplica   | Obligatorio	
   
 
 Descargables:
 
-- [Características del artículo](/assets/docs/graduacion/caracteristicas_articulo.pdf)
+- [Lineamientos del texto para protocolo](/assets/docs/graduacion/lineamientos_protocolo.pdf)
 
-- [Formato para evaluación de egreso por artículo](/assets/docs/graduacion/formato_evaulacion_egreso_articulo.pdf)
+- [Formato para evaluación de egreso por protocolo](/assets/docs/graduacion/formato_evaulacion_egreso_protocolo.pdf)
