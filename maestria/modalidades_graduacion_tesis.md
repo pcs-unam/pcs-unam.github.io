@@ -16,7 +16,7 @@ pleca: /assets/plecas/p14.jpg
 Calendario de aplicación de estos lineamientos por generación de ingreso a la Maestría en Ciencias de la Sostenibilidad:
 
 
-Generación        | Gen. 2016-I	 | Gen. 2017-I | Gen. 2018-I	| Gen. 2019-I	| Gen. 2020-I
+Generación        |     2016	    |   2017      | 2018	        | 2019	       | 2020
 ------------------|--------------|-------------|--------------|-------------|-------------
 Formato del texto | Sugerido     | Sugerido    | Sugerido     | Obligatorio | Obligatorio
 
