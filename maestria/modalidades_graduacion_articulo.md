@@ -17,16 +17,9 @@ pleca: /assets/plecas/p11.jpg
 
  - El jurado deberá conformarse por los miembros del comité tutor y dos externos al mismo. Estos últimos pueden o no estar acreditados en el Posgrado y se recomienda que no formen parte de los coautores del artículo en cuestión.
 
-Calendario de aplicación de estos lineamientos por generación de ingreso a la Maestría en Ciencias de la Sostenibilidad:
-
-
-Generación        | Gen. 2016-I	 | Gen. 2017-I | Gen. 2018-I	| Gen. 2019-I	| Gen. 2020-I
-------------------|--------------|-------------|--------------|-------------|-------------
-Formato del texto | Sugerido     | Sugerido    | Sugerido     | Obligatorio | Obligatorio
-
 
 Descargables:
 
-- [Características del artículo](/assets/docs/graduacion/caracteristicas_articulo.pdf)
+- [Lineamientos del texto para artículo](/assets/docs/graduacion/lineamientos_articulo.pdf)
 
 - [Formato para evaluación de egreso por artículo](/assets/docs/graduacion/formato_evaulacion_egreso_articulo.pdf)

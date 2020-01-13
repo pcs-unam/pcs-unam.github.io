@@ -18,11 +18,11 @@ pleca: /assets/plecas/p12.jpg
  - El mismo jurado calificará el egreso de la Maestría y el ingreso al Doctorado, en un examen de grado y en el cual se evaluará con dos formatos (ver descargables). Por un lado, se calificará el documento escrito (egreso Maestría) y por otro, con la rúbrica de entrevista de ingreso al Doctorado que se aplica a toda(o)s la(o)s aspirantes. Esto implica que no hay una garantía de ingreso al Doctorado, a pesar de obtener el grado de Maestría:
 
 
-                      |         Resultado favorable   |	  Resultado no favorable
+&nbsp;                |         Resultado favorable   |	  Resultado no favorable
 ----------------------|-------------------------------|------------------------------------------------
-Evaluación Maestría	  |         Obtiene el grado    	|   No obtiene grado y no ingresa al Doctorado
-----------------------|-------------------------------|------------------------------------------------
+Evaluación Maestría	  |         Obtiene el grado     	|   No obtiene grado y no ingresa al Doctorado
 Evaluación Doctorado  |        Ingresa al Doctorado   | 	No ingresa al Doctorado
+
 
  - El ingreso al doctorado dependerá entonces, de obtener un resultado favorable en las dos evaluaciones y no necesitará participar en el proceso (académico) de selección de aspirantes de nuevo ingreso. 
 
@@ -30,15 +30,15 @@ Evaluación Doctorado  |        Ingresa al Doctorado   | 	No ingresa al Doctorad
 
 Calendario de aplicación de estos lineamientos por generación de ingreso a la Maestría en Ciencias de la Sostenibilidad:
 
-Generación        | Gen. 2016-I	 | Gen. 2017-I | Gen. 2018-I	| Gen. 2019-I	| Gen. 2020-I
-------------------|--------------|-------------|--------------|-------------|-------------
-Formato del texto | Sugerido     | Sugerido    | Sugerido     | Obligatorio | Obligatorio
-------------------|--------------|-------------|--------------|-------------|-------------
-Promedio          | Sugerido     | Sugerido    | Sugerido     | Sugerido    | Obligatorio	
+Generación             |     2016	    |   2017      | 2018	        | 2019	       | 2020
+-----------------------|--------------|-------------|--------------|-------------|-------------
+Lineamientos del texto | Sugerido     | Sugerido    | Sugerido     | Obligatorio | Obligatorio
+-----------------------|--------------|-------------|--------------|-------------|-------------
+Promedio               | No aplica    | No aplica   | No aplica    | No aplica   | Obligatorio	
   
 
 Descargables:
 
-- [Características del artículo](/assets/docs/graduacion/caracteristicas_articulo.pdf)
+- [Lineamientos del texto para protocolo](/assets/docs/graduacion/lineamientos_protocolo.pdf)
 
-- [Formato para evaluación de egreso por artículo](/assets/docs/graduacion/formato_evaulacion_egreso_articulo.pdf)
+- [Formato para evaluación de egreso por protocolo](/assets/docs/graduacion/formato_evaulacion_egreso_protocolo.pdf)

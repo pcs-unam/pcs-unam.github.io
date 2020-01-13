@@ -15,16 +15,9 @@ pleca: /assets/plecas/p13.jpg
 
  - El jurado deberá conformarse por los miembros del comité tutor y dos externos al mismo. Estos últimos pueden o no estar acreditados en el Posgrado y se recomienda que especialmente conozcan a fondo la problemática o el caso de estudio bajo análisis.
 
-Calendario de aplicación de estos lineamientos por generación de ingreso a la Maestría en Ciencias de la Sostenibilidad:
-
-
-Generación        | Gen. 2016-I	 | Gen. 2017-I | Gen. 2018-I	| Gen. 2019-I	| Gen. 2020-I
-------------------|--------------|-------------|--------------|-------------|-------------
-Formato del texto | Sugerido     | Sugerido    | Sugerido     | Obligatorio | Obligatorio
-
 
 Descargables:
 
-- [Características del reporte técnico](/assets/docs/graduacion/caracteristicas_reporte_tecnico.pdf)
+- [Lineamientos del texto para reporte técnico](/assets/docs/graduacion/lineamientos_reporte_tecnico.pdf)
 
 - [Formato para evaluación de egreso por reporte técnico](/assets/docs/graduacion/formato_evaulacion_egreso_reporte.pdf)
