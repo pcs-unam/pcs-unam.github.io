@@ -13,16 +13,9 @@ pleca: /assets/plecas/p14.jpg
 
  - Las tesis en un Posgrado como Ciencias de la Sostenibilidad pueden presentarse en diversos formatos. Aquí se puede descargar un formato recomendado. Cualquier formato, sin embargo, deberá considerar las secciones que se evalúan y se muestran en el formato correspondiente.
 
-Calendario de aplicación de estos lineamientos por generación de ingreso a la Maestría en Ciencias de la Sostenibilidad:
-
-
-Generación        |     2016	    |   2017      | 2018	        | 2019	       | 2020
-------------------|--------------|-------------|--------------|-------------|-------------
-Formato del texto | Sugerido     | Sugerido    | Sugerido     | Obligatorio | Obligatorio
-
 
 Descargables:
 
-- [Características de la tesis](/assets/docs/graduacion/caracteristicas_tesis.pdf)
+- [Lineamientos del texto para tesis](/assets/docs/graduacion/lineamientos_tesis.pdf)
 
 - [Formato para evaluación de egreso por tesis](/assets/docs/graduacion/formato_evaulacion_egreso_tesis.pdf)
