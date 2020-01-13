@@ -27,6 +27,6 @@ Formato del texto | Sugerido     | Sugerido    | Sugerido     | Obligatorio | Ob
 
 Descargables:
 
-FORMATO DEL ARTÍCULO
+- [Características del artículo](/assets/docs/graduacion/caracteristicas_articulo.pdf)
 
-FORMATO PARA EVALUACIÓN DE EGRESO DE MAESTRÍA POR MODALIDAD DE ARTÍCULO
+- [Formato para evaluación de egreso por artículo](/assets/docs/graduacion/formato_evaulacion_egreso_articulo.pdf)
