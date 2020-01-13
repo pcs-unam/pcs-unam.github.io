@@ -20,6 +20,6 @@ pleca: /assets/plecas/p11.jpg
 
 Descargables:
 
-- [Lineamientos del texto para el artículo](/assets/docs/graduacion/lineamientos_articulo.pdf)
+- [Lineamientos del texto para artículo](/assets/docs/graduacion/lineamientos_articulo.pdf)
 
 - [Formato para evaluación de egreso por artículo](/assets/docs/graduacion/formato_evaulacion_egreso_articulo.pdf)
