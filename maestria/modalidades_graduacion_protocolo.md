@@ -18,11 +18,11 @@ pleca: /assets/plecas/p12.jpg
  - El mismo jurado calificará el egreso de la Maestría y el ingreso al Doctorado, en un examen de grado y en el cual se evaluará con dos formatos (ver descargables). Por un lado, se calificará el documento escrito (egreso Maestría) y por otro, con la rúbrica de entrevista de ingreso al Doctorado que se aplica a toda(o)s la(o)s aspirantes. Esto implica que no hay una garantía de ingreso al Doctorado, a pesar de obtener el grado de Maestría:
 
 
-                      |         Resultado favorable   |	  Resultado no favorable
+&nbsp;                |         Resultado favorable   |	  Resultado no favorable
 ----------------------|-------------------------------|------------------------------------------------
-Evaluación Maestría	  |         Obtiene el grado    	|   No obtiene grado y no ingresa al Doctorado
-----------------------|-------------------------------|------------------------------------------------
+Evaluación Maestría	  |         Obtiene el grado     	|   No obtiene grado y no ingresa al Doctorado
 Evaluación Doctorado  |        Ingresa al Doctorado   | 	No ingresa al Doctorado
+
 
  - El ingreso al doctorado dependerá entonces, de obtener un resultado favorable en las dos evaluaciones y no necesitará participar en el proceso (académico) de selección de aspirantes de nuevo ingreso. 
 
