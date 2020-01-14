@@ -41,4 +41,4 @@ Descargables:
 
 - [Lineamientos del texto para protocolo](/assets/docs/graduacion/lineamientos_protocolo.pdf)
 
-- [Formato para evaluación de egreso por protocolo](/assets/docs/graduacion/formato_evaulacion_egreso_protocolo.pdf)
+- [Formato para evaluación de egreso por protocolo](\assets\docs\graduacion\formato_evaluacion_egreso_protocolo.pdf)
