@@ -22,4 +22,4 @@ Descargables:
 
 - [Lineamientos del texto para artículo](/assets/docs/graduacion/lineamientos_articulo.pdf)
 
-- [Formato para evaluación de egreso por artículo](/assets/docs/graduacion/formato_evaulacion_egreso_articulo.pdf)
+- [Formato para evaluación de egreso por artículo](\assets\docs\graduacion\formato_evaluacion_egreso_articulo.pdf)
