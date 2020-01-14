@@ -20,4 +20,4 @@ Descargables:
 
 - [Lineamientos del texto para reporte técnico](/assets/docs/graduacion/lineamientos_reporte_tecnico.pdf)
 
-- [Formato para evaluación de egreso por reporte técnico](/assets/docs/graduacion/formato_evaulacion_egreso_reporte.pdf)
+- [Formato para evaluación de egreso por reporte técnico](\assets\docs\graduacion\formato_evaluacion_egreso_reporte.pdf)
