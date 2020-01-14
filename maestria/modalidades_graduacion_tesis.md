@@ -18,4 +18,4 @@ Descargables:
 
 - [Lineamientos del texto para tesis](/assets/docs/graduacion/lineamientos_tesis.pdf)
 
-- [Formato para evaluación de egreso por tesis](/assets/docs/graduacion/formato_evaulacion_egreso_tesis.pdf)
+- [Formato para evaluación de egreso por tesis](\assets\docs\graduacion\formato_evaluacion_egreso_tesis.pdf)
