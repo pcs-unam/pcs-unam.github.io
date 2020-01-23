@@ -39,9 +39,9 @@ durante el periodo de inscripciones 2020-2.
 ## Sesiones de tutoría
 
 
- - [Sesiones de tutoría I](/cursos/sesiones_de_tutoria_i/)
- - [Sesiones de tutoría II](/cursos/sesiones_de_tutoria_ii/)
- - [Actividades para la obtención del grado](/cursos/actividades_para_la_obtencion_del_grado/)
+ - [Sesiones de tutoría I obligatoria para alumnos del segundo semestre de la Maestría](/cursos/sesiones_de_tutoria_i/)
+ - [Sesiones de tutoría II obligatoria para alumnos del tercer semestre de la Maestría](/cursos/sesiones_de_tutoria_ii/)
+ - [Actividades para la obtención del grado obligatoria para alumnos del cuarto semestre de la Maestría](/cursos/actividades_para_la_obtencion_del_grado/)
 
 
 ## Seminarios de tesis
