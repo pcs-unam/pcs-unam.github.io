@@ -11,8 +11,7 @@ que tiene el objetivo de reunir por primera vez al comité tutor con la(el) estu
 segundo semestre y recibir retroalimentación en aspectos teóricos, metodológicos y logísticos; así como 
 establecer un plan de trabajo semestral de la(el) estudiante. 
 
-La reunión deberá llevarse a cabo entre el lunes 11 y el viernes 28 de febrero del presente. Los pasos 
-son los siguientes:
+Los pasos son los siguientes:
 
 **Paso 1.** A finales de enero y principios de febrero la(el) estudiante acordará con su tutor(a) principal 
 el lugar y fecha donde se llevará a cabo la reunión. Puede ser en una de las sedes del Posgrado, una sede 
