@@ -16,7 +16,7 @@ implementar exitosamente políticas y proyectos sostenibles.
  - [Normas operativas](/assets/docs/normas_operativas.pdf)
  - [Campos de conocimiento](/maestria/campos)
  - [Mapa curricular](/maestria/mapa)
- - [Tutoral cerp](/maestria/tutoral_cero/)
+ - [Tutoral cero](/maestria/tutoral_cero/)
  - [Seminario de tesis](/maestria/seminario_tesis)
  - [Modalidades para la graduación](/maestria/modalidades_graduacion)
  - [Procedimiento de graduación](/maestria/graduacion)
