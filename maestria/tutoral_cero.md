@@ -24,7 +24,7 @@ de Posgrado, debe tomar en cuenta que los salones no tienen instalación para ha
 deberán conectarse vía Skype o videollamada por celular. 
 
 **Paso 2.** Antes de la reunión, la(el) estudiante deberá pasar a la Coordinación por una impresión del formato de 
-acta para evaluación, a partir del 11 de febrero.
+acta para evaluación.
 
 **Paso 3.** Para esta primera reunión, la(el) estudiante expone en un máximo de 30 minutos, los siguientes puntos:
 
