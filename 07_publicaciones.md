@@ -19,6 +19,8 @@ González-Padrón, S. K., Lerner, A. M., & Mazari-Hiriart, M. (2019). Improving 
 
 González-Quintero, C., & Avila-Foucat, V. S. (2019). Operationalization and Measurement of Social-Ecological Resilience: A Systematic Review. Sustainability, 11(21), 6073. <https://doi.org/10.3390/su11216073>
 
+Jiménez, M., Pérez-Belmont, P., Schewenius, M., Lerner, A. M., & Mazari-Hiriart, M. (2020). Assessing the historical adaptive cycles of an urban social-ecological system and its potential future resilience: the case of Xochimilco, Mexico City. Regional Environmental Change, 20(1), 7. <https://doi.org/10.1007/s10113-020-01587-9>
+
 Oliva, M., García-Frapolli, E., Porter-Bolland, L., & Montiel, S. (2019). Early Detection of Conflicts for the Management of Protected Areas: The Case of Charcoal Production in the Los Petenes Biosphere Reserve, Mexico. Environmental management, 1-12.
 <https://doi.org/10.1007/s00267-019-01170-x>
 
