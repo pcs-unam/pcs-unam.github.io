@@ -25,6 +25,7 @@ permalink: /doctorado/catalogo_revistas/
  - Environmental Management
  - Environmental Research
  - Environmental Science & Policy
+ - EURE. Revista Latinoamericana de Estudios Urbanos Regionales
  - Food Policy
  - Global Environmental Change
  - Health & place
