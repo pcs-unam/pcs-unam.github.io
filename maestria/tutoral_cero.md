@@ -11,8 +11,7 @@ que tiene el objetivo de reunir por primera vez al comité tutor con la(el) estu
 segundo semestre y recibir retroalimentación en aspectos teóricos, metodológicos y logísticos; así como 
 establecer un plan de trabajo semestral de la(el) estudiante. 
 
-La reunión deberá llevarse a cabo entre el lunes 11 y el viernes 28 de febrero del presente. Los pasos 
-son los siguientes:
+Los pasos son los siguientes:
 
 **Paso 1.** A finales de enero y principios de febrero la(el) estudiante acordará con su tutor(a) principal 
 el lugar y fecha donde se llevará a cabo la reunión. Puede ser en una de las sedes del Posgrado, una sede 
@@ -25,7 +24,7 @@ de Posgrado, debe tomar en cuenta que los salones no tienen instalación para ha
 deberán conectarse vía Skype o videollamada por celular. 
 
 **Paso 2.** Antes de la reunión, la(el) estudiante deberá pasar a la Coordinación por una impresión del formato de 
-acta para evaluación, a partir del 11 de febrero.
+acta para evaluación.
 
 **Paso 3.** Para esta primera reunión, la(el) estudiante expone en un máximo de 30 minutos, los siguientes puntos:
 
@@ -40,7 +39,7 @@ acta para evaluación, a partir del 11 de febrero.
 estudiante. También definen, de manera conjunta, la modalidad de graduación preferida (tesis, reporte técnico, artículo 
 o protocolo de investigación doctoral). 
 
-Revisar lineamientos en la liga: https://sostenibilidad.posgrado.unam.mx/maestria/modalidades_graduacion/
+Revisar [modalidades de graduación](/maestria/modalidades_graduacion/)
 
 Si es el caso, la modalidad de graduación podrá ratificarse o modificarse en el primer tutoral oficial.
 
@@ -48,5 +47,6 @@ Si es el caso, la modalidad de graduación podrá ratificarse o modificarse en e
 la coordinación. En el caso de tutor(a)s vía remota, la(el) estudiante le enviará el acta escaneada para que la firme y 
 la regrese (también escaneada) a la Coordinación. 
 
-Revisar el calendario de actividades para conocer la fecha límite para realizar el tutoral cero. La siguiente evaluación 
-tutoral deberá ser realizada antes del 10 de junio. Ésta (y las siguientes dos) ya se calificarán en el sistema. 
+Revisar el [calendario de actividades](/posgrado/calendario2/) para conocer la fecha límite para realizar el tutoral cero. La siguiente evaluación tutoral deberá ser realizada al final del segundo semestre. Ésta (y las siguientes dos) ya se calificarán en el sistema de SAEP. 
+
+![Diagrama de procedimiento para tutoral cero](diagrama_tutoral_cero.png)
