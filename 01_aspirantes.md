@@ -16,9 +16,7 @@ Cabe señalar que el proceso de admisión continúa y se tendrá que ajustar de 
 
 Agradecemos su comprensión.
 
-
-
-
+-----------------
 
 Detalles de la [Convocatoria](/assets/docs/convocatoria2021-1.pdf) en los siguientes instructivos:
 
