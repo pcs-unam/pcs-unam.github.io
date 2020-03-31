@@ -18,6 +18,8 @@ Agradecemos su comprensión.
 
 
 
+
+
 Detalles de la [Convocatoria](/assets/docs/convocatoria2021-1.pdf) en los siguientes instructivos:
 
  - [Instructivo para aspirantes de Maestría](/assets/docs/instructivo-maestria.pdf)
