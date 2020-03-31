@@ -6,17 +6,23 @@ pleca: /assets/plecas/p16.jpg
 menu: true
 ---
 
-Convocatoria de ingreso al Posgrado en Ciencias de la Sostenibilidad para iniciar en agosto de 2020.
+## AVISO IMPORTANTE 
 
-Consultar detalles de la [Convocatoria](/assets/docs/convocatoria2021-1.pdf) en los siguientes instructivos:
+Estimad(a)s aspirantes del Posgrado en Ciencias de la Sostenibilidad para el ciclo 2021-1:
+
+Debido a la contingencia sanitaria por COVID-19, la lista de personas aceptadas para pasar a la etapa de entrevistas se publicará en una fecha próxima.  
+
+Cabe señalar que el proceso de admisión continúa y se tendrá que ajustar de acuerdo con la evolución de las actuales circunstancias.
+
+Agradecemos su comprensión.
+
+
+
+Detalles de la [Convocatoria](/assets/docs/convocatoria2021-1.pdf) en los siguientes instructivos:
 
  - [Instructivo para aspirantes de Maestría](/assets/docs/instructivo-maestria.pdf)
  - [Instructivo para aspirantes de Doctorado](/assets/docs/instructivo-doctorado.pdf)
 
-
-## Registro para el examen de inglés que aplica la ENALLT
-
-Revisar los detalles para el registro al examen de comprensión de lectura y dominio de inglés en el [Instructivo ENALLT](/assets/docs/instrucciones-ingles.pdf). NOTA IMPORTANTE: Los pagos deberán realizarse directamente en el banco BBVA (tarda 3 días hábiles en ser validado).
 
 ## Documentos descargables
 
