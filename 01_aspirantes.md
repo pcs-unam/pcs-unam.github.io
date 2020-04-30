@@ -6,7 +6,7 @@ pleca: /assets/plecas/p16.jpg
 menu: true
 ---
 
-## Resultados de la revisión de expedientes académicos 
+## Resultados de la revisión de expedientes administrativos y académicos 
 
 A continuación, se publica la lista de folios de los aspirantes que pasan a la etapa de entrevista, así como las indicaciones a seguir: 
 
