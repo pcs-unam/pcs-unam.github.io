@@ -31,6 +31,7 @@ permalink: /doctorado/catalogo_revistas/
  - Health & place
  - Human Dimension of Wildlife
  - Human Ecology
+ - International Journal of Agricultural Sustainability
  - International Regional Science Review
  - Journal of Cleaner Production
  - Journal of Peasant Studies
@@ -43,6 +44,7 @@ permalink: /doctorado/catalogo_revistas/
  - ORYX. The International Journal of Conservation
  - Pasos. Revista de Turismo y Patrimonio Cultural
  - Región y Sociedad
+ - Regional Environmental Change
  - Renewable & Sustainable Energy Reviews
  - Sustainability  
  - Sustainability Sciences  
