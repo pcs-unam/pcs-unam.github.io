@@ -28,6 +28,7 @@ pleca: /assets/plecas/p17.jpg
 - **del 10 al 21 de agosto** Periodo para registrar en actas las evaluaciones de asignaturas correspondientes al semestre 2020-2 en [*https://www.saep.unam.mx*](https://www.saep.unam.mx/)
 - **21 de agosto** Fecha límite para entregar, en la oficina de Posgrado correspondiente, el acta de la actividad académica complementaria de Doctorado, evaluada y firmada por todos los miembros del comité tutor.
 - **21 de agosto** Fecha límite para entregar, en la oficina de Posgrado correspondiente, el acta y resumen del seminario de tesis o acta y constancia del seminario de investigación de Maestría, evaluadas y firmadas por todos los miembros del comité tutor.
+- **21 de agosto** Fin del semestre 2020-2
 - **del 24 al 28 de agosto** Periodo para entregar, en la oficina de Posgrado correspondiente, el reporte de desempeño del becario de CONACYT, ya firmado por los tutores principales, para firma del Coordinador.
 
 ### Septiembre
