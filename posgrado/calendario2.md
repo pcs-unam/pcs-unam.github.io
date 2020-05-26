@@ -32,10 +32,8 @@ Para que una solicitud al Comité Académico pase a la sesión más próxima, te
 - **21 de agosto** Fecha límite para enviar al correo angie.sostenibilidad@gmail.com el acta de la actividad académica complementaria de Doctorado, evaluada y firmada por todos los miembros del comité tutor.
 - **21 de agosto** Fecha límite para enviar al correo angie.sostenibilidad@gmail.com el acta y resumen del seminario de tesis o acta y constancia del seminario de investigación de Maestría, evaluadas y firmadas por todos los miembros del comité tutor.
 - **21 de agosto** Fin del semestre 2020-2
-- **del 24 al 28 de agosto** Periodo para entregar, en la oficina de Posgrado correspondiente, el reporte de desempeño del becario de CONACYT, ya firmado por los tutores principales, para firma del Coordinador.
 
 ### Septiembre
-- **14 de septiembre** Recoger, en la oficina de Posgrado correspondiente, el reporte de desempeño del becario firmado por el Coordinador.
 - **21 de septiembre** Inicio del semestre 2021-1
 - **30 de septiembre** Fecha límite para presentar exámenes de candidatura pendientes.
 
