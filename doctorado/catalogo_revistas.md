@@ -9,7 +9,10 @@ permalink: /doctorado/catalogo_revistas/
  - AMBIO
  - Appetite
  - Architecture, City and Environment
+ - Austrian Journal of Development Studies
  - Biological Invasions
+ - Boletín de la Sociedad Geológica Mexicana
+ - Case Studies in the Environment 
  - Cities
  - Conservation and Society
  - Conservation Biology
@@ -21,6 +24,7 @@ permalink: /doctorado/catalogo_revistas/
  - Environment Development
  - Environment, Development and Sustainability
  - Environmental and urbanization
+ - Environmental Earth Sciences
  - Environmental Impact Assessment Review
  - Environmental Management
  - Environmental Research
@@ -28,6 +32,7 @@ permalink: /doctorado/catalogo_revistas/
  - EURE. Revista Latinoamericana de Estudios Urbanos Regionales
  - Food Policy
  - Global Environmental Change
+ - Groundwater for Sustainainable Development
  - Health & place
  - Human Dimension of Wildlife
  - Human Ecology
