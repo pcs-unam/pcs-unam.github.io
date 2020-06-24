@@ -21,7 +21,7 @@ Para que una solicitud al Comité Académico pase a la sesión más próxima, te
 ### Julio
 
 - **Del 6 al 24 de julio** Vacaciones académico-administrativas
-- **31 de julio** Fecha límite para enviar al correo angie.sostenibilidad@gmail.com solicitudes para el registro en el semestre 2021-1 de la actividad [seminario de tesis](/maestria/seminario_tesis). Sólo aplica para alumnos de Maestría que cursan el segundo semestre.
+- **31 de julio** Fecha límite para enviar al correo angie.sostenibilidad@gmail.com solicitudes para el registro en el semestre 2021-1 de la actividad [seminario de tesis](/maestria/seminario_tesis). 
 
 ### Agosto
 
