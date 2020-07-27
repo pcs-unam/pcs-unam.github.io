@@ -21,6 +21,11 @@ Los cursos intersemestrales se deberán inscribir formalmente en el sistema de S
 durante el periodo de inscripciones 2020-2.
 
 
+<!-- cursos-intersemestrales-cdmx -->
+<!-- cursos-intersemestrales-morelia -->
+<!-- cursos-intersemestrales-leon -->
+<!-- cursos-intersemestrales-virtual -->
+
 
 <!-- cursos-obligatorios-cdmx -->
 <!-- cursos-obligatorios-morelia -->
