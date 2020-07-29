@@ -20,31 +20,7 @@ Los cursos intersemestrales se deberán inscribir formalmente en el sistema de S
 durante el periodo de inscripciones 2021-1.
 
 
-<!-- cursos-intersemestrales-cdmx -->
-<!-- cursos-intersemestrales-morelia -->
-<!-- cursos-intersemestrales-leon -->
-<!-- cursos-intersemestrales-en-linea -->
-
-
-<!-- cursos-obligatorios-cdmx -->
-<!-- cursos-obligatorios-morelia -->
-<!-- cursos-obligatorios-leon -->
-<!-- cursos-obligatorios-en-linea -->
-
-<!-- cursos-obligatorios-por-campo-cdmx -->
-<!-- cursos-obligatorios-por-campo-morelia -->
-<!-- cursos-obligatorios-por-campo-leon -->
-<!-- cursos-obligatorios-por-campo-en-linea -->
-
-<!-- cursos-optativos-cdmx -->
-<!-- cursos-optativos-morelia -->
-<!-- cursos-optativos-leon -->
-<!-- cursos-optativos-en-linea -->
-
-<!-- seminarios-de-doctorado-cdmx -->
-<!-- seminarios-de-doctorado-morelia -->
-<!-- seminarios-de-doctorado-en-linea -->
-
+<!-- cursos-siges -->
 
 
 ## Sesiones de tutoría
