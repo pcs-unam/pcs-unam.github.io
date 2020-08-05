@@ -5,7 +5,6 @@ permalink: /doctorado/descargables/
 ---
 
  - [Registro de actividades académicas complementarias](/assets/formatos/doctorado/formato-actividades-academicas-complementarias.xlsx)
- - [Registro cambio de título de proyecto](/assets/formatos/registro_cambio_de_titulo.docx)
  - [Propuesta de comité tutor](/assets/formatos/doctorado/propuesta_comite_tutor_doctorado.xlsx)
  - [Formato para solicitar autorización de revista](/assets/formatos/doctorado/formato_solicitud_revista.xlsx)
 
@@ -26,6 +25,7 @@ permalink: /doctorado/descargables/
  - [Agradecimiento al posgrado en articulos y tesis](/assets/docs/graduacion_doctorado/agradecimiento_al_posgrado_en_articulos_y_tesis.pdf)
  - [Formato de solicitud de jurado](/assets/formatos/doctorado/graduacion/formato_solicitud_jurado_doc.docx)
  - [Formato de visto bueno para iniciar graduación](/assets/formatos/doctorado/graduacion/formato_visto_bueno_iniciar_graduacion.docx)
+ - [Registro cambio de título de proyecto](/assets/formatos/registro_cambio_de_titulo.docx)
  - [Plantilla de Portada de Tesis](/assets/docs/graduacion_doctorado/portada-tesis-doc-pcs.docx)
  - [Formato voto aprobatorio](/assets/docs/graduacion_doctorado/fvad.docx)
  - [Requisitos para solicitar autorización de examen](/assets/docs/graduacion_doctorado/doc_solicitar_autorizacion_examen.pdf)
