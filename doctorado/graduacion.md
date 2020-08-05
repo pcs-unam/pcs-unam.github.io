@@ -29,6 +29,7 @@ Solicitar al Comité Académico el inicio del proceso de graduación. Para ello 
 <ul>
 <li>Formato de visto bueno para iniciar trámites de graduación</li>
 <li>Formato de solicitud de jurado</li>
+<li>Formato de registro de cambio de título de proyecto (de ser necesario)</li>
 <li>Evidencia de aceptación del artículo de requisito (eg. PDF del artículo, carta o correo del editor, captura de pantalla de la situación del artículo, DOI)</li>
 </ul>En caso de no contar con la aceptación del artículo de requisito, provisionalmente se puede presentar la evidencia del envío (con la intención de avanzar con los trámites de graduación).
 </td>
