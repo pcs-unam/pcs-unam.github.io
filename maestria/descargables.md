@@ -6,7 +6,6 @@ permalink: /maestria/descargables/
 
 
  - [Propuesta de Comité Tutor](/assets/formatos/maestria/propuesta_comite_tutor_maestria.xlsx)
- - [Registro cambio de título de proyecto](/assets/formatos/registro_cambio_de_titulo.docx)
  - [Solicitud y plan de trabajo para seminario de tesis I](/assets/formatos/maestria/seminario-tesis-I-maestria.xls)
  - [Solicitud y plan de trabajo para seminario de tesis II](/assets/formatos/maestria/seminario-tesis-II-maestria.xls)
 
@@ -17,6 +16,8 @@ permalink: /maestria/descargables/
  - [Modalidad de graduación](/assets/formatos/maestria/graduacion/formato-modalidad-graduacion.docx)
 
  - [Solicitud de jurado](/assets/formatos/maestria/graduacion/solicitud_jurado_maestria.docx)
+ 
+ - [Registro cambio de título de proyecto](/assets/formatos/registro_cambio_de_titulo.docx)
 
  - [Requisitos para solicitar autorización de examen](/assets/docs/graduacion/doc_solicitar_autorizacion_examen.pdf)
 
