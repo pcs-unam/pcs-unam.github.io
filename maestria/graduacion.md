@@ -38,6 +38,7 @@ siguientes formatos:
 <ul>
  <li>Visto bueno para iniciar trámites de graduación</li>
  <li>Solicitud de jurado*</li>
+ <li>Registro de cambio de título de proyecto (de ser necesario)</li>	
  <li>Modalidad de graduación</li>
 </ul>
 </td>
