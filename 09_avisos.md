@@ -6,7 +6,11 @@ permalink: /avisos/
 menu: true
 ---
 
-**AVISO PARA ESTUDIANTES DEL POSGRADO**
+**AVISOS PARA ESTUDIANTES DEL POSGRADO**
+
+
+---------------------
+
 
 ## Convocatoria extraordinaria para Programa de Apoyo a los Estudios de Posgrado (PAEP) 2020
 
@@ -21,7 +25,9 @@ Dudas: <sostenibilidad@posgrado.unam.mx>
 Consulta las bases aquí: <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/convocatoria_extraordinaria_PAEP-final.pdf> 
 
 
+
 -------------------
+
 
 
 Por instrucciones de la Dra. Patricia Dávila, Coordinadora General de Estudios de Posgrado, se les
