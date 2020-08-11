@@ -35,6 +35,7 @@ Para que una solicitud al Comité Académico pase a la sesión más próxima, te
 - **21 de agosto** Fin del semestre 2020-2
 
 ### Septiembre
+- **8 de septiembre** Sesión de Comité Académico
 - **del 10 al 18 de septiembre** Inscripciones y reinscripciones al semestre 2021-1 en [*https://www.saep.unam.mx*](https://www.saep.unam.mx/)
 - **21 de septiembre** Inicio del semestre 2021-1
 - **30 de septiembre** Fecha límite para presentar exámenes de candidatura pendientes.
