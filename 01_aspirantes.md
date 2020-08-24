@@ -2,19 +2,28 @@
 layout: page
 title: Aspirantes
 permalink: /aspirantes/
-pleca: /assets/plecas/p16.jpg
+pleca: /assets/plecas/p20.jpg
 menu: true
 ---
 
-## Aviso importante sobre la publicación de resultados del proceso de ingreso al semestre 2021-1
+## Resultados del proceso de admisión al Posgrado (ingreso 2021-1)
+
+ - [Lista de aspirantes aceptados al Programa de Maestría en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_maestria_2021_1.pdf)
+
+ - [Lista de aspirantes aceptados al Programa de Doctorado en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_doctorado_2021_1.pdf)
+
+L@s aspirantes no aceptad@s que deseen conocer el dictamen del subcomité de admisión, favor de escribir a más tardar el viernes 28 de agosto al correo sostenibilidad@posgrado.unam.mx. La Coordinación les responderá durante los primeros días de septiembre.
+
+[Instrucciones para la entrega documental e inscripción de aspirantes aceptados de Maestría](/assets/docs/instrucciones_entregadocumental_inscripcion_aspirantes_aceptados_mae.pdf)
+
+[Instrucciones para la entrega documental e inscripción de aspirantes aceptados de Doctorado](/assets/docs/instrucciones_entregadocumental_inscripcion_aspirantes_aceptados_doc.pdf)
 
 
-Los resultados del proceso de ingreso al semestre 2021-1, serán publicados el 24 de agosto del presente año en la página del Posgrado a partir de las 15:00 horas y serán inapelables. 
-
-Las indicaciones para que los aspirantes no aceptados puedan conocer el dictamen del subcomité de admisión, serán publicadas el mismo 24 de agosto junto con los resultados finales.
 
 
 -----------------
+
+## Información sobre la siguiente convocatoria
 
 La siguiente convocatoria de ingreso al Posgrado en Ciencias de la Sostenibilidad se publicará en noviembre de 2020 para iniciar en agosto de 2021.
 
