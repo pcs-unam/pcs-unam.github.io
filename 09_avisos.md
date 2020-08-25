@@ -9,6 +9,19 @@ menu: true
 **AVISOS PARA LA COMUNIDAD DEL POSGRADO**
 
 
+---------------
+
+
+## Aviso sobre informes de desempeño para CONACYT ##
+
+En respuesta a la solicitud que la comunidad estudiantil hizo llegar al Comité Académico el pasado 11 de agosto, la fecha límite para enviar a la Coordinación se extendió al 4 de septiembre, a más tardar.
+
+ATENTAMENTE
+
+LA COORDINACIÓN
+
+
+
 
 ---------------------
 
