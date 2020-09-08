@@ -9,33 +9,6 @@ menu: true
 **AVISOS PARA LA COMUNIDAD DEL POSGRADO**
 
 
----------------
-
-
-## Aviso sobre informes de desempeño para CONACYT ##
-
-En respuesta a la solicitud que la comunidad estudiantil hizo llegar al Comité Académico el pasado 11 de agosto, la fecha límite para enviar a la Coordinación se extendió al 4 de septiembre, a más tardar.
-
-ATENTAMENTE
-
-LA COORDINACIÓN
-
-
-
-
----------------------
-
-
-
-Se les recuerda a alumn@s, profesor@s y tutor@s del Posgrado que del 10 al 21 de agosto es el periodo para registrar, en el sistema de SAEP, las evaluaciones tutorales de Maestría y de Doctorado, así como las calificaciones de asignaturas correspondientes al semestre 2020-2. 
-
-Para mayor detalle favor de consultar la liga <https://sostenibilidad.posgrado.unam.mx/posgrado/calendario2/> 
-
-
-
----------------------
-
-
 
 ## Convocatoria extraordinaria para el Programa de Apoyo a los Estudios de Posgrado (PAEP) 2020
 
