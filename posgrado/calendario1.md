@@ -27,7 +27,8 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 - En la ENES-León enviarlo a <servicios.escolares@enes.unam.mx>
 - **Del 21 al 25 de septiembre** Registro de [actividades académicas complementarias](/doctorado/actividades) para alumnos de Doctorado. Enviar la hoja de registro, junto con la hoja de inscripción, a la oficina de Posgrado correspondiente en los correos anteriormente señalados.
 - **30 de septiembre** Fecha límite para presentar exámenes de candidatura pendientes 
-Para conocer las fechas de entrega del informe de becarios CONACyT y las fechas de entrega de solicitudes de becas para alumnos de nuevo ingreso, consultar la siguiente dirección: https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php 
+
+Para conocer las fechas de entrega del informe de becarios CONACyT y las fechas de entrega de solicitudes de becas para alumnos de nuevo ingreso, consultar la siguiente dirección: <https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php> 
 
 ### Octubre
 
