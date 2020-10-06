@@ -5,7 +5,7 @@ permalink: /maestria/descargables/
 ---
 
 
- - [Propuesta de Comité Tutor](/assets/formatos/maestria/propuesta_comite_tutor_maestria.xlsx)
+ <>- [Propuesta de Comité Tutor](/assets/formatos/maestria/propuesta_comite_tutor_maestria.xlsx)
  - [Solicitud y plan de trabajo para seminario de tesis I](/assets/formatos/maestria/seminario-tesis-I-maestria.xls)
  - [Solicitud y plan de trabajo para seminario de tesis II](/assets/formatos/maestria/seminario-tesis-II-maestria.xls)
 
