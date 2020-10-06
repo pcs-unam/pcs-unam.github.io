@@ -29,10 +29,12 @@ permalink: /doctorado/catalogo_revistas/
  - Environmental Management
  - Environmental Research
  - Environmental Science & Policy
+ - Estudios Internacionales
  - EURE. Revista Latinoamericana de Estudios Urbanos Regionales
  - Food Policy
  - Global Environmental Change
  - Groundwater for Sustainainable Development
+ - Hábitat y Sociedad
  - Health & place
  - Human Dimension of Wildlife
  - Human Ecology
@@ -51,9 +53,12 @@ permalink: /doctorado/catalogo_revistas/
  - Región y Sociedad
  - Regional Environmental Change
  - Renewable & Sustainable Energy Reviews
+ - Revista de Estudios Sociales
+ - Revista INVI
  - Sustainability  
  - Sustainability Sciences  
  - Sustainable Cities and Society
+ - Territory, Politics, Governance
  - The International Journal of Life Cycle Assessment
  - Waste Management
  - World Development
