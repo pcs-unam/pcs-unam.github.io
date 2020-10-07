@@ -5,8 +5,8 @@ permalink: /doctorado/descargables/
 ---
 
  - [Registro de actividades académicas complementarias](/assets/formatos/doctorado/formato-actividades-academicas-complementarias.xlsx)
- <!-- [Propuesta de comité tutor](/assets/formatos/doctorado/propuesta_comite_tutor_doctorado.xlsx)
- - [Formato para solicitar autorización de revista](/assets/formatos/doctorado/formato_solicitud_revista.xlsx) -->
+ <!-- [Propuesta de comité tutor](/assets/formatos/doctorado/propuesta_comite_tutor_doctorado.xlsx) -->
+ - [Formato para solicitar autorización de revista](/assets/formatos/doctorado/formato_solicitud_revista.xlsx) 
 
 # Examen de Candidatura
 
