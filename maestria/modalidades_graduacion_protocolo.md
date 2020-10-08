@@ -30,7 +30,7 @@ Evaluación Doctorado  |        Ingresa al Doctorado   | 	No ingresa al Doctorad
 
 Calendario de aplicación de estos lineamientos por generación de ingreso a la Maestría en Ciencias de la Sostenibilidad:
 
-Generación             |     2016	    |   2017      | 2018	        | 2019	       | 2020
+Generación             |     2016	    |   2017      | 2018	        | 2019	       |a partir 2020
 -----------------------|--------------|-------------|--------------|-------------|-------------
 Lineamientos del texto | Sugerido     | Sugerido    | Sugerido     | Obligatorio | Obligatorio
 -----------------------|--------------|-------------|--------------|-------------|-------------
