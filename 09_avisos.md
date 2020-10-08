@@ -16,7 +16,7 @@ menu: true
 -----------------------------------------
 
 
-## Convocatoria extraordinaria para el Programa de Apoyo a los Estudios de Posgrado (PAEP) 2020
+### Convocatoria extraordinaria para el Programa de Apoyo a los Estudios de Posgrado (PAEP) 2020
 
 La Dirección General de Estudios de Posgrado ofrece apoyo para realizar actividades académicas nacionales o internacionales vía remota que se desarrollen entre agosto 2020 y marzo del 2021.
 
