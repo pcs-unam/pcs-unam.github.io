@@ -9,6 +9,12 @@ menu: true
 **AVISOS PARA LA COMUNIDAD DEL POSGRADO**
 
 
+[Ligas a sitios de interés para los alumnos del Posgrado ](/assets/avisos/ligasdeinteres_alumnos_sostenibilidad.pdf)
+
+
+
+-----------------------------------------
+
 
 ## Convocatoria extraordinaria para el Programa de Apoyo a los Estudios de Posgrado (PAEP) 2020
 
