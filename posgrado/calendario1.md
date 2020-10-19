@@ -34,12 +34,12 @@ Para conocer las fechas de entrega del informe de becarios CONACyT y las fechas 
 
 - **8 de octubre** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx>  solicitudes de apoyo para realizar actividades académicas nacionales o internacionales vía remota, en el marco del Programa de Apoyo a los Estudios de Posgrado (PAEP). Consultar convocatoria en la siguiente dirección: https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/convocatoria_extraordinaria_PAEP-final.pdf
 - **13 de octubre** Sesión de Comité Académico
-- **29 de octubre** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx> la propuesta de miembros de comité tutor de los alumnos de Doctorado de nuevo ingreso ([descargar formato](/doctorado/descargables)).
+- **29 de octubre** Fecha límite para enviar la propuesta de miembros de comité tutor de los alumnos de Doctorado de nuevo ingreso.
 
 ### Noviembre
 
 - **10 de noviembre** Sesión de Comité Académico
-- **20 de noviembre** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx> la propuesta de comité tutor de los alumnos de Maestría de nuevo ingreso ([descargar formato](/maestria/descargables))
+- **20 de noviembre** Fecha límite para enviar la propuesta de comité tutor de los alumnos de Maestría de nuevo ingreso.
 
 ### Diciembre
 
