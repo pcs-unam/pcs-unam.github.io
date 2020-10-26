@@ -9,7 +9,7 @@ Notas importantes:
 
 Para que una solicitud al Comité Académico pase a la sesión más próxima, tendrá que enviarse a la oficina de Posgrado correspondiente a más tardar el jueves anterior a las 12:00 horas. 
 
-Para que un cambio aprobado por el Comité Académico se vea reflejado en el sistema de SAEP a finales del semestre en curso, deberá solicitarse a más tardar en la sesión de octubre, de lo contrario se verá reflejado en el semestre 2021-2.
+Para que un cambio aprobado por el Comité Académico se vea reflejado en el sistema de SAEP a finales del semestre en curso, deberá solicitarse a más tardar en la sesión de diciembre, de lo contrario se verá reflejado en el semestre 2021-2.
 
 
 ### Septiembre
