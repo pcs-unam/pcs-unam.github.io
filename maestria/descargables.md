@@ -20,6 +20,8 @@ permalink: /maestria/descargables/
  - [Registro cambio de título de proyecto](/assets/formatos/registro_cambio_de_titulo.docx)
 
  - [Requisitos para solicitar autorización de examen](/assets/docs/graduacion/doc_solicitar_autorizacion_examen.pdf)
+ 
+ - [Requisitos para solicitar autorización de examen durante la contingencia](/assets/docs/graduacion/doc_solicitar_autorizacion_examen_contingencia.pdf)
 
  - [Ejemplo autorización de transferencia de información](/assets/docs/graduacion/ejemplo_solicitud_transf_datos.pdf)
 
@@ -39,3 +41,4 @@ permalink: /maestria/descargables/
  
  - [Formato de trámite de titulación](/assets/formatos/maestria/graduacion/formato_tramite_titulacion.pdf)
 
+ - [Formato de no registro en Profesiones para extranjeros](/assets/formatos/maestria/graduacion/formato_no_registro_profesiones_extranjeros.pdf)
