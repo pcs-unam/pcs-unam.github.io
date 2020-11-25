@@ -6,14 +6,9 @@ pleca: /assets/plecas/p20.jpg
 menu: true
 ---
 
-## Información sobre la siguiente convocatoria
+## Información sobre la convocatoria 2022-1
 
-La siguiente convocatoria de ingreso al Posgrado en Ciencias de la Sostenibilidad se publicará en noviembre de 2020 para iniciar en agosto de 2021.
-
-Consultar detalles de la [convocatoria anterior](/assets/docs/convocatoria2021-1.pdf) en los siguientes instructivos:
-
- - [Instructivo para aspirantes de Maestría](/assets/docs/instructivo-maestria.pdf)
- - [Instructivo para aspirantes de Doctorado](/assets/docs/instructivo-doctorado.pdf)
+Los instructivos de la convocatoria 2022-1 se publicarán en este sitio el próximo 4 de diciembre.
 
 
 ## Documentos descargables
