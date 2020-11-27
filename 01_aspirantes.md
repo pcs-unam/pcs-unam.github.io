@@ -14,5 +14,5 @@ Los instructivos de la convocatoria 2022-1 se publicarán en este sitio el próx
 ## Documentos descargables
 
  - [Carta de aceptación de tutores de Doctorado](/assets/formatos/aspirantes/formato_carta_aceptacion_tutor_doctorado.doc)
- - [Recomendaciones para elaborar el protocolo de investigación de ingreso al Doctorado](/assets/docs/ recomendaciones_aspirantes_doctorado.pdf)
- - [Recomendaciones para elaborar el ensayo de ingreso a la Maestría](/assets/docs/ recomendaciones_aspirantes_maestria.pdf)
+ - [Recomendaciones para elaborar el protocolo de investigación de ingreso al Doctorado](/assets/docs/recomendaciones_aspirantes_doctorado.pdf)
+ - [Recomendaciones para elaborar el ensayo de ingreso a la Maestría](/assets/docs/recomendaciones_aspirantes_maestria.pdf)
