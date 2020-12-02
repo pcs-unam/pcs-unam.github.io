@@ -52,7 +52,7 @@ Para conocer las fechas de entrega del informe de becarios CONACyT y las fechas 
 - **8 de enero** Desde la oficina de Posgrado correspondiente se enviará por correo electrónico a los alumnos el acta de evaluación de la actividad académica complementaria de Doctorado del semestre 2021-1
 - **8 de enero** Desde la oficina de Posgrado correspondiente se enviará por correo electrónico a los alumnos el acta de evaluación del seminario de tesis o seminario de investigación de Maestría del semestre 2021-1. Sólo aplica para alumnos que hayan registrado alguna de estas dos actividades
 - **12 de enero** Sesión de Comité Académico
-- **Del 19 de enero al 5 de febrero** Evaluaciones tutorales de Doctorado
+- **Del 19 de enero al 5 de febrero** Evaluaciones tutorales de Maestría y Doctorado
 - **29 de enero ** Fecha límite para resello y reposición de credenciales 
 - **29 de enero** Fin del semestre 2021-1
 
