@@ -14,6 +14,9 @@ Consultar detalles de la convocatoria en los siguientes instructivos:
 
  - [Instructivo para aspirantes de Maestría](/assets/docs/instructivo-maestria.pdf)
  - [Instructivo para aspirantes de Doctorado](/assets/docs/instructivo-doctorado.pdf)
+ 
+ 
+ - [Indicaciones para presentar los exámenes de inglés que ofrece la ENALLT](/assets/docs/anuncio_fechas_enallt.pdf)
 
 
 ## Documentos descargables
