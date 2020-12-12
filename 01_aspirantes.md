@@ -8,7 +8,12 @@ menu: true
 
 ## Información sobre la convocatoria 2022-1
 
-Los instructivos de la convocatoria 2022-1 se publicarán en este sitio el próximo 4 de diciembre.
+La [convocatoria de ingreso 2022-1](/assets/docs/convocatoria_ingreso_2022-1.pdf) para iniciar en agosto de 2021 se encuentra abierta.
+
+Consultar detalles de la convocatoria en los siguientes instructivos:
+
+ - [Instructivo para aspirantes de Maestría](/assets/docs/instructivo-maestria.pdf)
+ - [Instructivo para aspirantes de Doctorado](/assets/docs/instructivo-doctorado.pdf)
 
 
 ## Documentos descargables
