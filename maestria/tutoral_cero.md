@@ -13,9 +13,9 @@ establecer un plan de trabajo semestral de la(el) estudiante.
 
 Los pasos son los siguientes:
 
-**Paso 1.** A finales de enero y principios de febrero la(el) estudiante acordará con su tutor(a) principal 
-el lugar y fecha donde se llevará a cabo la reunión. Puede ser en una de las sedes del Posgrado, una sede 
-externa o en la Unidad de Posgrados. En este último caso, se deberá solicitar al correo: <sostenibilidad@posgrado.unam.mx> 
+**Paso 1.** La(el) estudiante acordará con su tutor(a) principal el lugar y fecha donde se llevará a cabo la reunión. 
+Puede ser en una de las sedes del Posgrado, una sede externa o en la Unidad de Posgrados. 
+En este último caso, se deberá solicitar al correo: <sostenibilidad@posgrado.unam.mx> 
 con anticipación y dependerá de la disponibilidad. 
 
 Si algún miembro del comité que deba conectarse por vía remota, la(el) estudiante deberá verificar que la sala 
@@ -47,6 +47,6 @@ Si es el caso, la modalidad de graduación podrá ratificarse o modificarse en e
 la coordinación. En el caso de tutor(a)s vía remota, la(el) estudiante le enviará el acta escaneada para que la firme y 
 la regrese (también escaneada) a la Coordinación. 
 
-Revisar el [calendario de actividades](/posgrado/calendario2/) para conocer la fecha límite para realizar el tutoral cero. La siguiente evaluación tutoral deberá ser realizada al final del segundo semestre. Ésta (y las siguientes dos) ya se calificarán en el sistema de SAEP. 
+Revisar el calendario de actividades para conocer la fecha límite para realizar el tutoral cero. La siguiente evaluación tutoral deberá ser realizada al final del segundo semestre. Ésta (y las siguientes dos) ya se calificarán en el sistema de SAEP. 
 
 ![Diagrama de procedimiento para tutoral cero](diagrama_tutoral_cero.png)
