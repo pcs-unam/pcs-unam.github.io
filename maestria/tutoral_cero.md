@@ -41,4 +41,3 @@ la regrese (también escaneada) a la Coordinación.
 
 Revisar el calendario de actividades para conocer la fecha límite para realizar el tutoral cero. La siguiente evaluación tutoral deberá ser realizada al final del segundo semestre. Ésta (y las siguientes dos) ya se calificarán en el sistema de SAEP. 
 
-![Diagrama de procedimiento para tutoral cero](diagrama_tutoral_cero.png)
