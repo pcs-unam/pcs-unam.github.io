@@ -1,21 +1,21 @@
 ---
-title: Calendario de sesiones 2020
+title: Calendario de sesiones 2021
 layout: page
 permalink: /comite/calendario/
 ---
 
 
-| 14 de enero | 
-| 11 de febrero |
-| 10 de marzo | 
-| 14 de abril | 
-| 12 de mayo |
-| 9 de junio |
+| 12 de enero | 
+| 9 de febrero |
+| 9 de marzo | 
+| 13 de abril | 
+| 11 de mayo |
+| 8 de junio |
 
-| 11 de agosto |
-| 8 de septiembre |
-| 13 de octubre | 
-| 10 de noviembre |
-| 8 de diciembre |
+| 10 de agosto |
+| 14 de septiembre |
+| 12 de octubre | 
+| 19 de noviembre |
+
 
 
