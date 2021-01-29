@@ -9,7 +9,7 @@ menu: true
 
 ### Semestre 2021-2
 
-El semestre 2021-1 inicia el 15 de febrero y termina el 25 de junio, considerando dos semanas de evaluaciones y exámenes tutorales.
+El semestre 2021-2 inicia el 15 de febrero y termina el 25 de junio, considerando dos semanas de evaluaciones y exámenes tutorales.
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
 
