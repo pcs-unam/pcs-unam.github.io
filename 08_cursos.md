@@ -7,17 +7,11 @@ menu: true
 ---
 
 
-### Semestre 2021-1
+### Semestre 2021-2
 
-El semestre 2021-1 inicia el 21 de septiembre de 2020 y termina el 29 de enero de 2021, más dos semanas de evaluaciones y exámenes tutorales.
+El semestre 2021-1 inicia el 15 de febrero y termina el 25 de junio, considerando dos semanas de evaluaciones y exámenes tutorales.
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
-
-Interesados en cursar materias intersemestrales, favor de registrarse directamente con los 
-profesores del curso. 
-
-Los cursos intersemestrales se deberán inscribir formalmente en el sistema de SAEP
-durante el periodo de inscripciones 2021-1.
 
 
 <!-- cursos-siges -->
