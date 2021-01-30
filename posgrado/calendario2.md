@@ -51,7 +51,7 @@ Para conocer las fechas de entrega del informe de becarios CONACyT, consultar la
 
 ### Julio
 
-- **Del 5 al 223 de julio** Vacaciones académico-administrativas
+- **Del 5 al 23 de julio** Vacaciones académico-administrativas
 
 ### Agosto
 
