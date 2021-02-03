@@ -36,8 +36,6 @@ Para conocer las fechas de entrega del informe de becarios CONACyT, consultar la
 ### Mayo
 
 - **11 de mayo** Sesión de Comité Académico
-- **28 de mayo** Fecha límite para enviar a angie.sostenibilidad@gmail.com el acta de evaluación de la actividad académica complementaria de Doctorado correspondiente al semestre 2021-2.
-- **28 de mayo** Fecha límite para enviar a angie.sostenibilidad@gmail.com el acta del seminario de tesis o seminario de investigación de Maestría correspondiente al semestre 2021-2.
 - **28 de mayo** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx> la solicitud para el registro en el semestre 2022-1 de la actividad [seminario de tesis](/maestria/seminario_tesis). Sólo aplica para alumnos de Maestría que cursan el segundo o tercer semestre.
 
 ### Junio
