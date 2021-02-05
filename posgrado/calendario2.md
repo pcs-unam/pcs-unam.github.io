@@ -14,7 +14,7 @@ Para que una solicitud al Comité Académico pase a la sesión más próxima, te
 - **Del 8 al 12 de febrero** Enviar a <sostenibilidad@posgrado.unam.mx> el **informe del becario de CONACyT** para revisión y firma del Coordinador. Favor de anotar como asunto del correo "Informe becario de (anotar su nombre)". Debe estar previamente llenado y firmado por el(la) tutor(a) principal. El documento se les regresará por correo electrónico con la firma del Coordinador a más tardar a principios de marzo. Consultar la guía para becarios en la siguiente dirección: <https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php>
 - **9 de febrero** Sesión de Comité Académico
 - **15 de febrero** Inicio del semestre 2021-2
-- **Del 5 al 19 de febrero** Reinscripciones al semestre 2021-2 en <https://www.saep.unam.mx>
+- **Del 13 al 19 de febrero** Reinscripciones al semestre 2021-2 en <https://www.saep.unam.mx>
 - **Del 15 al 26 de febrero** Validación de reinscripciones.  Es necesario enviar por correo electrónico la hoja de inscripción que se descarga del sistema de SAEP a la oficina de Posgrado correspondiente:
 - En CDMX enviarlo a <carolinacg@posgrado.unam.mx>
 - En el IIES-Morelia enviarlo a <posgrado.iies@cieco.unam.mx>
