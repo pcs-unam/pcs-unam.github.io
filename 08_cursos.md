@@ -11,7 +11,7 @@ menu: true
 
 El semestre 2021-2 inicia el 15 de febrero y termina el 25 de junio, considerando dos semanas de evaluaciones y exámenes tutorales.
 
-Las ligas para las sesiones virtuales de los cursos se deben solicitar directamente a lo(s) profesore(a)s de cada curso, enviando un mensaje al correo registrado. 
+Las ligas para las sesiones virtuales de los cursos se deben solicitar directamente a lo(a)s profesore(a)s de cada curso, enviando un mensaje al correo registrado. 
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
 
