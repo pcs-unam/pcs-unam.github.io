@@ -22,8 +22,7 @@ Para que una solicitud al Comité Académico pase a la sesión más próxima, te
 - En la ENES-León enviarlo a <servicios.escolares@enes.unam.mx>
 - **Del 15 al 19 de febrero** Registro de [actividades académicas complementarias](/doctorado/actividades) para alumnos de Doctorado. Enviar la hoja de registro, junto con la hoja de inscripción, a la oficina de Posgrado correspondiente en los correos anteriormente señalados.
 
-### Marzo
-- **3 de marzo** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx> la [solicitud del examen de candidatura](/doctorado/candidatura). Aplica para alumnos de Doctorado que cursan el cuarto semestre. La fecha límite para presentar el examen de candidatura será el próximo 6 de agosto. 
+### Marzo 
 - **4 de marzo** Fecha límite para enviar a sostenibilidad@posgrado.unam.mx documentos para solicitar inicio de trámites de [graduación anticipada](/maestria/graduacion-anticipada)
 - **9 de marzo** Sesión de Comité Académico
 - **26 de marzo** Fecha límite para presentar el tutoral cero. Aplica para alumnos de Maestría que cursan el segundo semestre. Es necesario descargar el [formato del acta para la evaluación del tutoral cero](/assets/formatos/maestria/tutoral_0.pdf)  y una vez llenado y firmado por el comité tutor se debe enviar a <angie.sostenibilidad@gmail.com>
@@ -35,6 +34,7 @@ Para conocer las fechas de entrega del informe de becarios CONACyT, consultar la
 
 ### Mayo
 
+- **6 de mayo** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx> la [solicitud del examen de candidatura](/doctorado/candidatura). Aplica para alumnos de Doctorado que cursan el cuarto semestre. La fecha límite para presentar el examen de candidatura será el próximo 29 de octubre.
 - **11 de mayo** Sesión de Comité Académico
 - **28 de mayo** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx> la solicitud para el registro en el semestre 2022-1 de la actividad [seminario de tesis](/maestria/seminario_tesis). Sólo aplica para alumnos de Maestría que cursan el segundo o tercer semestre.
 
