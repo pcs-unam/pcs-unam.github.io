@@ -10,11 +10,11 @@ menu: true
 
 El Programa de Apoyo a los Estudios de Posgrado está dirigido a fortalecer la formación académica de los alumnos de Maestría y Doctorado. 
 
-[Convocatoria abierta]<https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/convocatoria_paep_2021_actividades_via_remota-en_limpio-obs-2.pdf> para llevar a cabo actividades académicas nacionales e internacionales vía remota. Dichas actividades podrán solicitarse una vez concluido el segundo semestre de losestudios
+Para llevar a cabo actividades académicas nacionales e internacionales vía remota, consultar la convocatoria vigente en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/convocatoria_paep_2021_actividades_via_remota-en_limpio-obs-2.pdf> Dichas actividades podrán solicitarse una vez concluido el segundo semestre de los estudios.
 
 Los siguientes documentos se deberán enviar a la Coordinación (sostenibilidad@posgrado.unam.mx) a más tardar el 9 de septiembre:
 
- - [Formato de solicitud]<https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/solicitud_de_apoyo_paep_2021-2_formulario-final.pdf>
+  - Descargar formato de solicitud en: <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/solicitud_de_apoyo_paep_2021-2_formulario-final.pdf>
  - Última inscripción validada
  - Comprobante del costo de inscripción de la actividad académica solicitada
  - Para congresos y coloquios enviar el correo electrónico o carta de aceptación como
