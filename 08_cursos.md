@@ -15,6 +15,8 @@ Las ligas para las sesiones virtuales de los cursos se deben solicitar directame
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
 
+Los alumnos de otros posgrados interesados en inscribir un curso de este Programa, tienen como fecha límite para registrarse en el sistema de SIAEP el martes 8 de marzo.
+
 
 <!-- cursos-siges -->
 
