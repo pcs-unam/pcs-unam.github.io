@@ -53,7 +53,6 @@ Para conocer las fechas de entrega del informe de becarios CONACyT, consultar la
 
 ### Agosto
 
-- **6 de agosto** Fecha límite para que los alumnos de Doctorado que cursan el cuarto semestre presenten el examen de candidatura.
 - **9 de agosto** Inicio del semestre 2022-2
 - **10 de agosto** Sesión de Comité Académico
 
