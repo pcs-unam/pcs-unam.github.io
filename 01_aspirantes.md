@@ -6,7 +6,7 @@ pleca: /assets/plecas/p20.jpg
 menu: true
 ---
 
-## Resultados de la revisión de expedientes administrativos y académicos 
+## Resultados de la revisión de expedientes administrativos y académicos correspondientes a la convocatoria 2022-1 
 
 A continuación, se publica la lista de folios de los aspirantes que pasan a la etapa de entrevista, así como las indicaciones a seguir: 
 
