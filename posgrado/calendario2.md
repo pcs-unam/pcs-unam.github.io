@@ -53,7 +53,7 @@ Para conocer las fechas de entrega del informe de becarios CONACyT, consultar la
 
 ### Agosto
 
-- **9 de agosto** Inicio del semestre 2022-2
+- **9 de agosto** Inicio del semestre 2022-1
 - **10 de agosto** Sesión de Comité Académico
 
 
