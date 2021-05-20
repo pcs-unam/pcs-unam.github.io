@@ -13,7 +13,7 @@ establecer un plan de trabajo semestral de la(el) estudiante.
 
 Los pasos son los siguientes:
 
-**Paso 1.** Cada estudiante acordará con su comité tutor la fecha de cuando se llevará a cabo la reunión que, 
+**Paso 1.** Cada estudiante acordará con su comité tutor la fecha (entre el 8 y el 26 de marzo) de cuando se llevará a cabo la reunión que, 
 debido a las actuales condiciones sanitarias, deberá ser totalmente a distancia. 
 
 **Paso 2.** Antes de la reunión, cada estudiante descargará el [formato de acta para evaluación](/assets/formatos/maestria/tutoral_0.pdf) y lo hará llegar a su comité tutor.
@@ -41,4 +41,3 @@ la regrese (también escaneada) a la Coordinación.
 
 Revisar el calendario de actividades para conocer la fecha límite para realizar el tutoral cero. La siguiente evaluación tutoral deberá ser realizada al final del segundo semestre. Ésta (y las siguientes dos) ya se calificarán en el sistema de SAEP. 
 
-![Diagrama de procedimiento para tutoral cero](diagrama_tutoral_cero.png)

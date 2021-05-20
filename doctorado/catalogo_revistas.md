@@ -39,6 +39,7 @@ permalink: /doctorado/catalogo_revistas/
  - Human Dimension of Wildlife
  - Human Ecology
  - International Journal of Agricultural Sustainability
+ - International Journal of Sustainability in Higher Education
  - International Regional Science Review
  - Journal of Cleaner Production
  - Journal of Peasant Studies
@@ -56,7 +57,8 @@ permalink: /doctorado/catalogo_revistas/
  - Revista de Estudios Sociales
  - Revista INVI
  - Sustainability  
- - Sustainability Sciences  
+ - Sustainability Sciences
+ - Sustainability: Science, Practice and Policy
  - Sustainable Cities and Society
  - Territory, Politics, Governance
  - The International Journal of Life Cycle Assessment

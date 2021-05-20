@@ -8,11 +8,17 @@ menu: true
 
 # Publicaciones de nuestros alumnos de Maestría y Doctorado
 
+Aguilar-Román, E., Castillo, A., & Güiza, F. (2020). Vulnerability and risk management after Hurricane Patricia in a rural community on the Jalisco coast, Mexico. International Journal of Disaster Risk Reduction, 45, 101464. <https://doi.org/10.1016/j.ijdrr.2019.101464>
+
+Aranda-Fragoso, A., Castillo, A., Cárdenas-Tapia, M., Moreno-Casasola, P., & Marín, A. (2020). Scientific research and information flow in the small-scale fisheries of the central Mexican Pacific coast. Ocean & Coastal Management, 198, 105324. <https://doi.org/10.1016/j.ocecoaman.2020.105324>
+
 Ayala-Azcárraga, C., Diaz, D., & Zambrano, L. (2019). Characteristics of urban parks and their relation to user well-being. Landscape and Urban Planning, 189, 27-35. <https://doi.org/10.1016/j.landurbplan.2019.04.005>
 
 Calderón Villegas, C. E., Salas Espíndola, H., & Ávila García, P. (2020). La insostenibilidad de los desarrollos de vivienda de interés social en México: una aproximación desde el pensamiento de diseño. Caso de estudio: Tlajomulco de Zúñiga, Jalisco. ACE: Architecture, City and Environment, 14(42), 8256. <http://dx.doi.org/10.5821/ace.14.42.8256>
 
 Charli-Joseph, L., J. Siqueiros-Garcia, H. Eakin, D. Manuel-Navarrete, and R. Shelton. (2018). Promoting agency for social-ecological transformation: a transformation-lab in the Xochimilco social-ecological system. Ecology and Society, 23(2), 46. <https://www.ecologyandsociety.org/vol23/iss2/art46/>
+
+Cuevas-Mendieta, E., García-Frapolli, E., & del-Val, E. (2021). Diversity and local perception of lepidopterans in secondary tropical dry forests: Implications for management. Forest Ecology and Management, 482, 118815. <https://doi.org/10.1016/j.foreco.2020.118815>
 
 García-Sánchez, M., & Güereca, L. P. (2019). Environmental and social life cycle assessment of urban water systems: The case of Mexico City. Science of The Total Environment, 693, 133464.
 <https://doi.org/10.1016/j.scitotenv.2019.07.270>
@@ -23,17 +29,26 @@ González-Quintero, C., & Avila-Foucat, V. S. (2019). Operationalization and Mea
 
 Jiménez, M., Pérez-Belmont, P., Schewenius, M., Lerner, A. M., & Mazari-Hiriart, M. (2020). Assessing the historical adaptive cycles of an urban social-ecological system and its potential future resilience: the case of Xochimilco, Mexico City. Regional Environmental Change, 20(1), 7. <https://doi.org/10.1007/s10113-020-01587-9>
 
+Merino-Benítez, T., I. Grave, L.A. Bojórquez-Tapia (2020). AHP- based social vulnerability index for small fisheries in Yucatan, Mexico. International Symposium of the Analytic Hierarchy Process 2020, Web Conference. DEC. 3 – DEC. 6, 2020. <http://www.isahp.org/uploads/048_001.pdf>
+
+Mirenda, C. (2020). Percepciones del cambio climático en perspectiva de género en Jalisco, México. Letras Verdes, Revista Latinoamericana de Estudios Socioambientales, (28), 31-48. <https://doi.org/10.17141/letrasverdes.28.2020.4307>
+
 Oliva, M., García-Frapolli, E., Porter-Bolland, L., & Montiel, S. (2019). Early Detection of Conflicts for the Management of Protected Areas: The Case of Charcoal Production in the Los Petenes Biosphere Reserve, Mexico. Environmental management, 1-12.
 <https://doi.org/10.1007/s00267-019-01170-x>
 
 Pelayo Pérez, M. B., y Gasca Zamora, J. (2019). Reconfiguración de un territorio hidrosocial tras la construcción de la presa El Cajón, en Nayarit. región y sociedad, 31, e1201. <doi: 10.22198/rys2019/31/1201>
+
+Pelayo Pérez, M.B., & Rasch, E. (2020). Resistance to hydropower developments in contexts of violence and organised crime in Mexico. European Review of Latin American and Caribbean Studies 110: 123-143. <http://doi.org/10.32992/erlacs.10624>
 
 Reyes-González, A., Camou-Guerrero, A., Del-Val, E., Ramírez, M. I., & Porter-Bolland, L. (2020). Biocultural Diversity Loss: the Decline of Native Stingless Bees (Apidae: Meliponini) and Local Ecological Knowledge in Michoacán, Western México. Human Ecology, 1-12. 
 < https://doi.org/10.1007/s10745-020-00167-z>
 
 Rodríguez-Izquierdo, E., Miquelajauregui, Y., Padilla, P., & Bojórquez-Tapia, L. A. (2019). Modelling approach for crafting environmental regulations under deep uncertainty: Whale watching in Ojo de liebre, Mexico. Ecological Modelling, 408, 108731. <https://doi.org/10.1016/j.ecolmodel.2019.108731>
 
+Subercaseaux, D., Moreno-Calles, A. I., Astier, M., & de Jesús Hernández L, J. (2021). Emerging Agro-Rural Complexities in Occident Mexico: Approach from Sustainability Science and Transdisciplinarity. Sustainability, 13(6), 3257.
+< https://www.mdpi.com/2071-1050/13/6/3257>
 
+Zamora-Maldonado, H. C., & Avila-Foucat, V. S. (2020). Non-timber forest product importance for rural household well-being in four coastal communities in Oaxaca, Mexico. International Forestry Review 22(3): 397-407. <https://doi.org/10.1505/146554820830405663>
 
 
 --------
