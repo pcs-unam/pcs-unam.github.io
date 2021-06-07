@@ -23,7 +23,8 @@ permalink: /doctorado/catalogo_revistas/
  - Energy Research & Social Science
  - Environment Development
  - Environment, Development and Sustainability
- - Environmental and urbanization
+ - Environmental and Urbanization
+ - Environmental Challenges
  - Environmental Earth Sciences
  - Environmental Impact Assessment Review
  - Environmental Management
@@ -32,6 +33,7 @@ permalink: /doctorado/catalogo_revistas/
  - Estudios Internacionales
  - EURE. Revista Latinoamericana de Estudios Urbanos Regionales
  - Food Policy
+ - Frontiers in Climate 
  - Global Environmental Change
  - Groundwater for Sustainainable Development
  - Hábitat y Sociedad
@@ -42,6 +44,7 @@ permalink: /doctorado/catalogo_revistas/
  - International Journal of Sustainability in Higher Education
  - International Regional Science Review
  - Journal of Cleaner Production
+ - Journal of Environmental Management
  - Journal of Peasant Studies
  - Journal of Rural Studies
  - Landscape and urban planning
