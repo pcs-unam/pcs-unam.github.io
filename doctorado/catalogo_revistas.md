@@ -44,6 +44,7 @@ permalink: /doctorado/catalogo_revistas/
  - International Journal of Sustainability in Higher Education
  - International Regional Science Review
  - Journal of Cleaner Production
+ - Journal of Environmental Management
  - Journal of Peasant Studies
  - Journal of Rural Studies
  - Landscape and urban planning
