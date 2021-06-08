@@ -19,7 +19,7 @@ permalink: /doctorado/descargables/
  - [Acta de evaluación Revisión crítica de la literatura](/assets/formatos/doctorado/acta_revision_literatura.pdf)
  - [Acta de evaluación Redacción de artículo](/assets/formatos/doctorado/acta_redaccion_articulo.pdf)
  - [Acta de evaluación Estancia de investigación](/assets/formatos/doctorado/acta_estancia_investigacion.pdf)
- - [Acta de evaluación Formación recursos humanos](/assets/formatos/doctorado/acta_estancia_investigacion.pdf)
+ - [Acta de evaluación Formación recursos humanos](/assets/formatos/doctorado/acta_formacion_recursos_humanos.pdf)
 
 ## Examen de Candidatura
 
