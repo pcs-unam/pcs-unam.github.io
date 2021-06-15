@@ -29,6 +29,8 @@ González-Quintero, C., & Avila-Foucat, V. S. (2019). Operationalization and Mea
 
 Haro, A., Mendoza-Ponce, A., Calderón, O., Velasco, J. A., & Estrada, F. (2021). Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 3, 54. < https://doi.org/10.3389/fclim.2021.674693>
 
+Hernández Aguilar, B., Lerner, A. M., Manuel-Navarrete, D., & Siqueiros-García, J. M. (2021). Persisting narratives undermine potential water scarcity solutions for informal areas of Mexico City: the case of two settlements in Xochimilco. Water International, 1-19. <https://doi.org/10.1080/02508060.2021.1923179>
+
 Jiménez, M., Pérez-Belmont, P., Schewenius, M., Lerner, A. M., & Mazari-Hiriart, M. (2020). Assessing the historical adaptive cycles of an urban social-ecological system and its potential future resilience: the case of Xochimilco, Mexico City. Regional Environmental Change, 20(1), 7. <https://doi.org/10.1007/s10113-020-01587-9>
 
 Merino-Benítez, T., I. Grave, L.A. Bojórquez-Tapia (2020). AHP- based social vulnerability index for small fisheries in Yucatan, Mexico. International Symposium of the Analytic Hierarchy Process 2020, Web Conference. DEC. 3 – DEC. 6, 2020. <http://www.isahp.org/uploads/048_001.pdf>
