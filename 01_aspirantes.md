@@ -13,13 +13,12 @@ menu: true
  - [Lista de aspirantes aceptados al Programa de Doctorado en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_doctorado_2022_1.pdf)
  
 
-L@s aspirantes no aceptad@s que deseen conocer el dictamen del subcomité de admisión, favor de solicitarlo por medio del Portal de Transparencia UNAM: <http://www.transparencia.unam.mx/index.html>
-
-
 [Instrucciones para la entrega documental e inscripción de aspirantes aceptados de Maestría](/assets/docs/instrucciones_entregadocumental_inscripcion_aspirantes_aceptados_mae.pdf)
 
 [Instrucciones para la entrega documental e inscripción de aspirantes aceptados de Doctorado](/assets/docs/instrucciones_entregadocumental_inscripcion_aspirantes_aceptados_doc.pdf)
 
+
+L@s aspirantes no aceptad@s que deseen conocer el dictamen del subcomité de admisión, favor de solicitarlo por medio del Portal de Transparencia UNAM: <http://www.transparencia.unam.mx/index.html>
 
 
 ## Próxima convocatoria
