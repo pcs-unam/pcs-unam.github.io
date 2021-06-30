@@ -15,8 +15,8 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 ### Agosto
 
 - **3 de agosto** Reunión sobre procedimiento de reinscripción para alumnos de Maestría y Doctorado. Se enviará la liga de la sesión por correo electrónico.
-- **4 al 6 de agosto ** Inscripciones y reinscripciones al semestre 2022-1 en https://www.saep.unam.mx
-- **Del 4 al 10 de agosto** Envío por correo electrónico de la hoja de reinscripción que se descarga del sistema de SAEP para trámite de validación a la oficina de Posgrado correspondiente:
+- **4 al 6 de agosto** Inscripciones y reinscripciones al semestre 2022-1 en <https://www.saep.unam.mx>
+- **Del 4 al 10 de agosto** Envío por correo electrónico de la hoja de reinscripción que se descarga del sistema de SAEP para trámite de validación en la oficina de Posgrado correspondiente:
 - En CDMX enviarlo a <carolinacg@posgrado.unam.mx>
 - En el IIES-Morelia enviarlo a <posgrado.iies@cieco.unam.mx>
 - En la ENES-Morelia enviarlo a <jhuante@enesmorelia.unam.mx>
@@ -31,11 +31,11 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 - En CDMX a <sostenibilidad@posgrado.unam.mx>
 - En el IIES-Morelia a <posgrado.iies@cieco.unam.mx>
 - En la ENES-Morelia a <jhuante@enesmorelia.unam.mx>
-- **Del 16 al 20 de agosto** Enviar a sostenibilidad@posgrado.unam.mx el informe del becario de CONACyT correspondiente al semestre 2021-2 para revisión y firma del Coordinador. Favor de anotar como asunto del correo “Informe becario de (anotar su nombre)”. Debe estar previamente llenado y firmado por el(la) tutor(a) principal. El documento se les regresará por correo electrónico con la firma del Coordinador a más tardar a el 3 de septiembre. Consultar la guía para becarios y las fechas de entrega del informe en la siguiente dirección: https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php
+- **Del 16 al 20 de agosto** Enviar a sostenibilidad@posgrado.unam.mx el informe del becario de CONACyT correspondiente al semestre 2021-2 para revisión y firma del Coordinador. Favor de anotar como asunto del correo “Informe becario de (anotar su nombre)”. Debe estar previamente llenado y firmado por el(la) tutor(a) principal. El documento se les regresará por correo electrónico con la firma del Coordinador a más tardar a el 3 de septiembre. Consultar la guía para becarios y las fechas de entrega del informe en la siguiente dirección: <https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php>
 
 ### Septiembre
 
-- **9 de septiembre** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx>  solicitudes de apoyo para realizar actividades académicas nacionales o internacionales vía remota, en el marco del Programa de Apoyo a los Estudios de Posgrado (PAEP). Consultar convocatoria en < https://sostenibilidad.posgrado.unam.mx/apoyos/>
+- **9 de septiembre** Fecha límite para enviar a <sostenibilidad@posgrado.unam.mx>  solicitudes de apoyo para realizar actividades académicas nacionales o internacionales vía remota, en el marco del Programa de Apoyo a los Estudios de Posgrado (PAEP). Consultar convocatoria en <https://sostenibilidad.posgrado.unam.mx/apoyos/>
 - **14 de septiembre** Sesión de Comité Académico
 
 ### Octubre
@@ -58,7 +58,7 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 - **10 de diciembre** Fecha límite para registrar en actas las evaluaciones tutorales de Maestría en [*https://www.saep.unam.mx*](https://www.saep.unam.mx/). No aplica para alumnos de primer semestre. Los miembros del comité tutor deberán ingresar sus comentarios en el acta electrónica y **al final el tutor principal será el responsable de cerrar el acta** con su comentario y calificación acordada entre los miembros del comité tutor. El tutor principal es el único que requiere de firma electrónica para calificar.
 - **10 de diciembre** Fecha límite para registrar en actas las evaluaciones tutorales de Doctorado en [*https://www.saep.unam.mx*](https://www.saep.unam.mx/). El tutor principal y miembros del comité tutor deberán ingresar al sistema para emitir comentarios sobre la evaluación tutoral. No se requiere de firma electrónica. La evaluación tutoral y la evaluación de la actividad complementaria forman parte de una sola evaluación semestral.
 - **10 de diciembre** Fecha límite para enviar a la oficina de Posgrado correspondiente el acta de la actividad académica complementaria de Doctorado del semestre 2022-1, evaluada y firmada por todos los miembros del comité tutor. Descargar el acta de evaluación de la actividad académica complementaria de Doctorado en <https://sostenibilidad.posgrado.unam.mx/doctorado/descargables/>
-- **10 de diciembre** Fecha límite para enviar a la oficina de Posgrado correspondiente el acta y resumen del seminario de tesis o acta y constancia del seminario de investigación de Maestría del semestre 2022-1, evaluadas y firmadas por todos los miembros del comité tutor. Descargar el acta de evaluación del seminario de tesis o seminario de investigación de Maestría en https://sostenibilidad.posgrado.unam.mx/maestria/descargables/> Sólo aplica para alumnos que hayan registrado alguna de estas dos actividades
+- **10 de diciembre** Fecha límite para enviar a la oficina de Posgrado correspondiente el acta y resumen del seminario de tesis o acta y constancia del seminario de investigación de Maestría del semestre 2022-1, evaluadas y firmadas por todos los miembros del comité tutor. Descargar el acta de evaluación del seminario de tesis o seminario de investigación de Maestría en <https://sostenibilidad.posgrado.unam.mx/maestria/descargables/> Sólo aplica para alumnos que hayan registrado alguna de estas dos actividades
 - **10 de diciembre** Fecha límite para registrar en actas las evaluaciones de las asignaturas correspondientes al semestre 2022-1 en [*https://www.saep.unam.mx*](https://www.saep.unam.mx/)
 - **14 de diciembre** Sesión de Comité Académico
 - **Del 20 de diciembre al 5 de enero de 2022** Vacaciones académico-administrativas
