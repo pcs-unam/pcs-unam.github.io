@@ -18,7 +18,6 @@ menu: true
 [Instrucciones para la entrega documental e inscripción de aspirantes aceptados de Doctorado](/assets/docs/instrucciones_entregadocumental_inscripcion_aspirantes_aceptados_doc.pdf)
 
 
-L@s aspirantes no aceptad@s que deseen conocer el dictamen del subcomité de admisión, favor de solicitarlo por medio del Portal de Transparencia UNAM: <http://www.transparencia.unam.mx/index.html>
 
 
 ## Próxima convocatoria
