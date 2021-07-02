@@ -11,7 +11,7 @@ menu: true
 
 El semestre 2022-1 inicia el 9 de agosto y termina el 10 de diciembre, considerando dos semanas de evaluaciones y exámenes tutorales.
 
-Las ligas para las sesiones virtuales de los cursos se deben solicitar directamente a lo(a)s profesore(a)s de cada curso, enviando un mensaje al correo registrado. 
+**TODOS LOS CURSOS DEL SEMESTRE SERÁN IMPARTIDOS EN LÍNEA.** Las ligas para las sesiones virtuales de los cursos se deben solicitar directamente a lo(a)s profesore(a)s de cada curso, enviando un mensaje al correo registrado. 
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
 
