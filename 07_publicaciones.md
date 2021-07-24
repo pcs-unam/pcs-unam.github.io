@@ -31,6 +31,8 @@ Haro, A., Mendoza-Ponce, A., Calderón, O., Velasco, J. A., & Estrada, F. (2021)
 
 Hernández Aguilar, B., Lerner, A. M., Manuel-Navarrete, D., & Siqueiros-García, J. M. (2021). Persisting narratives undermine potential water scarcity solutions for informal areas of Mexico City: the case of two settlements in Xochimilco. Water International, 1-19. <https://doi.org/10.1080/02508060.2021.1923179>
 
+Islas Vargas, M. (2020). Adaptación al cambio climático: definición, sujetos y disputas. Letras Verdes, Revista Latinoamericana de Estudios Socioambientales, 28, 9-30. <https://doi.org/10.17141/letrasverdes.28.2020.4333>
+
 Jiménez, M., Pérez-Belmont, P., Schewenius, M., Lerner, A. M., & Mazari-Hiriart, M. (2020). Assessing the historical adaptive cycles of an urban social-ecological system and its potential future resilience: the case of Xochimilco, Mexico City. Regional Environmental Change, 20(1), 7. <https://doi.org/10.1007/s10113-020-01587-9>
 
 Merino-Benítez, T., I. Grave, L.A. Bojórquez-Tapia (2020). AHP- based social vulnerability index for small fisheries in Yucatan, Mexico. International Symposium of the Analytic Hierarchy Process 2020, Web Conference. DEC. 3 – DEC. 6, 2020. <http://www.isahp.org/uploads/048_001.pdf>
@@ -43,6 +45,8 @@ Oliva, M., García-Frapolli, E., Porter-Bolland, L., & Montiel, S. (2019). Early
 Pelayo Pérez, M. B., y Gasca Zamora, J. (2019). Reconfiguración de un territorio hidrosocial tras la construcción de la presa El Cajón, en Nayarit. región y sociedad, 31, e1201. <doi: 10.22198/rys2019/31/1201>
 
 Pelayo Pérez, M.B., & Rasch, E. (2020). Resistance to hydropower developments in contexts of violence and organised crime in Mexico. European Review of Latin American and Caribbean Studies 110: 123-143. <http://doi.org/10.32992/erlacs.10624>
+
+Pérez-Serrano, D., Cabirol, N., Martínez-Cervantes, C., & Rojas-Oropeza, M. (2021). Mesquite management in the Mezquital Valley: A sustainability assessment based on the view point of the Hñähñú indigenous community. Environmental and Sustainability Indicators, 10, 100113. <https://doi.org/10.1016/j.indic.2021.100113>
 
 Reyes-González, A., Camou-Guerrero, A., Del-Val, E., Ramírez, M. I., & Porter-Bolland, L. (2020). Biocultural Diversity Loss: the Decline of Native Stingless Bees (Apidae: Meliponini) and Local Ecological Knowledge in Michoacán, Western México. Human Ecology, 1-12. 
 < https://doi.org/10.1007/s10745-020-00167-z>
