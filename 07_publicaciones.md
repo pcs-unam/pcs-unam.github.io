@@ -20,6 +20,8 @@ Charli-Joseph, L., J. Siqueiros-Garcia, H. Eakin, D. Manuel-Navarrete, and R. Sh
 
 Cuevas-Mendieta, E., García-Frapolli, E., & del-Val, E. (2021). Diversity and local perception of lepidopterans in secondary tropical dry forests: Implications for management. Forest Ecology and Management, 482, 118815. <https://doi.org/10.1016/j.foreco.2020.118815>
 
+de la Vega-Rivera, A., y Merino-Pérez, L. (2021). Socio-Environmental Impacts of the Avocado Boom in the Meseta Purépecha, Michoacán, Mexico. Sustainability, 13(13), 7247. <https://www.mdpi.com/2071-1050/13/13/7247>
+
 García-Sánchez, M., & Güereca, L. P. (2019). Environmental and social life cycle assessment of urban water systems: The case of Mexico City. Science of The Total Environment, 693, 133464.
 <https://doi.org/10.1016/j.scitotenv.2019.07.270>
 
@@ -55,8 +57,6 @@ Rodríguez-Izquierdo, E., Miquelajauregui, Y., Padilla, P., & Bojórquez-Tapia, 
 
 Subercaseaux, D., Moreno-Calles, A. I., Astier, M., & de Jesús Hernández L, J. (2021). Emerging Agro-Rural Complexities in Occident Mexico: Approach from Sustainability Science and Transdisciplinarity. Sustainability, 13(6), 3257.
 <https://www.mdpi.com/2071-1050/13/6/3257>
-
-de la Vega-Rivera, A., y Merino-Pérez, L. (2021). Socio-Environmental Impacts of the Avocado Boom in the Meseta Purépecha, Michoacán, Mexico. Sustainability, 13(13), 7247. <https://www.mdpi.com/2071-1050/13/13/7247>
 
 Zamora-Maldonado, H. C., & Avila-Foucat, V. S. (2020). Non-timber forest product importance for rural household well-being in four coastal communities in Oaxaca, Mexico. International Forestry Review 22(3): 397-407. <https://doi.org/10.1505/146554820830405663>
 
