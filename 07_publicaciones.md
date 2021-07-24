@@ -27,7 +27,7 @@ González-Padrón, S. K., Lerner, A. M., & Mazari-Hiriart, M. (2019). Improving 
 
 González-Quintero, C., & Avila-Foucat, V. S. (2019). Operationalization and Measurement of Social-Ecological Resilience: A Systematic Review. Sustainability, 11(21), 6073. <https://doi.org/10.3390/su11216073>
 
-Haro, A., Mendoza-Ponce, A., Calderón, O., Velasco, J. A., & Estrada, F. (2021). Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 3, 54. < https://doi.org/10.3389/fclim.2021.674693>
+Haro, A., Mendoza-Ponce, A., Calderón, O., Velasco, J. A., & Estrada, F. (2021). Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 3, 54. <https://doi.org/10.3389/fclim.2021.674693>
 
 Hernández Aguilar, B., Lerner, A. M., Manuel-Navarrete, D., & Siqueiros-García, J. M. (2021). Persisting narratives undermine potential water scarcity solutions for informal areas of Mexico City: the case of two settlements in Xochimilco. Water International, 1-19. <https://doi.org/10.1080/02508060.2021.1923179>
 
@@ -49,7 +49,7 @@ Pelayo Pérez, M.B., & Rasch, E. (2020). Resistance to hydropower developments i
 Pérez-Serrano, D., Cabirol, N., Martínez-Cervantes, C., & Rojas-Oropeza, M. (2021). Mesquite management in the Mezquital Valley: A sustainability assessment based on the view point of the Hñähñú indigenous community. Environmental and Sustainability Indicators, 10, 100113. <https://doi.org/10.1016/j.indic.2021.100113>
 
 Reyes-González, A., Camou-Guerrero, A., Del-Val, E., Ramírez, M. I., & Porter-Bolland, L. (2020). Biocultural Diversity Loss: the Decline of Native Stingless Bees (Apidae: Meliponini) and Local Ecological Knowledge in Michoacán, Western México. Human Ecology, 1-12. 
-< https://doi.org/10.1007/s10745-020-00167-z>
+<https://doi.org/10.1007/s10745-020-00167-z>
 
 Rodríguez-Izquierdo, E., Miquelajauregui, Y., Padilla, P., & Bojórquez-Tapia, L. A. (2019). Modelling approach for crafting environmental regulations under deep uncertainty: Whale watching in Ojo de liebre, Mexico. Ecological Modelling, 408, 108731. <https://doi.org/10.1016/j.ecolmodel.2019.108731>
 
