@@ -54,7 +54,7 @@ Reyes-González, A., Camou-Guerrero, A., Del-Val, E., Ramírez, M. I., & Porter-
 Rodríguez-Izquierdo, E., Miquelajauregui, Y., Padilla, P., & Bojórquez-Tapia, L. A. (2019). Modelling approach for crafting environmental regulations under deep uncertainty: Whale watching in Ojo de liebre, Mexico. Ecological Modelling, 408, 108731. <https://doi.org/10.1016/j.ecolmodel.2019.108731>
 
 Subercaseaux, D., Moreno-Calles, A. I., Astier, M., & de Jesús Hernández L, J. (2021). Emerging Agro-Rural Complexities in Occident Mexico: Approach from Sustainability Science and Transdisciplinarity. Sustainability, 13(6), 3257.
-< https://www.mdpi.com/2071-1050/13/6/3257>
+<https://www.mdpi.com/2071-1050/13/6/3257>
 
 de la Vega-Rivera, A., y Merino-Pérez, L. (2021). Socio-Environmental Impacts of the Avocado Boom in the Meseta Purépecha, Michoacán, Mexico. Sustainability, 13(13), 7247. <https://www.mdpi.com/2071-1050/13/13/7247>
 
