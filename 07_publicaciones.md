@@ -44,6 +44,8 @@ Mirenda, C. (2020). Percepciones del cambio climático en perspectiva de género
 Oliva, M., García-Frapolli, E., Porter-Bolland, L., & Montiel, S. (2019). Early Detection of Conflicts for the Management of Protected Areas: The Case of Charcoal Production in the Los Petenes Biosphere Reserve, Mexico. Environmental management, 1-12.
 <https://doi.org/10.1007/s00267-019-01170-x>
 
+Páez, D. P., Bojórquez-Tapia, L. A., Ramos, G. C. D., & Chavero, E. L. (2020). Understanding translation: Co-production of knowledge in marine spatial planning. Ocean & Coastal Management, 190, 105163. <https://doi.org/10.1016/j.ocecoaman.2020.105163>
+
 Pelayo Pérez, M. B., y Gasca Zamora, J. (2019). Reconfiguración de un territorio hidrosocial tras la construcción de la presa El Cajón, en Nayarit. región y sociedad, 31, e1201. <doi: 10.22198/rys2019/31/1201>
 
 Pelayo Pérez, M.B., & Rasch, E. (2020). Resistance to hydropower developments in contexts of violence and organised crime in Mexico. European Review of Latin American and Caribbean Studies 110: 123-143. <http://doi.org/10.32992/erlacs.10624>
