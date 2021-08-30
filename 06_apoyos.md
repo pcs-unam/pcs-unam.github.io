@@ -16,7 +16,7 @@ Dichas actividades podrán solicitarse una vez concluido el segundo semestre de 
 
 Los siguientes documentos se deberán enviar a la Coordinación (sostenibilidad@posgrado.unam.mx) a más tardar el 9 de septiembre:
 
-  - Descargar formato de solicitud en: <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/solicitud_de_apoyo_paep_2021-2_formulario-final.pdf>
+  - Descargar formato de solicitud en: <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/SOLICITUD_DE_APOYO_PAEP_2021_V2.pdf>
  - Última inscripción validada
  - Comprobante del costo de inscripción de la actividad académica solicitada
  - Para congresos y coloquios enviar el correo electrónico o carta de aceptación como

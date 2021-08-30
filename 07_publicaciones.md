@@ -20,6 +20,8 @@ Charli-Joseph, L., J. Siqueiros-Garcia, H. Eakin, D. Manuel-Navarrete, and R. Sh
 
 Cuevas-Mendieta, E., García-Frapolli, E., & del-Val, E. (2021). Diversity and local perception of lepidopterans in secondary tropical dry forests: Implications for management. Forest Ecology and Management, 482, 118815. <https://doi.org/10.1016/j.foreco.2020.118815>
 
+de la Vega-Rivera, A., y Merino-Pérez, L. (2021). Socio-Environmental Impacts of the Avocado Boom in the Meseta Purépecha, Michoacán, Mexico. Sustainability, 13(13), 7247. <https://www.mdpi.com/2071-1050/13/13/7247>
+
 García-Sánchez, M., & Güereca, L. P. (2019). Environmental and social life cycle assessment of urban water systems: The case of Mexico City. Science of The Total Environment, 693, 133464.
 <https://doi.org/10.1016/j.scitotenv.2019.07.270>
 
@@ -27,9 +29,11 @@ González-Padrón, S. K., Lerner, A. M., & Mazari-Hiriart, M. (2019). Improving 
 
 González-Quintero, C., & Avila-Foucat, V. S. (2019). Operationalization and Measurement of Social-Ecological Resilience: A Systematic Review. Sustainability, 11(21), 6073. <https://doi.org/10.3390/su11216073>
 
-Haro, A., Mendoza-Ponce, A., Calderón, O., Velasco, J. A., & Estrada, F. (2021). Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 3, 54. < https://doi.org/10.3389/fclim.2021.674693>
+Haro, A., Mendoza-Ponce, A., Calderón, O., Velasco, J. A., & Estrada, F. (2021). Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 3, 54. <https://doi.org/10.3389/fclim.2021.674693>
 
 Hernández Aguilar, B., Lerner, A. M., Manuel-Navarrete, D., & Siqueiros-García, J. M. (2021). Persisting narratives undermine potential water scarcity solutions for informal areas of Mexico City: the case of two settlements in Xochimilco. Water International, 1-19. <https://doi.org/10.1080/02508060.2021.1923179>
+
+Islas Vargas, M. (2020). Adaptación al cambio climático: definición, sujetos y disputas. Letras Verdes, Revista Latinoamericana de Estudios Socioambientales, 28, 9-30. <https://doi.org/10.17141/letrasverdes.28.2020.4333>
 
 Jiménez, M., Pérez-Belmont, P., Schewenius, M., Lerner, A. M., & Mazari-Hiriart, M. (2020). Assessing the historical adaptive cycles of an urban social-ecological system and its potential future resilience: the case of Xochimilco, Mexico City. Regional Environmental Change, 20(1), 7. <https://doi.org/10.1007/s10113-020-01587-9>
 
@@ -40,17 +44,21 @@ Mirenda, C. (2020). Percepciones del cambio climático en perspectiva de género
 Oliva, M., García-Frapolli, E., Porter-Bolland, L., & Montiel, S. (2019). Early Detection of Conflicts for the Management of Protected Areas: The Case of Charcoal Production in the Los Petenes Biosphere Reserve, Mexico. Environmental management, 1-12.
 <https://doi.org/10.1007/s00267-019-01170-x>
 
+Páez, D. P., Bojórquez-Tapia, L. A., Ramos, G. C. D., & Chavero, E. L. (2020). Understanding translation: Co-production of knowledge in marine spatial planning. Ocean & Coastal Management, 190, 105163. <https://doi.org/10.1016/j.ocecoaman.2020.105163>
+
 Pelayo Pérez, M. B., y Gasca Zamora, J. (2019). Reconfiguración de un territorio hidrosocial tras la construcción de la presa El Cajón, en Nayarit. región y sociedad, 31, e1201. <doi: 10.22198/rys2019/31/1201>
 
 Pelayo Pérez, M.B., & Rasch, E. (2020). Resistance to hydropower developments in contexts of violence and organised crime in Mexico. European Review of Latin American and Caribbean Studies 110: 123-143. <http://doi.org/10.32992/erlacs.10624>
 
+Pérez-Serrano, D., Cabirol, N., Martínez-Cervantes, C., & Rojas-Oropeza, M. (2021). Mesquite management in the Mezquital Valley: A sustainability assessment based on the view point of the Hñähñú indigenous community. Environmental and Sustainability Indicators, 10, 100113. <https://doi.org/10.1016/j.indic.2021.100113>
+
 Reyes-González, A., Camou-Guerrero, A., Del-Val, E., Ramírez, M. I., & Porter-Bolland, L. (2020). Biocultural Diversity Loss: the Decline of Native Stingless Bees (Apidae: Meliponini) and Local Ecological Knowledge in Michoacán, Western México. Human Ecology, 1-12. 
-< https://doi.org/10.1007/s10745-020-00167-z>
+<https://doi.org/10.1007/s10745-020-00167-z>
 
 Rodríguez-Izquierdo, E., Miquelajauregui, Y., Padilla, P., & Bojórquez-Tapia, L. A. (2019). Modelling approach for crafting environmental regulations under deep uncertainty: Whale watching in Ojo de liebre, Mexico. Ecological Modelling, 408, 108731. <https://doi.org/10.1016/j.ecolmodel.2019.108731>
 
 Subercaseaux, D., Moreno-Calles, A. I., Astier, M., & de Jesús Hernández L, J. (2021). Emerging Agro-Rural Complexities in Occident Mexico: Approach from Sustainability Science and Transdisciplinarity. Sustainability, 13(6), 3257.
-< https://www.mdpi.com/2071-1050/13/6/3257>
+<https://www.mdpi.com/2071-1050/13/6/3257>
 
 Zamora-Maldonado, H. C., & Avila-Foucat, V. S. (2020). Non-timber forest product importance for rural household well-being in four coastal communities in Oaxaca, Mexico. International Forestry Review 22(3): 397-407. <https://doi.org/10.1505/146554820830405663>
 

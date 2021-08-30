@@ -34,8 +34,8 @@ carolinacg@posgrado.unam.mx
 
 # Apoyo administrativo
 
-Angélica Rodríguez Chávez
+Angel Rodríguez Chávez
 
 5623-7012
 
-angie.sostenibilidad@gmail.com
+angelrch@posgrado.unam.mx
