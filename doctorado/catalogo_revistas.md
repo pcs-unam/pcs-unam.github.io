@@ -48,6 +48,7 @@ permalink: /doctorado/catalogo_revistas/
  - Journal of Cleaner Production
  - Journal of Disaster Risk Studies
  - Journal of Environmental Management
+ - Journal of Ethnic Foods
  - Journal of Peasant Studies
  - Journal of Rural Studies
  - Landscape and urban planning
