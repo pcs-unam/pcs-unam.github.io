@@ -7,7 +7,7 @@ menu: true
 ---
 
 
-## Información sobre la convocatoria 2022-1
+## Información sobre la convocatoria 2023-1
 
 La [convocatoria de ingreso 2023-1](/assets/docs/convocatoria_ingreso_2023-1.pdf) para iniciar en agosto de 2022 se encuentra abierta.
 
