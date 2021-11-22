@@ -7,9 +7,11 @@ menu: true
 ---
 
 
-## Próxima convocatoria
+## Información sobre la convocatoria 2022-1
 
-La siguiente convocatoria de ingreso al Posgrado en Ciencias de la Sostenibilidad se publicará durante el mes de noviembre de 2021 para iniciar en agosto de 2022.
+La [convocatoria de ingreso 2023-1](/assets/docs/convocatoria_ingreso_2023-1.pdf) para iniciar en agosto de 2022 se encuentra abierta.
+
+Los siguientes instructivos se publicarán en los próximo días.
 
  
 
