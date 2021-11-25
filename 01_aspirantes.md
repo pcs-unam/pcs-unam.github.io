@@ -11,7 +11,11 @@ menu: true
 
 La [convocatoria de ingreso 2023-1](/assets/docs/convocatoria_ingreso_2023-1.pdf) para iniciar en agosto de 2022 se encuentra abierta.
 
-Los instructivos de Maestría y Doctorado se publicarán en los próximo días.
+Consultar detalles de la convocatoria en los siguientes instructivos:
+
+ - [Instructivo para aspirantes de Maestría](/assets/docs/instructivo-maestria.pdf)
+ - [Instructivo para aspirantes de Doctorado](/assets/docs/instructivo-doctorado.pdf)
+
 
  
 
