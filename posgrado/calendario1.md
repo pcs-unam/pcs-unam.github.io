@@ -24,7 +24,7 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 
 - **6 de agosto** Reunión de bienvenida para los alumnos de nuevo ingreso. Se enviará la liga de la sesión por correo electrónico.
 - **9 de agosto** Presentación de cursos para los alumnos de nuevo ingreso. Se enviará la liga de la sesión por correo electrónico.
-- **9 de agosto** Inicio del semestre 2021-1
+- **9 de agosto** Inicio del semestre 2022-1
 - **Del 9 de agosto al 26 de noviembre** Resello y reposición de credenciales
 - **10 de agosto** Sesión de Comité Académico
 - **Del 9 al 13 de agosto** Envío del formato de registro de la [actividad académica complementaria](/doctorado/actividades). Aplica para alumnos de Doctorado de segundo semestre en adelante. Enviar el formato a los siguientes correos:
