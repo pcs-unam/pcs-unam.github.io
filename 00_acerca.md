@@ -7,8 +7,8 @@ menu: true
 ---
 
  - [Directorio](/posgrado/directorio)
+ - [Calendario de actividades 2022-2](/posgrado/calendario2)
  - [Calendario de actividades 2022-1](/posgrado/calendario1)
- - [Calendario de actividades 2021-2](/posgrado/calendario2)
  - [Calendario escolar](https://www.dgae.unam.mx/calendarios_escolares.html)
  - [Entidades](/posgrado/entidades)
  - [Ubicación](/posgrado/ubicacion)
