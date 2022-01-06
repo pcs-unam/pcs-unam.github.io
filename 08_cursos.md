@@ -7,15 +7,14 @@ menu: true
 ---
 
 
-### Semestre 2022-1
+### Semestre 2022-2
 
-El semestre 2022-1 inicia el 9 de agosto y termina el 10 de diciembre, considerando dos semanas de evaluaciones y exámenes tutorales.
+El semestre 2022-2 inicia el 31 de enero y termina el 10 de junio de 2022, considerando dos semanas de evaluaciones y exámenes tutorales.
 
-**TODOS LOS CURSOS DEL SEMESTRE SERÁN IMPARTIDOS EN LÍNEA.** Las ligas para las sesiones virtuales de los cursos se deben solicitar directamente a lo(a)s profesore(a)s de cada curso, enviando un mensaje al correo registrado. 
+Las ligas para las sesiones virtuales de los cursos que se impartirán en línea se deben solicitar directamente a lo(a)s profesore(a)s de cada curso, enviando un mensaje al correo registrado. 
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
 
-Los alumnos de otros posgrados interesados en inscribir un curso de este Programa, tienen como fecha límite para registrarse en el sistema de SIAEP el 6 de agosto.
 
 
 <!-- cursos-siges -->
