@@ -15,7 +15,7 @@ menu: true
 
 **Coordinador**: Dr. Alonso Aguilar Ibarra
 
-**Representantes de alumnos**: Lic. Vanessa María Cravioto Fierro y M. en C. Águeda Karina Ramos Rendón (karina.y.vanessa.pcs@gmail.com)  
+**Representante de alumnos**: Mtro. Jesús Adrián Fernández Reyes (adrianfdezreyes@gmail.com)  
 
 |------------------------------------------------+|+-------------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|-------------------------------|
 |                                                 |Entidad                                                                               |Dirección                       		| Representante de la Dirección         | Representante de tutores      |
