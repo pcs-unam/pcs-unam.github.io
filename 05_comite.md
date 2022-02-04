@@ -21,7 +21,7 @@ menu: true
 |                                                 |Entidad                                                                               |Dirección                       		| Representante de la Dirección         | Representante de tutores      |
 |------------------------------------------------+|+-------------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|-------------------------------|
 |![enes leon](/assets/logos/enes-leon.png)        |Escuela Nacional de Estudios Superiores Unidad León 									 |Dra. Laura Susana Acosta Torres 		|    Dr. Antonio Hernández López     |Dra. Arlene Iskra García Vázquez |
-|![enes morelia](/assets/logos/enes-morelia.png)  |Escuela Nacional de Estudios Superiores Unidad Morelia       						 |Dr. Mario Rodríguez Martínez 		|Dr. Hernando Alonso Rodríguez Correa             |Dr. Maxime Laurent Kieffer          |
+|![enes morelia](/assets/logos/enes-morelia.png)  |Escuela Nacional de Estudios Superiores Unidad Morelia       						 |Dr. Mario Rodríguez Martínez 		|Dra. Yesenia Arredondo León             |Dr. Maxime Laurent Kieffer          |
 |![arquitectura](/assets/logos/arquitectura.png)  |Facultad de Arquitectura      														 |Dr. Juan Ignacio del Cueto Ruiz-Funes		|Dra. Eftychia Danai Bournazou Marcou    |Dra. Adriana Lira Oliver   |
 |![ciencias](/assets/logos/ciencias.png)		  |Facultad de Ciencias     															 |Dr. Víctor Manuel Velázquez Aguilar |Dra. Nathalie Roberte Chantal Cabirol|  |
 |![biologia](/assets/logos/ibiol.png)			  |Instituto de Biología    															 |Dra. Susana Magallón Puebla       |Dra. Andrea Martínez Ballesté          |Dr. Enrique Martínez Meyer       |
