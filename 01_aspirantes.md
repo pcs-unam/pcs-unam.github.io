@@ -7,17 +7,14 @@ menu: true
 ---
 
 
-## Información sobre la convocatoria 2023-1
+La siguiente convocatoria de ingreso al Posgrado en Ciencias de la Sostenibilidad se publicará en noviembre de 2022 para iniciar en agosto de 2023.
 
-La [convocatoria de ingreso 2023-1](/assets/docs/convocatoria_ingreso_2023-1.pdf) para iniciar en agosto de 2022 se encuentra abierta.
+Consultar detalles de la [convocatoria 2023-1](/assets/docs/convocatoria_ingreso_2023-1.pdf) en los siguientes instructivos:
 
-Consultar detalles de la convocatoria en los siguientes instructivos:
 
  - [Instructivo para aspirantes de Maestría](/assets/docs/instructivo-maestria.pdf)
  - [Instructivo para aspirantes de Doctorado](/assets/docs/instructivo-doctorado.pdf)
 
-
- - [Indicaciones para presentar los exámenes de inglés que ofrece la ENALLT](/assets/docs/anuncio_fechas_enallt.pdf)
 
 
 ## Documentos descargables
