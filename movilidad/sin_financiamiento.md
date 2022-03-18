@@ -22,21 +22,20 @@ Procedimiento:
 
  1. Enviar a la Coordinación al correo <sostenibilidad@posgrado.unam.mx>, con 15 días de anticipación a la movilidad, los siguientes documentos:
 
-    a.	Carta compromiso [formato descargable](/assets/formatos/carta_compromiso_movilidad.docx)
+      - Carta compromiso [formato descargable](/assets/formatos/carta_compromiso_movilidad.docx)
     
-    b.	Último comprobante de inscripción
+      - Último comprobante de inscripción
     
-    c.	Carta de aceptación en caso de curso o congreso
+      - Carta de aceptación en caso de curso o congreso
     
-    d.	Carta de invitación a en caso de estancia
+      - Carta de invitación a en caso de estancia
     
-    e.	Carta de vigencia o copia del carnet del IMSS o ISSSTE, para el caso de actividades nacionales
+      - Carta de vigencia o copia del carnet del IMSS o ISSSTE, para el caso de actividades nacionales
     
-    f.	Copia de Póliza de Seguro de Gastos Médicos Mayores con cobertura internacional, para el caso 
-    de actividades internacionales.
+      - Copia de Póliza de Seguro de Gastos Médicos Mayores con cobertura internacional, para el caso de actividades internacionales.
 
  2.	Posteriormente la Coordinación enviará la autorización, con copia al módulo de apoyo de la 
-Coordinación General de Estudios de Posgrado, quien tramitará el Seguro de Prácticas Escolares de la UNAM . En caso de que el Seguro se vaya a tramitar en la entidad académica que organiza la actividad, especificar en la carta compromiso. 
+Coordinación General de Estudios de Posgrado, quien tramitará el Seguro de Prácticas Escolares de la UNAM. En caso de que el Seguro se vaya a tramitar en la entidad académica que organiza la actividad, especificar en la carta compromiso. 
 
  3.	Quienes salgan al extranjero se les recomienda consultar la guía del viajero de la Secretaría de 
  Relaciones Exteriores: <https://www.gob.mx/guiadelviajero>
