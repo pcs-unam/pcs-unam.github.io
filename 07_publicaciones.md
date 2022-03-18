@@ -37,6 +37,8 @@ Islas Vargas, M. (2020). Adaptación al cambio climático: definición, sujetos 
 
 Jiménez, M., Pérez-Belmont, P., Schewenius, M., Lerner, A. M., & Mazari-Hiriart, M. (2020). Assessing the historical adaptive cycles of an urban social-ecological system and its potential future resilience: the case of Xochimilco, Mexico City. Regional Environmental Change, 20(1), 7. <https://doi.org/10.1007/s10113-020-01587-9>
 
+Jiménez-Ortega, A. D., Aguilar Ibarra, A., Galeana-Pizaña, J. M., & Núñez, J. M. (2022). Changes over Time Matter: A Cycle of Participatory Sustainability Assessment of Organic Coffee in Chiapas, Mexico. Sustainability 14(4): 1-20. <https://doi.org/10.3390/su14042012>
+
 Mac Gregor-Gaona, M. F., Anglés-Hernández, M., Guibrunet, L., & González, L. Z. (2021). Assessing climate change risk: An index proposal for Mexico city. International Journal of Disaster Risk Reduction, 102549. < https://doi.org/10.1016/j.ijdrr.2021.102549>
 
 Merino-Benítez, T., I. Grave, L.A. Bojórquez-Tapia (2020). AHP- based social vulnerability index for small fisheries in Yucatan, Mexico. International Symposium of the Analytic Hierarchy Process 2020, Web Conference. DEC. 3 – DEC. 6, 2020. <http://www.isahp.org/uploads/048_001.pdf>
