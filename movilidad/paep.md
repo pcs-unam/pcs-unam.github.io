@@ -9,6 +9,8 @@ Estas instrucciones están basadas en la convocatoria y reglas de operación del
 Estudios de Posgrado (PAEP) 2022, y aplican para el desarrollo de actividades académicas que impliquen un 
 traslado nacional o internacional, con financiamiento de dicho programa. 
 
+Las actividades deberán tener una duración máxima de 45 días naturales.
+
 Procedimiento:
 
  1.	Revisar la convocatoria y las reglas de operación del Programa para conocer los requisitos documentales, 
