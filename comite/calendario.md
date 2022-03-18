@@ -1,21 +1,21 @@
 ---
-title: Calendario de sesiones 2021
+title: Calendario de sesiones 2022
 layout: page
 permalink: /comite/calendario/
 ---
 
 
-| 12 de enero | 
-| 9 de febrero |
-| 9 de marzo | 
-| 13 de abril | 
-| 11 de mayo |
-| 8 de junio |
+| 18 de enero | 
+| 8 de febrero |
+| 8 de marzo | 
+| 19 de abril | 
+| 17 de mayo |
+| 14 de junio |
 
-| 10 de agosto |
-| 14 de septiembre |
-| 12 de octubre | 
-| 9 de noviembre |
+| 9 de agosto |
+| 13 de septiembre |
+| 11 de octubre | 
+| 8 de noviembre |
 
 
 
