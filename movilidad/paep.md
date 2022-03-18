@@ -17,7 +17,7 @@ Procedimiento:
 
  2.	Enviar a la coordinación al correo <sostenibilidad@posgrado.unam.mx>, un mes antes de que inicie 
  la actividad académica, la solicitud de actividades académicas nacionales o internacionales, con 
- nombre y firma del alumno(a) y del tutor(a), así como el último comprobante de inscripción
+ nombre y firma del alumno(a) y del tutor(a), así como el último comprobante de inscripción.
 
  3.	Si la solicitud cumple con los lineamientos aprobados por el Comité Académico del Posgrado en 
  Ciencias de la Sostenibilidad, la Coordinación enviará la autorización al Departamento de Gestión 
