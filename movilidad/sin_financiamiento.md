@@ -5,7 +5,6 @@ permalink: /movilidad/sin-financiamiento/
 pleca: /assets/plecas/p04.jpg
 ---
 
-# Movilidad sin financiamiento
 
 Estas instrucciones están basadas en los 
 [Lineamientos Generales para regular la Movilidad del Posgrado de la UNAM](https://www.posgrado.unam.mx/nosotros/lineamientos-movilidad-posgrado.pdf), 
