@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Movilidad en actividades académicas de larga duración
+title: Movilidad con el Programa de Actividades Académicas de Larga Duración
 permalink: /movilidad/larga-duracion/
 pleca: /assets/plecas/p09.jpg
 ---
