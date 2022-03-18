@@ -19,14 +19,14 @@ Procedimiento:
  1.	Revisar la convocatoria y las reglas de operación del Programa para conocer los requisitos documentales, 
   	las obligaciones del alumnado y los montos de apoyo en 
   	<https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/paep.php>
+   
+ 2.	Revisar los [requisitos aprobados por el Comité Académico del Posgrado en 
+ Ciencias de la Sostenibilidad](/assets/docs/lineamientos_PAEP_2022.pdf)   
 
- 2.	Enviar a la coordinación al correo <sostenibilidad@posgrado.unam.mx>, un mes antes de que inicie 
- la actividad académica, la solicitud de actividades académicas nacionales o internacionales, con 
- nombre y firma del alumno(a) y del tutor(a), así como el último comprobante de inscripción.
+ 3.	Enviar a la coordinación al correo <sostenibilidad@posgrado.unam.mx>, un mes antes de que inicie 
+ la actividad académica, la [solicitud de actividades académicas](/assets/formatos/solicitud_actividades_academicas_PAEP_2022.xls), con nombre y firma del alumno(a) y del tutor(a), así como el último comprobante de inscripción.
 
- 3.	Si la solicitud cumple con los lineamientos aprobados por el Comité Académico del Posgrado en 
- Ciencias de la Sostenibilidad, la Coordinación enviará la autorización al Departamento de Gestión 
- de Apoyos de la Coordinación General, quien se pondrá en contacto con la(el) solicitante para 
+ 3.	Si la solicitud cumple con los requisitos, la Coordinación enviará la autorización al Departamento de Gestión de Apoyos de la Coordinación General, quien se pondrá en contacto con la(el) solicitante para 
  iniciar el trámite. 
 
  4.	A más tardar 15 días hábiles después de concluida la actividad, el alumnado deberá enviar 
