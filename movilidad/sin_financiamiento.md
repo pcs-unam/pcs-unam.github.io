@@ -7,10 +7,7 @@ pleca: /assets/plecas/p04.jpg
 
 
 Estas instrucciones están basadas en los 
-[Lineamientos Generales para regular la Movilidad del Posgrado de la UNAM](https://www.posgrado.unam.mx/nosotros/lineamientos-movilidad-posgrado.pdf), 
-publicados en la Gaceta UNAM el 31 de mayo de 
-2021 y que son de observancia general y obligatorios para el alumnado, estudiantado 
-y tutor(a)s de Posgrado.
+[Lineamientos Generales para regular la Movilidad del Posgrado de la UNAM](https://www.posgrado.unam.mx/nosotros/lineamientos-movilidad-posgrado.pdf), publicados en la Gaceta UNAM el 31 de mayo de 2021 y que son de observancia general y obligatorios para toda la comunidad del Posgrado.
 
 Aplican para el desarrollo de actividades académicas que impliquen un traslado nacional o internacional, 
 cuando la fuente de financiamiento no corresponda al Programa de Apoyo a los Estudios de Posgrado (PAEP) 
