@@ -37,10 +37,10 @@ Procedimiento:
     de actividades internacionales.
 
  2.	Posteriormente la Coordinación enviará la autorización, con copia al módulo de apoyo de la 
- 3.	Coordinación General de Estudios de Posgrado, quien tramitará el Seguro de Prácticas Escolares de la UNAM . En caso de que el Seguro se vaya a tramitar en la entidad académica que organiza la actividad, especificar en la carta compromiso. 
+Coordinación General de Estudios de Posgrado, quien tramitará el Seguro de Prácticas Escolares de la UNAM . En caso de que el Seguro se vaya a tramitar en la entidad académica que organiza la actividad, especificar en la carta compromiso. 
 
  3.	Quienes salgan al extranjero se les recomienda consultar la guía del viajero de la Secretaría de 
- 4.	Relaciones Exteriores: <https://www.gob.mx/guiadelviajero>
+ Relaciones Exteriores: <https://www.gob.mx/guiadelviajero>
 
 Es obligación del alumnado cumplir adecuada y oportunamente con todos los trámites migratorios y sanitarios, 
 incluidos los permisos necesarios y/o visa correspondiente.
