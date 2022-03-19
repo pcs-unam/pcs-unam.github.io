@@ -2,7 +2,7 @@
 title: Movilidad
 layout: page
 permalink: /movilidad/
-pleca: /assets/plecas/p11.jpg
+pleca: /assets/plecas/p13.jpg
 menu: true
 ---
 
