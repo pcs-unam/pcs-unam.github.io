@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Movilidad con apoyo PAEP
+title: Movilidad a través de PAEP
 permalink: /movilidad/paep/
 pleca: /assets/plecas/p08.jpg
 ---
