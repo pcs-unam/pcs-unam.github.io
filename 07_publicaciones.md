@@ -18,6 +18,8 @@ Calderón Villegas, C. E., Salas Espíndola, H., & Ávila García, P. (2020). La
 
 Charli-Joseph, L., J. Siqueiros-Garcia, H. Eakin, D. Manuel-Navarrete, and R. Shelton. (2018). Promoting agency for social-ecological transformation: a transformation-lab in the Xochimilco social-ecological system. Ecology and Society, 23(2), 46. <https://www.ecologyandsociety.org/vol23/iss2/art46/>
 
+Contreras Jaimes, B., Camou Guerrero, A., Ayala Orozco, B., & Urquijo Torres, P. S. (2022). Historia de las organizaciones pesqueras en la cuenca del lago de Pátzcuaro, Michoacán, 1930-2020. Región y Sociedad, 34, e1497. <https://doi.org/10.22198/rys2022/34/1497>
+
 Cuevas-Mendieta, E., García-Frapolli, E., & del-Val, E. (2021). Diversity and local perception of lepidopterans in secondary tropical dry forests: Implications for management. Forest Ecology and Management, 482, 118815. <https://doi.org/10.1016/j.foreco.2020.118815>
 
 de la Vega-Rivera, A., y Merino-Pérez, L. (2021). Socio-Environmental Impacts of the Avocado Boom in the Meseta Purépecha, Michoacán, Mexico. Sustainability, 13(13), 7247. <https://www.mdpi.com/2071-1050/13/13/7247>
