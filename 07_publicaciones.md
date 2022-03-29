@@ -18,6 +18,8 @@ Calderón Villegas, C. E., Salas Espíndola, H., & Ávila García, P. (2020). La
 
 Charli-Joseph, L., J. Siqueiros-Garcia, H. Eakin, D. Manuel-Navarrete, and R. Shelton. (2018). Promoting agency for social-ecological transformation: a transformation-lab in the Xochimilco social-ecological system. Ecology and Society, 23(2), 46. <https://www.ecologyandsociety.org/vol23/iss2/art46/>
 
+Contreras Jaimes, B., Camou Guerrero, A., Ayala Orozco, B., & Urquijo Torres, P. S. (2022). Historia de las organizaciones pesqueras en la cuenca del lago de Pátzcuaro, Michoacán, 1930-2020. Región y Sociedad, 34, e1497. <https://doi.org/10.22198/rys2022/34/1497>
+
 Cuevas-Mendieta, E., García-Frapolli, E., & del-Val, E. (2021). Diversity and local perception of lepidopterans in secondary tropical dry forests: Implications for management. Forest Ecology and Management, 482, 118815. <https://doi.org/10.1016/j.foreco.2020.118815>
 
 de la Vega-Rivera, A., y Merino-Pérez, L. (2021). Socio-Environmental Impacts of the Avocado Boom in the Meseta Purépecha, Michoacán, Mexico. Sustainability, 13(13), 7247. <https://www.mdpi.com/2071-1050/13/13/7247>
@@ -36,6 +38,8 @@ Hernández Aguilar, B., Lerner, A. M., Manuel-Navarrete, D., & Siqueiros-García
 Islas Vargas, M. (2020). Adaptación al cambio climático: definición, sujetos y disputas. Letras Verdes, Revista Latinoamericana de Estudios Socioambientales, 28, 9-30. <https://doi.org/10.17141/letrasverdes.28.2020.4333>
 
 Jiménez, M., Pérez-Belmont, P., Schewenius, M., Lerner, A. M., & Mazari-Hiriart, M. (2020). Assessing the historical adaptive cycles of an urban social-ecological system and its potential future resilience: the case of Xochimilco, Mexico City. Regional Environmental Change, 20(1), 7. <https://doi.org/10.1007/s10113-020-01587-9>
+
+Jiménez-Ortega, A. D., Aguilar Ibarra, A., Galeana-Pizaña, J. M., & Núñez, J. M. (2022). Changes over Time Matter: A Cycle of Participatory Sustainability Assessment of Organic Coffee in Chiapas, Mexico. Sustainability 14(4): 1-20. <https://doi.org/10.3390/su14042012>
 
 Mac Gregor-Gaona, M. F., Anglés-Hernández, M., Guibrunet, L., & González, L. Z. (2021). Assessing climate change risk: An index proposal for Mexico city. International Journal of Disaster Risk Reduction, 102549. < https://doi.org/10.1016/j.ijdrr.2021.102549>
 
