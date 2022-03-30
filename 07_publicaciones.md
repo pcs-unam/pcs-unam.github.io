@@ -41,6 +41,8 @@ Jiménez, M., Pérez-Belmont, P., Schewenius, M., Lerner, A. M., & Mazari-Hiriar
 
 Jiménez-Ortega, A. D., Aguilar Ibarra, A., Galeana-Pizaña, J. M., & Núñez, J. M. (2022). Changes over Time Matter: A Cycle of Participatory Sustainability Assessment of Organic Coffee in Chiapas, Mexico. Sustainability 14(4): 1-20. <https://doi.org/10.3390/su14042012>
 
+Llamas-Guzmán, L. P., Lazos Chavero, E., Perales Rivera, H. R., & Casas, A. (2022). Seed Exchange Networks of Native Maize, Beans, and Squash in San Juan Ixtenco and San Luis Huamantla, Tlaxcala, Mexico. Sustainability, 14(7), 3779. <https://www.mdpi.com/2071-1050/14/7/3779/htm>
+
 Mac Gregor-Gaona, M. F., Anglés-Hernández, M., Guibrunet, L., & González, L. Z. (2021). Assessing climate change risk: An index proposal for Mexico city. International Journal of Disaster Risk Reduction, 102549. < https://doi.org/10.1016/j.ijdrr.2021.102549>
 
 Merino-Benítez, T., I. Grave, L.A. Bojórquez-Tapia (2020). AHP- based social vulnerability index for small fisheries in Yucatan, Mexico. International Symposium of the Analytic Hierarchy Process 2020, Web Conference. DEC. 3 – DEC. 6, 2020. <http://www.isahp.org/uploads/048_001.pdf>
