@@ -122,6 +122,15 @@ de no contar con dicho comprobante, se deberá entregar el borrador final del
 artículo, listo para enviarse y aprobado por el comité tutor.
 
  
+# Actividades Transdisciplinarias
+
+Este tipo de actividades implican la interacción con miembros de otros sectores de la sociedad, con la finalidad de co-producir conocimiento. Por ejemplo: organización (diseño y/o facilitación) de talleres in situ, organización de eventos de intercambio de experiencias y conocimientos; facilitación de procesos de capacitación o educación ambiental; colaboración en procesos comunitarios (e.g. tequios, mano vuelta, organización de festividades), generación de objetos de frontera (e.g. videos, folletos, manuales, podcasts, páginas web, cartografía social).
+
+Se debe comprobar la participación explícita de uno o varios actores de diferentes sectores de la sociedad. Por ejemplo: gobierno (local, estatal o federal), organizaciones de la sociedad civil, cooperativas, ejidos, comunidades rurales o urbanas, industria o empresas, medios de comunicación. Se debe explicar claramente cómo es que este proceso participativo forma parte de una investigación transdisciplinaria.
+
+También se requiere describir el enfoque teórico-metodológico, así como las actividades que se esperan realizar y los procesos por medio de los cuales se espera lograr el diálogo de saberes. Y además: la co-producción de conocimiento y el co-diseño de acciones para lograr los objetivos planteados de manera conjunta.
+
+[Ver detalles de las Actividades Transdisciplinarias](/assets/formatos/doctorado/detalles_act_acad_transdisciplinarias.pdf)
 
 **Cualquier actividad académica complementaria propuesta no contemplada en esta lista, será evaluada por el Comité Académico.**
  
