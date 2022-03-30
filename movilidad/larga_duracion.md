@@ -16,9 +16,9 @@ La fecha límite para enviar solicitudes es el 23 de septiembre de 2022
 
 Procedimiento:
 
-1.	Revisar la convocatoria y las reglas de operación del Programa en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.php>
+ 1. Revisar la convocatoria y las reglas de operación del Programa en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.php>
 
-2.	Enviar los siguientes documentos al correo <sostenibilidad@posgrado.unam.mx> un mes antes de que inicie la actividad académica:
+ 2. Enviar los siguientes documentos al correo <sostenibilidad@posgrado.unam.mx> un mes antes de que inicie la actividad académica:
 
   - Solicitud de apoyo para Actividades Académicas de Larga Duración disponible en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.php>
   - Constancia de actividades académicas para beca del sistema de la Subdirección de Asuntos Escolares 
@@ -38,7 +38,7 @@ Para actividades académicas que se realicen durante la renovación de la póliz
 y el pago por separado de acuerdo con la tarifa que le aplique.
   - Certificado de vacunación COVID-19.
 
-3.	A más tardar 15 días hábiles después de concluida la actividad, el alumnado deberá enviar a <sostenibilidad@posgrado.unam.mx>, un informe académico de una a dos cuartillas firmado por 
+ 3. A más tardar 15 días hábiles después de concluida la actividad, el alumnado deberá enviar a <sostenibilidad@posgrado.unam.mx>, un informe académico de una a dos cuartillas firmado por 
 el(la) alumno(a) y el(la) tutor(a) principal, donde se exponga la relevancia de la actividad para 
 el proyecto. También se deberá entregar una copia de constancia de participación o carta oficial 
 (en hoja membretada de la institución). En caso de incumplimiento, se deberá reintegrar el recurso 
