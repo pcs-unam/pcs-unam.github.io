@@ -122,7 +122,7 @@ de no contar con dicho comprobante, se deberá entregar el borrador final del
 artículo, listo para enviarse y aprobado por el comité tutor.
 
  
-# Actividades Transdisciplinarias
+# Actividades transdisciplinarias
 
 Este tipo de actividades implican la interacción con miembros de otros sectores de la sociedad, con la finalidad de co-producir conocimiento. Por ejemplo: organización (diseño y/o facilitación) de talleres in situ, organización de eventos de intercambio de experiencias y conocimientos; facilitación de procesos de capacitación o educación ambiental; colaboración en procesos comunitarios (e.g. tequios, mano vuelta, organización de festividades), generación de objetos de frontera (e.g. videos, folletos, manuales, podcasts, páginas web, cartografía social).
 
