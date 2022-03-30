@@ -14,6 +14,7 @@ permalink: /doctorado/catalogo_revistas/
  - Boletín de la Sociedad Geológica Mexicana
  - Case Studies in the Environment 
  - Cities
+ - CLEPSYDRA Revista Internacional de Estudios de Género y Teoría Feminista
  - Conservation and Society
  - Conservation Biology
  - Contaminación Ambiental
@@ -72,5 +73,6 @@ permalink: /doctorado/catalogo_revistas/
  - Sustainable Cities and Society
  - Territory, Politics, Governance
  - The International Journal of Life Cycle Assessment
+ - Urban Ecosystems
  - Waste Management
  - World Development
