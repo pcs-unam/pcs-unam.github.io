@@ -7,7 +7,7 @@ permalink: /doctorado/descargables/
 ## Formatos 
  
  - [Registro de actividades académicas complementarias](/assets/formatos/doctorado/formato-actividades-academicas-complementarias.xlsx)
- <!-- [Propuesta de comité tutor](/assets/formatos/doctorado/propuesta_comite_tutor_doctorado.xlsx) -->
+ - [Formato de solicitud de actividades académicas transdisciplinarias](/assets/formatos/doctorado/solicitud_act_acad_transdisciplinarias.xls)
  - [Formato para solicitar autorización de revista](/assets/formatos/doctorado/formato_solicitud_revista.xlsx) 
 
 ## Actas de evaluación actividades académicas complementarias
@@ -20,6 +20,7 @@ permalink: /doctorado/descargables/
  - [Acta de evaluación Redacción de artículo](/assets/formatos/doctorado/acta_redaccion_articulo.pdf)
  - [Acta de evaluación Estancia de investigación](/assets/formatos/doctorado/acta_estancia_investigacion.pdf)
  - [Acta de evaluación Formación recursos humanos](/assets/formatos/doctorado/acta_formacion_recursos_humanos.pdf)
+ - [Acta de evaluación Actividades académicas transdisciplinarias](/assets/formatos/doctorado/acta_act_acad_transdisciplinarias.pdf)
 
 ## Examen de Candidatura
 
