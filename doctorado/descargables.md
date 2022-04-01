@@ -7,7 +7,7 @@ permalink: /doctorado/descargables/
 ## Formatos 
  
  - [Registro de actividades académicas complementarias](/assets/formatos/doctorado/formato-actividades-academicas-complementarias.xlsx)
- - [Formato de solicitud de actividades académicas transdisciplinarias](/assets/formatos/doctorado/solicitud_act_acad_transdisciplinarias.xlsx)
+ - [Formato de solicitud de actividades académicas transdisciplinarias](/assets/formatos/doctorado/solicitud_act_acad_transdisciplinarias.xls)
  - [Formato para solicitar autorización de revista](/assets/formatos/doctorado/formato_solicitud_revista.xlsx) 
 
 ## Actas de evaluación actividades académicas complementarias
