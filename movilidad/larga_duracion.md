@@ -14,11 +14,11 @@ llevarse a cabo hasta el 31 de enero de 2023.
 
 La fecha límite para enviar solicitudes es el 23 de septiembre de 2022
 
-Procedimiento:
+Procedimiento para solicitar un apoyo del Programa de Apoyo a las Actividades de Larga Duración::
 
  **1.** Revisar la convocatoria y las reglas de operación del Programa en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.php>
 
- **2.** Enviar los siguientes documentos al correo <sostenibilidad@posgrado.unam.mx> un mes antes de que inicie la actividad académica:
+ **2.** Un mes antes de que inicie la actividad académica, enviar los siguientes documentos al correo  <sostenibilidad@posgrado.unam.mx>:
 
   - Solicitud de apoyo para Actividades Académicas de Larga Duración disponible en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.php>
   - Constancia de actividades académicas para beca del sistema de la Subdirección de Asuntos Escolares 
