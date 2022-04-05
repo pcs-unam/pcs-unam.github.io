@@ -14,7 +14,7 @@ llevarse a cabo hasta el 31 de enero de 2023.
 
 La fecha límite para enviar solicitudes es el 23 de septiembre de 2022
 
-Procedimiento para solicitar un apoyo del Programa de Apoyo a las Actividades de Larga Duración::
+Procedimiento para solicitar un apoyo del Programa de Apoyo a las Actividades de Larga Duración:
 
  **1.** Revisar la convocatoria y las reglas de operación del Programa en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.php>
 
