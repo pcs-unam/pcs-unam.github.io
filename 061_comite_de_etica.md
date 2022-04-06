@@ -17,7 +17,7 @@ Para una solicitud, recomendación o pronunciamiento sobre:
  2.Buenas prácticas académicas en la comunidad del PCS.
  3.Casos de faltas a la ética, igualdad e integridad académica en la comunidad del PCS.
  
-# ¿Quiénes pueden presentarse al Comité?
+## ¿Quiénes pueden presentarse al Comité?
 Cualquier persona de la comunidad del Posgrado en Ciencias de la Sostenibilidad: estudiantado, profesorado, tutores y personal de la Coordinación. 
 ¿Cuándo se pueden realizar las solicitudes al Comité? 
 El Comité se reúne de manera regular la segunda semana de cada mes. Las solicitudes que se reciban hasta una semana antes a la fecha de la siguiente sesión del Comité serán incluidas en la orden del día. 
@@ -28,12 +28,12 @@ Próximas fechas de las sesiones del CEPCS
 
 El calendario semestral del Comité se actualizará con un mes de antelación al inicio del siguiente semestre. 
 
-# ¿Cuál es el tiempo de respuesta a mi solicitud? 
+## ¿Cuál es el tiempo de respuesta a mi solicitud? 
 La respuesta varía según la complejidad del caso. El tiempo mínimo de respuesta es de cinco semanas.  
  
-# ¿Cómo puedo contactar al Comité? 
+## ¿Cómo puedo contactar al Comité? 
  
-A través del correo electrónico: etica_sostenibilidad@posgrado.unam.mx  o por medio de la Coordinación del Posgrado en Ciencias de la Sostenibilidad.
+A través del correo electrónico: <etica_sostenibilidad@posgrado.unam.mx>  o por medio de la Coordinación del Posgrado en Ciencias de la Sostenibilidad.
  
 Integrantes del Comité de Ética (en orden alfabético):
 
@@ -45,15 +45,15 @@ Integrantes del Comité de Ética (en orden alfabético):
  - Mtra. Martha del Carmen Rodríguez Ramírez, Estudiante de doctorado del Posgrado  
  - M en Arq. Guillermina Rosas López. Profesora de Tiempo Completo,  Facultad de Arquitectura
 
-# Presentación de protocolos de investigación
+## Presentación de protocolos de investigación
 
-# ¿Cuáles son los protocolos que puedo someter a evaluación del Comité? 
+## ¿Cuáles son los protocolos que puedo someter a evaluación del Comité? 
 Los protocolos e instrumentos de investigación y trabajo de campo donde participen seres humanos como sujetos de investigación o donde se usen seres no humanos para la enseñanza y la investigación. 
  
-# ¿Quiénes podrán someter a evaluación sus protocolos? 
+## ¿Quiénes podrán someter a evaluación sus protocolos? 
 Todo el estudiantado inscrito en los programas de maestría o doctorado del Posgrado en Ciencias de la Sostenibilidad. 
  
-# ¿Qué se requiere presentar para la solicitud de revisión? 
+## ¿Qué se requiere presentar para la solicitud de revisión? 
  - Protocolo de investigación. 
  - Carta del comité tutorial correspondiente, mediante la cual se da el Vo. Bo. del protocolo de investigación.
  - Solicitud de la revisión de protocolo (Revisar enlace de solicitud). 
@@ -61,12 +61,12 @@ Todo el estudiantado inscrito en los programas de maestría o doctorado del Posg
  - Instrumento de consentimiento informado, según corresponda. 
  - Lista de cotejo de la entrega de documentación correspondiente. 
  
-# Procedimiento de revisión 
+## Procedimiento de revisión 
  1. El estudiante obtiene Vo. Bo.  de su protocolo con el comité tutorial respectivo. 
  2. El estudiante llena la solicitud y envía su documentación al Comité de Ética vía electrónica. 
  3. El Comité de Ética analiza y emite respuesta al estudiante solicitante. 
  
-# ¿Cuál es la respuesta que puedo obtener a la solicitud de revisión de protocolo? 
+## ¿Cuál es la respuesta que puedo obtener a la solicitud de revisión de protocolo? 
 La respuesta que emite el Comité puede ser: 
  - Favorable sin cambios
  - Favorable con cambios
