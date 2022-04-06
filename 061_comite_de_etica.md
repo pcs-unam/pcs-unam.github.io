@@ -19,7 +19,8 @@ Para una solicitud, recomendación o pronunciamiento sobre:
  
 ## ¿Quiénes pueden presentarse al Comité?
 Cualquier persona de la comunidad del Posgrado en Ciencias de la Sostenibilidad: estudiantado, profesorado, tutores y personal de la Coordinación. 
-¿Cuándo se pueden realizar las solicitudes al Comité? 
+
+## ¿Cuándo se pueden realizar las solicitudes al Comité? 
 El Comité se reúne de manera regular la segunda semana de cada mes. Las solicitudes que se reciban hasta una semana antes a la fecha de la siguiente sesión del Comité serán incluidas en la orden del día. 
  
 Próximas fechas de las sesiones del CEPCS
