@@ -10,7 +10,7 @@ El Comité de Ética del Posgrado en Ciencias de la Sostenibilidad (CEPCS) se in
  
 Hay que mencionar que el Comité no constituye un tribunal, por lo cual no emite sentencias o señala culpables. Más bien, sugiere vías de acción conforme a los valores y principios del Código de Ética de la UNAM. El Comité promueve la colaboración, conciliación, reflexión y asistencia a la comunidad del Posgrado en Ciencias de la Sostenibilidad. 
  
-# ¿Para qué acudir al Comité? 
+## ¿Para qué acudir al Comité? 
 Para una solicitud, recomendación o pronunciamiento sobre: 
  
  1.Los protocolos e instrumentos de investigación y trabajo de campo que solicite el estudiantado del PCS.
