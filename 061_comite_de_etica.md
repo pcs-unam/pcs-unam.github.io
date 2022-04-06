@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comité de ética
+title: Comité de Ética
 permalink: /comite-etica/
 pleca: /assets/plecas/p011.jpg
 menu: true
@@ -13,9 +13,9 @@ Hay que mencionar que el Comité no constituye un tribunal, por lo cual no emite
 ## ¿Para qué acudir al Comité? 
 Para una solicitud, recomendación o pronunciamiento sobre: 
  
- 1.Los protocolos e instrumentos de investigación y trabajo de campo que solicite el estudiantado del PCS.
- 2.Buenas prácticas académicas en la comunidad del PCS.
- 3.Casos de faltas a la ética, igualdad e integridad académica en la comunidad del PCS.
+ 1. Los protocolos e instrumentos de investigación y trabajo de campo que solicite el estudiantado del PCS.
+ 2. Buenas prácticas académicas en la comunidad del PCS.
+ 3. Casos de faltas a la ética, igualdad e integridad académica en la comunidad del PCS.
  
 ## ¿Quiénes pueden presentarse al Comité?
 Cualquier persona de la comunidad del Posgrado en Ciencias de la Sostenibilidad: estudiantado, profesorado, tutores y personal de la Coordinación. 
