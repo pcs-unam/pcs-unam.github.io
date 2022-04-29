@@ -11,7 +11,7 @@ Las actividades deberán tener una duración máxima de 45 días naturales y pod
 
 La fecha límite para enviar solicitudes es el 23 de septiembre de 2022.
 
-Para conocer los requisitos documentales, las obligaciones del alumnado y los montos de apoyo, revisar la convocatoria y las reglas de operación del Programa en https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/paep.php
+Para conocer los requisitos documentales, las obligaciones del alumnado y los montos de apoyo, revisar la convocatoria y las reglas de operación del Programa en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/paep.php>
 
 Es importante conocer los [requisitos aprobados](/assets/docs/lineamientos_paep_2022.pdf) por el Comité Académico del Posgrado en Ciencias de la Sostenibilidad antes de solicitar un apoyo.
 
