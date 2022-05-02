@@ -40,6 +40,7 @@ siguientes formatos:
  <li>Solicitud de jurado*</li>
  <li>Registro de cambio de título de proyecto (de ser necesario)</li>	
  <li>Modalidad de graduación</li>
+ <li>Historia académica</li>	
 </ul>
 </td>
 <td>
