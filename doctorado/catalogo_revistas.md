@@ -73,6 +73,7 @@ permalink: /doctorado/catalogo_revistas/
  - Sustainable Cities and Society
  - Territory, Politics, Governance
  - The International Journal of Life Cycle Assessment
+ - Tropical and Subtropical Agroecosystems
  - Urban Ecosystems
  - Waste Management
  - World Development
