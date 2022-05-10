@@ -25,7 +25,7 @@ Procedimiento:
     
       - Carta de aceptación en caso de curso o congreso
     
-      - Carta de invitación a en caso de estancia
+      - Carta de invitación en caso de estancia
     
       - Carta de vigencia o copia del carnet del IMSS o ISSSTE, para el caso de actividades nacionales
     
