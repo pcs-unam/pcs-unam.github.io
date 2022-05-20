@@ -67,6 +67,7 @@ permalink: /doctorado/catalogo_revistas/
  - Revista Estado y Políticas Públicas
  - Revista Iberoamericana de Diagnóstico y Evaluación
  - Revista INVI
+ - Science of The Total Environment
  - Sustainability  
  - Sustainability Sciences
  - Sustainability: Science, Practice and Policy
