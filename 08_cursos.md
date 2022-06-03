@@ -7,9 +7,9 @@ menu: true
 ---
 
 
-### Semestre 2022-2
+### Semestre 2023-1
 
-El semestre 2022-2 inicia el 31 de enero y termina el 10 de junio de 2022, considerando dos semanas de evaluaciones y exámenes tutorales.
+El semestre 2023-1 inicia el 8 de agosto y termina el 9 de diciembre de 2022, considerando dos semanas de evaluaciones y exámenes tutorales.
 
 Las ligas para las sesiones virtuales de los cursos que se impartirán en línea se deben solicitar directamente a lo(a)s profesore(a)s de cada curso, enviando un mensaje al correo registrado. 
 
