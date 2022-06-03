@@ -11,6 +11,8 @@ menu: true
 
 El semestre 2023-1 inicia el 8 de agosto y termina el 9 de diciembre de 2022, considerando dos semanas de evaluaciones y exámenes tutorales.
 
+Para registrarse en el curso intersemestral deberán escribir directamente al correo de la profesora.
+
 Las ligas para las sesiones virtuales de los cursos que se impartirán en línea se deben solicitar directamente a lo(a)s profesore(a)s de cada curso, enviando un mensaje al correo registrado. 
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
