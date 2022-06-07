@@ -25,13 +25,14 @@ se cubren ocho créditos.
 
 Ambas actividades requieren la aprobación del Comité Académico, por lo
 que deben entregar en la Coordinación, con dos meses de anticipación a
-la fecha de inscripción, un plan de trabajo (formato anexo), el cual
+la fecha de inscripción, un plan de trabajo 
+(descargar formato en [sección descargables](/maestria/descargables/)), el cual
 debe estar avalado por el responsable de la actividad, que puede ser
 cualquier miembro del comité tutor. Esta actividad podrá ser
 registrada durante el proceso de inscripción solo con la aprobación
 del Comité Académico. Al finalizar el semestre, los alumnos deberán
-recoger en la Coordinación del Posgrado el acta de evaluación, la cual
-deberá ser firmada por el tutor responsable, donde especificará la
+descargar el formato de acta en la [sección descargables](/maestria/descargables/), 
+la cual deberá ser firmada por el tutor responsable, donde especificará la
 calificación numérica de dicho trabajo y lo que representó en cuanto
 al avance específico de la investigación del alumno. Los demás
 miembros del comité tutor deberán conocer desde el inicio del semestre
