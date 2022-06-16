@@ -37,7 +37,7 @@ permalink: /doctorado/descargables/
 
  - [Formato de visto bueno para iniciar graduación](/assets/formatos/doctorado/graduacion/formato_visto_bueno_iniciar_graduacion.docx)
  - [Formato de solicitud de jurado](/assets/formatos/doctorado/graduacion/formato_solicitud_jurado_doc.docx)
- - [Registro título de proyecto](/assets/formatos/registro_titulo_proyecto.docx)
+ - [Formato de registro del título de proyecto](/assets/formatos/registro_titulo_proyecto.docx)
 
 ## Para solicitar autorización de examen de grado
 
