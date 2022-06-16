@@ -13,7 +13,7 @@ de investigación, cursos, congresos, talleres, foros académicos, seminarios, e
 
 Instrucciones para realizar movilidad:
 
- - [Sin fuente de financiamiento](/movilidad/sin-financiamiento/)
+ - [Sin financiamiento](/movilidad/sin-financiamiento/)
 
  - [A través del Programa de Apoyo a los Estudios de Posgrado (PAEP)](/movilidad/paep/) 
 

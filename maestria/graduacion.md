@@ -34,12 +34,13 @@ sesiones de tutoría y la actividad para la obtención del grado.  </td>
 <h1>2</h1>
 Solicitar al Comité Académico el inicio del proceso de
 graduación. Para ello se deberán entregar en la Coordinación los
-siguientes formatos:
+siguientes documentos:
 <ul>
- <li>Visto bueno para iniciar trámites de graduación</li>
- <li>Solicitud de jurado*</li>
- <li>Registro de cambio de título de proyecto (de ser necesario)</li>	
- <li>Modalidad de graduación</li>
+ <li>Formato de visto bueno para iniciar trámites de graduación</li>
+ <li>Formato de solicitud de jurado*</li>
+ <li>Foarmato de registro del título de proyecto (de ser necesario)</li>	
+ <li>Formato de modalidad de graduación</li>
+ <li>Historia académica</li>	
 </ul>
 </td>
 <td>

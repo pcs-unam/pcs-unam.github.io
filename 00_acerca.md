@@ -28,6 +28,7 @@ el siglo XXI.  Desde entonces, las demandas y necesidades de educación
 en sostenibilidad, en todas sus formas, permanecen como un imperativo.
 
 
+
 En el año 2002, la Asamblea General de las Naciones Unidas proclamó
 del año 2005 al 2014 como el Decenio de la Educación para el
 Desarrollo Sostenible. Esta iniciativa tiene como objetivo incorporar

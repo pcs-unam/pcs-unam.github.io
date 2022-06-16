@@ -22,10 +22,10 @@ permalink: /maestria/descargables/
 
 ## Para iniciar trámites de graduación
 
- - [Visto bueno para iniciar trámites de graduación](/assets/formatos/maestria/graduacion/visto_bueno_iniciar_graduacion.docx)
- - [Modalidad de graduación](/assets/formatos/maestria/graduacion/formato-modalidad-graduacion.docx)
- - [Solicitud de jurado](/assets/formatos/maestria/graduacion/solicitud_jurado_maestria.docx)
- - [Registro cambio de título de proyecto](/assets/formatos/registro_cambio_de_titulo.docx)
+ - [Formato de visto bueno para iniciar trámites de graduación](/assets/formatos/maestria/graduacion/visto_bueno_iniciar_graduacion.docx)
+ - [Formato de modalidad de graduación](/assets/formatos/maestria/graduacion/formato-modalidad-graduacion.docx)
+ - [Formato de solicitud de jurado](/assets/formatos/maestria/graduacion/solicitud_jurado_maestria.docx)
+ - [Formato de registro del título de proyecto](/assets/formatos/registro_titulo_proyecto.docx)
 
 ## Para solicitar autorización de examen de grado
 
