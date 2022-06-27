@@ -15,8 +15,7 @@ Las ligas para las sesiones virtuales de los cursos que se impartirán en línea
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
 
-NOTA para el curso intersemestral Gobernanza para el desarrollo sostenible en América Latina:
-Para registrarse en el curso deberán escribir directamente al correo de la profesora a más tardar el viernes 10 de junio.
+
 
 <!-- cursos-siges -->
 
