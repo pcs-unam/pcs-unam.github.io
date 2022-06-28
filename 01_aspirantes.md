@@ -18,7 +18,7 @@ menu: true
 
 [Instrucciones para la entrega documental e inscripción de aspirantes aceptados de Doctorado](/assets/docs/instrucciones_entregadocumental_inscripcion_aspirantes_aceptados_doc.pdf)
 
-[Aviso importante para interesad@s en solicitar  beca CONACYT](/assets/docs/aviso_becas_conacyt_2023_1)
+[Aviso importante para interesad@s en solicitar beca CONACYT](/assets/docs/aviso_becas_conacyt_2023_1)
 
 
 
