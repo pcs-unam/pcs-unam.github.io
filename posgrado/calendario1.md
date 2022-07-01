@@ -16,11 +16,11 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 
 - **3 al 5 de agosto** Inscripciones y reinscripciones al semestre 2023-1 en <https://www.saep.unam.mx>
 - **5 de agosto** Reunión de bienvenida para alumnos de primer ingreso. Se enviará la liga de la sesión por correo electrónico.
-- **5 de agosto ** Fecha límite para presentar exámenes de candidatura. Aplica para alumnos de Doctorado que se inscriben a quinto semestre. 
+- **5 de agosto** Fecha límite para presentar exámenes de candidatura. Aplica para alumnos de Doctorado que se inscriben a quinto semestre. 
 - **8 de agosto** Inicio del semestre 2023-1
 - **9 de agosto** Sesión de Comité Académico
 - **Del 3 al 10 de agosto** Validación de reinscripciones.  La hoja de inscripción que se descarga del sistema de SAEP deberá enviarse a la Coordinación vía Google Classroom.
-- ** Del 8 al 12 de agosto** Envío del formato de registro de la [actividad académica complementaria](/doctorado/actividades). Aplica para el alumnado de Doctorado de segundo semestre en adelante y para el alumnado de Doctorado de primer ingreso que egresó de la Maestría de este Posgrado. Se envía a la Coordinación vía Google Classroom. 
+- **Del 8 al 12 de agosto** Envío del formato de registro de la [actividad académica complementaria](/doctorado/actividades). Aplica para el alumnado de Doctorado de segundo semestre en adelante y para el alumnado de Doctorado de primer ingreso que egresó de la Maestría de este Posgrado. Se envía a la Coordinación vía Google Classroom. 
 - **Del 8 de agosto al 25 de noviembre** Resello y reposición de credenciales
 - **Del 15 al 19 de agosto** Enviar a la Coordinación a la liga señalada en Googleclassroom, el **informe del becario de CONACyT** para revisión y firma del Coordinador. Debe estar previamente llenado y firmado por el(la) tutor(a) principal. El documento lo podrán descargar en la liga correspondiente, firmado por el Coordinador, a principios de septiembre. Consultar la guía para becarios en la siguiente dirección: https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php
 
