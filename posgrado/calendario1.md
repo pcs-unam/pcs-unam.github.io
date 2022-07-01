@@ -52,6 +52,7 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 - **9 de diciembre** Fecha límite para registrar en actas las evaluaciones de las asignaturas correspondientes al semestre 2023-1 en [*https://www.saep.unam.mx*](https://www.saep.unam.mx/)
 - **13 de diciembre** Sesión de Comité Académico
 - **Del 19 de diciembre al 4 de enero de 2023** Vacaciones académico-administrativas
+
 Para conocer las fechas de entrega del informe de becarios CONACyT correspondiente al semestre 2023-1, consultar la siguiente dirección: <https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php>
 
 ### Enero
