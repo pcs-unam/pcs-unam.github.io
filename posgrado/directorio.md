@@ -25,11 +25,11 @@ sostenibilidad@posgrado.unam.mx
 
 # Asistente de procesos
 
-Biól. Carolina Contreras González
+Mtra. Karla Alethya Jara Durán
 
 5623 0222 ext. 80321
 
-carolinacg@posgrado.unam.mx
+alethya@posgrado.unam.mx
 
 
 # Apoyo administrativo
