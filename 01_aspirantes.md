@@ -7,21 +7,6 @@ menu: true
 ---
 
 
-## Resultados del proceso de admisión al Posgrado (ingreso 2023-1)
-
- - [Lista de aspirantes aceptados al Programa de Maestría en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_maestria_2023_1.pdf)
-
- - [Lista de aspirantes aceptados al Programa de Doctorado en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_doctorado_2023_1.pdf)
-
-
-[Instrucciones para la entrega documental e inscripción de aspirantes aceptados de Maestría](/assets/docs/instrucciones_entregadocumental_inscripcion_aspirantes_aceptados_mae.pdf)
-
-[Instrucciones para la entrega documental e inscripción de aspirantes aceptados de Doctorado](/assets/docs/instrucciones_entregadocumental_inscripcion_aspirantes_aceptados_doc.pdf)
-
-[Aviso importante para interesad@s en solicitar beca CONACYT](/assets/docs/aviso_becas_conacyt_2023_1.pdf)
-
-
-
 ## Próxima convocatoria de ingreso 
 
 La siguiente convocatoria de ingreso al Posgrado en Ciencias de la Sostenibilidad se publicará en noviembre de 2022 para iniciar en agosto de 2023.
