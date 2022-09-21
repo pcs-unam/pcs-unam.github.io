@@ -5,6 +5,7 @@ permalink: /doctorado/catalogo_revistas/
 ---
 
 
+ - Academia XXII
  - Action Research
  - AMBIO
  - Appetite
@@ -63,9 +64,11 @@ permalink: /doctorado/catalogo_revistas/
  - Región y Sociedad
  - Regional Environmental Change
  - Renewable & Sustainable Energy Reviews
+ - Revista Científica Vivienda y Comunidades Sustentables
  - Revista de Estudios Sociales
  - Revista Estado y Políticas Públicas
  - Revista Iberoamericana de Diagnóstico y Evaluación
+ - Revista Internacional de Contaminación Ambiental
  - Revista INVI
  - Science of The Total Environment
  - Sustainability  
