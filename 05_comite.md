@@ -25,7 +25,7 @@ menu: true
 |![arquitectura](/assets/logos/arquitectura.png)  |Facultad de Arquitectura      														 |Dr. Juan Ignacio del Cueto Ruiz-Funes		|Dra. Eftychia Danai Bournazou Marcou    |Dra. Adriana Lira Oliver   |
 |![ciencias](/assets/logos/ciencias.png)		  |Facultad de Ciencias     															 |Dr. Víctor Manuel Velázquez Aguilar |Dra. Nathalie Roberte Chantal Cabirol| Dra. Angela Piedad Caro Borrero |
 |![biologia](/assets/logos/ibiol.png)			  |Instituto de Biología    															 |Dra. Susana Magallón Puebla       |Dra. Andrea Martínez Ballesté          |Dr. Enrique Martínez Meyer       |
-|![icmyl](/assets/logos/icml.png)				  |Instituto de Ciencias del Mar y Limnología   										 |Dr. John Selvamony Armstrong Altrin Sam          |    |    |
+|![icmyl](/assets/logos/icml.png)				  |Instituto de Ciencias del Mar y Limnología   										 |   Dr. Carlos Jorge Robinson Mendoza       |  Dr. John Selvamony Armstrong Altrin Sam  |    |
 |![ecologia](/assets/logos/ecologia.png)		  |Instituto de Ecología    															 |Dra. Ana Elena Escalante Hernández         |Dra. Karina Boege Paré                 |  Dra. Mariana Benítez Keinrad  |
 |![renovables](/assets/logos/ier.png)			  |Instituto de Energías Renovables     												 |Dra. Marina Elizabeth Rincón González          |Dra. Margarita Miranda Hernández           |   Dra. Anabel López Ortiz                         |
 |![ingenieria](/assets/logos/ingenieria.png)	  |Instituto de Ingeniería      														 |Dra. Rosa María Ramírez Zamora       |  Dra. Alma Chávez Mejía  |   Dr. Armando González Sánchez      |
