@@ -10,4 +10,4 @@ El Comité de Ética del Posgrado en Ciencias de la Sostenibilidad (CEPCS) se in
  
  [Leer más](/comite-etica/descripcion/)
  
- [Relatoría de la primera joranada del Comité de Ética]((/assets/docs/relatoria_primera_jornada_comire_etica.pdf)
+ [Relatoría de la primera joranada del Comité de Ética](/assets/docs/relatoria_primera_jornada_comire_etica.pdf)
