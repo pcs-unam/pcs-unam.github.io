@@ -8,11 +8,11 @@ menu: true
 
 # Programa de Apoyo a los Estudios de Posgrado (PAEP)
 
-[Convocatoria abierta](/movilidad/paep/)
+Convocatoria cerrada
 
 # Programa de Actividades Académicas de Larga Duración
 
-[Convocatoria abierta](/movilidad/larga-duracion/) 
+Convocatoria cerrada
 
 # Estímulo a la graduación oportuna
 
