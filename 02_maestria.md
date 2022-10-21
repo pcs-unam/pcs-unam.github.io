@@ -21,5 +21,5 @@ implementar exitosamente políticas y proyectos sostenibles.
  - [Modalidades para la graduación](/maestria/modalidades_graduacion)
  - [Procedimiento de graduación](/maestria/graduacion)
  - [Procedimiento de graduación anticipada](/maestria/graduacion-anticipada/)
- - [Requisitos de retribución social para CONACYT](/maestría/retribucion_social/)
+ - [Requisitos de retribución social para CONACYT](/retribucion_social/)
  - [Descargables](/maestria/descargables)
