@@ -2,7 +2,7 @@
 title: Requisitos de retribución social para CONACYT
 layout: page
 pleca: /assets/plecas/p13.jpg
-permalink: /maestria/retribucion_social/
+permalink: /retribucion_social/
 ---
 
 A partir de la Convocatoria Conacyt de Becas Nacionales 2021, toda persona que haya sido beneficiada con una beca, deberá presentar la constancia de 
