@@ -20,4 +20,5 @@ investigación relevantes en el tránsito hacia la sostenibilidad.
  - [Revistas para la publicación del artículo de requisito](/doctorado/revistas)
  - [Candidatura](/doctorado/candidatura)
  - [Procedimiento de graduación](/doctorado/graduacion)
+ - [Requisitos de retribución social para CONACYT](/retribucion_social/)
  - [Descargables](/doctorado/descargables)

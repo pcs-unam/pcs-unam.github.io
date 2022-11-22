@@ -26,7 +26,7 @@ Consultar más acerca del [estímulo a la graduación oportuna](https://www.posg
 
 # Becas CONACyT
 
-El Posgrado forma parte del Programa Nacional de Posgrados de Calidad del Consejo Nacional de Ciencia y Tecnología (CONACYT)
+Si eres estudiante del Posgrado y tienes promedio igual o mayor a 8 en tu grado inmediato anterior, puedes postular para una beca del Consejo Nacional de Ciencia y Tecnología (CONACYT).
 
 Consultar el [Módulo de Becas](https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php) de la Coordinación
 General de Estudios de Posgrado.

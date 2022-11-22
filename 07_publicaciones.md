@@ -14,6 +14,8 @@ Aranda-Fragoso, A., Castillo, A., Cárdenas-Tapia, M., Moreno-Casasola, P., & Ma
 
 Ayala-Azcárraga, C., Diaz, D., & Zambrano, L. (2019). Characteristics of urban parks and their relation to user well-being. Landscape and Urban Planning, 189, 27-35. <https://doi.org/10.1016/j.landurbplan.2019.04.005>
 
+Calderon Villegas, C. E., Salas Espíndola, H., & Ávila García, P. (2022). Evaluación de los instrumentos de regulación de la vivienda de interés social en México con enfoque de calidad ambiental. Caso de estudio: Durango. ACE: Arquitectura, Ciudad y Entorno, 17(49). <http://dx.doi.org/10.5821/ace.17.49.10567>
+
 Calderón Villegas, C. E., Salas Espíndola, H., & Ávila García, P. (2020). La insostenibilidad de los desarrollos de vivienda de interés social en México: una aproximación desde el pensamiento de diseño. Caso de estudio: Tlajomulco de Zúñiga, Jalisco. ACE: Architecture, City and Environment, 14(42), 8256. <http://dx.doi.org/10.5821/ace.14.42.8256>
 
 Charli-Joseph, L., J. Siqueiros-Garcia, H. Eakin, D. Manuel-Navarrete, and R. Shelton. (2018). Promoting agency for social-ecological transformation: a transformation-lab in the Xochimilco social-ecological system. Ecology and Society, 23(2), 46. <https://www.ecologyandsociety.org/vol23/iss2/art46/>
