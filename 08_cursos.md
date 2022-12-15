@@ -9,9 +9,11 @@ menu: true
 
 ### Semestre 2023-1
 
-El semestre 2023-1 inicia el 8 de agosto y termina el 9 de diciembre de 2022, considerando dos semanas de evaluaciones y exámenes tutorales.
+El semestre 2023-2 inicia el 30 de enero y termina el 9 de junio de 2023, considerando dos semanas de evaluaciones y exámenes tutorales.
 
-Las ligas para las sesiones virtuales de los cursos que se impartirán en línea se deben solicitar directamente a lo(a)s profesore(a)s de cada curso, enviando un mensaje al correo registrado. 
+Las ligas para las sesiones virtuales de los cursos que se impartirán en línea se deben solicitar directamente a la(o)s profesora(e)s de cada curso, enviando un mensaje al correo registrado. 
+
+El registro a los cursos intersemestrales se debe realizar antes del inicio del curso, directamente al correo de la(o)s profesora(e)s. Dicho cursos se deben inscribir en el sistema de SIAEP en el periodo de inscripción al semestre 2023-2.
 
 Esta página se actualiza constantemente, sugerimos revisarla con frecuencia.
 
