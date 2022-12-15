@@ -7,7 +7,7 @@ menu: true
 ---
 
 
-### Semestre 2023-1
+### Semestre 2023-2
 
 El semestre 2023-2 inicia el 30 de enero y termina el 9 de junio de 2023, considerando dos semanas de evaluaciones y exámenes tutorales.
 
