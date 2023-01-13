@@ -34,6 +34,7 @@ Consultar la guía para becarios en la siguiente dirección: https://www.posgrad
 ### Marzo 
 - **9 de marzo** Fecha límite para enviar a sostenibilidad@posgrado.unam.mx documentos para solicitar inicio de trámites de [graduación anticipada](/maestria/graduacion-anticipada)
 - **14 de marzo** Sesión de Comité Académico
+
 Para conocer las fechas de entrega del informe de becarios CONACyT, consultar la siguiente dirección: <https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php>
 
 ### Abril
