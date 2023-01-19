@@ -25,10 +25,8 @@ Antes de iniciar el semestre, el alumnado del Posgrado recibirá una invitación
 
 - **9 de febrero** Fecha límite para solicitar cambios en comités tutores y que se vean reflejados en las actas de evaluación del semestre 2023-2
 - **14 de febrero** Sesión de Comité Académico
-- **Del 13 al 17 de febrero** Enviar a la Coordinación, vía Googleclassroom, el **1) informe del becario de CONACyT y 2) la última historia académica** para revisión y firma del Coordinador. El formato CONACYT debe estar previamente llenado y firmado por el(la) tutor(a) principal. 
-El formato firmado por el Coordinador se enviará desde la Coordinación directamente al módulo de becas para ser subido a la plataforma de CONACYT. 
+- **Del 7 al 10 de febrero** Enviar a la Coordinación, vía Googleclassroom, el **1) informe del becario de CONACyT y 2) la última historia académica** para revisión y firma del Coordinador. El formato CONACYT debe estar previamente llenado y firmado por el(la) tutor(a) principal. **(Importante: el nombre de ambos archivos debe incluir su nombre y apellidos)**. Una vez firmado por el Coordinador, se regresará a las personas becarias por correo-e (a más tardar el 24 de febrero) para que cada estudiante lo envíe al correo correspondiente (Maestría o Doctorado) del módulo de becas. El módulo de becas subirá directamente a la plataforma de CONACYT todos los formatos. 
 Consultar la guía para becarios en la siguiente dirección: https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php
-**El nombre de ambos archivos debe incluir su nombre y apellidos.**
 - **24 de febrero** Fecha límite para presentar el tutoral cero. Aplica para el alumnado de Maestría que cursa el segundo semestre. Es necesario descargar el [formato del acta para la evaluación del tutoral cero](/assets/formatos/maestria/tutoral_0.pdf)  y una vez llenado y firmado por el comité tutor se debe enviar a la Coordinación vía Google Classroom.
 
 ### Marzo 
