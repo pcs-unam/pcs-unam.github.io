@@ -5,17 +5,18 @@ permalink: /comite/calendario/
 ---
 
 
-| 18 de enero | 
-| 8 de febrero |
-| 8 de marzo | 
-| 19 de abril | 
-| 17 de mayo |
-| 14 de junio |
+| 17 de enero | 
+| 14 de febrero |
+| 14 de marzo | 
+| 18 de abril | 
+| 9 de mayo |
+| 13 de junio |
 
-| 9 de agosto |
-| 13 de septiembre |
-| 11 de octubre | 
-| 8 de noviembre |
+| 8 de agosto |
+| 12 de septiembre |
+| 10 de octubre | 
+| 14 de noviembre |
+
 
 
 
