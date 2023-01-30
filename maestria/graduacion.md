@@ -173,9 +173,11 @@ para la elaboración del grado.
 </tbody>
 </table>
 
-*Los jurados para la graduación por tesis, reporte técnico y artículo se deben conformar por dos miembros del comité tutor, siempre y cuando no sea ni tutor(a) principal ni cotutor(a). Puede haber hasta dos personas como sinodales externas, no acreditadas en el padrón del Posgrado. Los jurados para la graduación por protocolo de investigación doctoral deberán conformarse por un miembro del comité tutor, que no sea ni tutor(a) principal ni cotutor(a), y cuatro miembros externos. Los cuatro miembros externos deberán estar acreditados como tutores del Posgrado.
+*Los jurados para la graduación por tesis, reporte técnico y artículo se deben conformar por dos miembros del comité tutor, siempre y cuando no sea ni tutor(a) principal ni cotutor(a). Puede haber hasta dos personas como sinodales externas, no acreditadas en el padrón del Posgrado. Para las propuestas de personas no acreditadas se deberá enviar su *curriculum vitae* en formato electrónico a sostenibilidad@posgrado.unam.mx
+Los jurados para la graduación por protocolo de investigación doctoral deberán conformarse por un miembro del comité tutor, que no sea ni tutor(a) principal ni cotutor(a), y cuatro miembros externos. Los cuatro miembros externos deberán estar acreditados como tutores del Posgrado.
 
-Las propuestas de personas no acreditadas deberán justificarse en cuanto a la importancia de su participación en el jurado y enviar su *curriculum vitae* en formato electrónico a sostenibilidad@posgrado.unam.mx
+Es importante verificar que no existan conflictos de interés entre los miembros del jurado. El conflicto de interés se considerará de acuerdo con la postura de la Comisión de Ética del Subsistema de Humanidades y reconocida por el Comité de Ética de nuestro Posgrado. Ésta se encuentra en: <https://www.humanidades.unam.mx/wp-content/uploads/Postura-Comision-de-Etica-conflictos.interes.pdf>
+
 
 
 # Formatos descargables
