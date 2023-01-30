@@ -173,7 +173,7 @@ para la elaboración del grado.
 </tbody>
 </table>
 
-*Los jurados  para la graduación por tesis, reporte técnico y artículo se deben conformar por tres miembros del comité tutor y dos personas externas, las cuales pueden estar o no acreditadas como tutores del Posgrado. Los jurados para la graduación por protocolo de investigación doctoral deberán conformarse por un miembro del comité tutor, que no sea el tutor principal, y cuatro miembros externos. Los cuatro miembros externos deberán estar acreditados como tutores del Posgrado.
+*Los jurados para la graduación por tesis, reporte técnico y artículo se deben conformar por dos miembros del comité tutor, siempre y cuando no sea ni tutor(a) principal ni cotutor(a). Puede haber hasta dos personas como sinodales externas, no acreditadas en el padrón del Posgrado. Los jurados para la graduación por protocolo de investigación doctoral deberán conformarse por un miembro del comité tutor, que no sea ni tutor(a) principal ni cotutor(a), y cuatro miembros externos. Los cuatro miembros externos deberán estar acreditados como tutores del Posgrado.
 
 Las propuestas de personas no acreditadas deberán justificarse en cuanto a la importancia de su participación en el jurado y enviar su *curriculum vitae* en formato electrónico a sostenibilidad@posgrado.unam.mx
 
