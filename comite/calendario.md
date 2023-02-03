@@ -1,5 +1,5 @@
 ---
-title: Calendario de sesiones 2022
+title: Calendario de sesiones 2023
 layout: page
 permalink: /comite/calendario/
 ---
