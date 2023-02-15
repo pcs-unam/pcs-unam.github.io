@@ -5,11 +5,11 @@ permalink: /movilidad/paep/
 pleca: /assets/plecas/p08.jpg
 ---
 
-Estas instrucciones están basadas en la convocatoria y reglas de operación del Programa de Apoyo a los Estudios de Posgrado (PAEP) 2022, y aplican para el desarrollo de actividades académicas que impliquen un traslado nacional o internacional, con financiamiento de dicho programa. 
+Estas instrucciones están basadas en la convocatoria y reglas de operación del Programa de Apoyo a los Estudios de Posgrado (PAEP) 2023, y aplican para el desarrollo de actividades académicas que impliquen un traslado nacional o internacional, con financiamiento de dicho programa. 
 
-Las actividades deberán tener una duración máxima de 45 días naturales y podrán llevarse a cabo hasta el 31 de enero de 2023.
+Las actividades deberán tener una duración máxima de 45 días naturales y podrán terminar el 15 de enero de 2024.
 
-La fecha límite para enviar solicitudes es el 23 de septiembre de 2022.
+La fecha límite para enviar solicitudes es el 22 de septiembre de 2022.
 
 Para conocer los requisitos documentales, las obligaciones del alumnado y los montos de apoyo, revisar la convocatoria y las reglas de operación del Programa en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/paep.php>
 
