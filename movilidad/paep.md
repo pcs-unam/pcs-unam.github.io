@@ -17,7 +17,7 @@ Es importante conocer los [requisitos aprobados](/assets/docs/lineamientos_paep_
 
 Procedimiento para solicitar un apoyo PAEP:
 
- 1. Un mes antes de que inicie la actividad académica, enviar al correo <sostenibilidad@posgrado.unam.mx>, la [solicitud de actividades académicas nacionales o internacionales](https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/SOLICITUD%20DE%20ACTIVIDADES%20ACADEMICAS%20NACIONALES%20O%20INTERNACIONALES%20DE%20CORTA%20DURACION.pdf). ES INDISPENSABLE QUE LA SOLICITUD INCLUYA TAMBIÉN LA FIRMA DEL TUTOR(A) PRINCICPAL. Asimismo, enviar el último comprobante de inscripción. 
+ 1. Un mes antes de que inicie la actividad académica, enviar al correo <sostenibilidad@posgrado.unam.mx>, la [solicitud de actividades académicas nacionales o internacionales](https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/SOLICITUD%20DE%20ACTIVIDADES%20ACADEMICAS%20NACIONALES%20O%20INTERNACIONALES%20DE%20CORTA%20DURACION.pdf). ES INDISPENSABLE QUE LA SOLICITUD INCLUYA TAMBIÉN LA FIRMA DEL TUTOR(A) PRINCIPAL. Asimismo, enviar el último comprobante de inscripción. 
 
  2. Posteriormente la Coordinación enviará la autorización al Departamento de Gestión de Apoyos de la Coordinación General, quien se pondrá en contacto con la(el) solicitante para iniciar el trámite. Los requisitos documentales, señalados en las Reglas de Operación, se deben enviar directamente a dicho Departamento. 
 
