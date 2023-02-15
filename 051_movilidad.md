@@ -15,6 +15,6 @@ Instrucciones para realizar movilidad:
 
  - [Sin financiamiento](/movilidad/sin-financiamiento/)
 
- - [A través del Programa de Apoyo a los Estudios de Posgrado (PAEP)](/movilidad/paep/) (convocatoria abierta)
+ - A través del [Programa de Apoyo a los Estudios de Posgrado (PAEP)](/movilidad/paep/) (convocatoria abierta)
 
- - [A través del Programa de Actividades Académicas de Larga Duración](/movilidad/larga-duracion/) (convocatoria abierta)
+ - A través del [Programa de Actividades Académicas de Larga Duración](/movilidad/larga-duracion/) (convocatoria abierta)
