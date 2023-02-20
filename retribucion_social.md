@@ -20,11 +20,11 @@ Paso 4. Enviar por correo-e a la Coordinación del PCS:
  - Constancias de actividades de retribución social firmadas, en formato PDF. Una por cada actividad (paso 2).
  - Formato de la carta editado con la información de todas las actividades para firma del Coordinador, en formato WORD (paso 3).
 Es importante que los nombres de los archivos incluyan el nombre de la o el becaria(o) para poder identificarlos fácilmente. Ejemplo:
-     •	Alex_Luna_Evidencias-01.pdf
-     •	Alex_Luna_Evidencias-02.pdf
-     •	Alex_Luna_Constancia-01.pdf
-     •	Alex_Luna_Constancia-02.pdf
-     •	Alex_Luna_Carta-Coord.docx
+     -	Alex_Luna_Evidencias-01.pdf
+     -	Alex_Luna_Evidencias-02.pdf
+     -	Alex_Luna_Constancia-01.pdf
+     -	Alex_Luna_Constancia-02.pdf
+     -	Alex_Luna_Carta-Coord.docx
 
 Paso 5. El Coordinador firma la carta y la envía a la o el becaria(o) por correo-e. 
 
