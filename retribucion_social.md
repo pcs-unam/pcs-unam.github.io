@@ -7,7 +7,7 @@ permalink: /retribucion_social/
 
 A partir de la Convocatoria Conacyt de Becas Nacionales 2021, toda persona que haya sido beneficiada con una beca, deberá presentar la constancia de retribución social, como parte del trámite de conclusión de la misma. Para el caso de nuestro Posgrado, esto concierne a las personas que recibieron beca por primera vez a partir del semestre 2021-2 (febrero de 2021) en adelante.
 
-Las actividades de retribución social aceptadas por Conacyt están enlistadas en el [Anexo 1](/assets/docs/anexo_1_actividades_retribucion_social) de la convocatoria señalada en el párrafo anterior. Se deberá cumplir con al menos dos actividades diferentes durante el periodo de la beca y para cada una se tiene que contar con evidencias (ver paso 1) y constancia de la descripción de cada actividad (ver paso 2). Los pasos por seguir son los siguientes:
+Las actividades de retribución social aceptadas por Conacyt están enlistadas en el [Anexo 1](/assets/docs/anexo_1_actividades_retribucion_social.pdf) de la convocatoria señalada en el párrafo anterior. Se deberá cumplir con al menos dos actividades diferentes durante el periodo de la beca y para cada una se tiene que contar con evidencias (ver paso 1) y constancia de la descripción de cada actividad (ver paso 2). Los pasos por seguir son los siguientes:
 
 Paso 1. Al realizar la actividad que se reportará como retribución social, la o el becaria(o) deberán obtener la evidencia que demuestre su participación. Por ejemplo: fotografías de labor en campo; folletos o panfletos generados; constancias de participación en congresos, foros o conferencias; cartas de reconocimiento o participación; recortes de periódico; capturas de pantalla; vínculos a videos o podcasts, etc.
 
