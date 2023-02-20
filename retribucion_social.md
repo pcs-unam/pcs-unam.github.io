@@ -13,7 +13,7 @@ Paso 1. Al realizar la actividad que se reportará como retribución social, la 
 
 Paso 2. Para cada actividad a reportar, se deberá descargar el [formato con el membrete del PCS](/assets/docs/constancia_retribucion_social_conacyt.docx) y completar la información ahí solicitada. Para este formato, la “persona responsable de supervisar dicha actividad” deberá ser la o el tutor(a) principal o cotutor(a) y es quien debe firmarlo junto con la o el becaria(o). Las firmas deben ser preferentemente autógrafas y con tinta azul.
 
-Paso 3. Una vez que se cumpla con al menos dos actividades de retribución social (junto con sus evidencias y constancia para cada una), se deberá descargar el [formato de carta para firma del Coordinador]((/assets/docs/carta_retribucion_social_conacyt.docx) y editarlo con la información requerida de todas las actividades llevadas a cabo. 
+Paso 3. Una vez que se cumpla con al menos dos actividades de retribución social (junto con sus evidencias y constancia para cada una), se deberá descargar el [formato de carta para firma del Coordinador](/assets/docs/carta_retribucion_social_conacyt.docx) y editarlo con la información requerida de todas las actividades llevadas a cabo. 
 
 Paso 4. Enviar por correo-e a la Coordinación del PCS: 
  - Evidencias para cada actividad, en formato PDF (paso 1).
