@@ -54,6 +54,8 @@ Llamas-Guzmán, L. P., Lazos Chavero, E., Perales Rivera, H. R., & Casas, A. (20
 
 Mac Gregor-Gaona, M. F., Anglés-Hernández, M., Guibrunet, L., & González, L. Z. (2021). Assessing climate change risk: An index proposal for Mexico city. International Journal of Disaster Risk Reduction, 102549. < https://doi.org/10.1016/j.ijdrr.2021.102549>
 
+Merino-Benítez, T., V. Hernández, I. Grave, L.A. Bojórquez-Tapia (2022). Finding optimal infrastructure investment locations with GIS-MCDA. International Symposium of the Analytic Hierarchy Process 2022, Web Conference. DEC. 15 – DEC. 18, 2022. <https://doi.org/10.13033/isahp.y2022.042> 
+
 Merino-Benítez, T., I. Grave, L.A. Bojórquez-Tapia (2020). AHP- based social vulnerability index for small fisheries in Yucatan, Mexico. International Symposium of the Analytic Hierarchy Process 2020, Web Conference. DEC. 3 – DEC. 6, 2020. <http://www.isahp.org/uploads/048_001.pdf>
 
 Mirenda, C. (2020). Percepciones del cambio climático en perspectiva de género en Jalisco, México. Letras Verdes, Revista Latinoamericana de Estudios Socioambientales, (28), 31-48. <https://doi.org/10.17141/letrasverdes.28.2020.4307>
