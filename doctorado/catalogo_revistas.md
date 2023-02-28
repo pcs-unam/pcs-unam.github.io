@@ -30,9 +30,11 @@ permalink: /doctorado/catalogo_revistas/
  - Environmental Earth Sciences
  - Environmental Impact Assessment Review
  - Environmental Management
+ - Environmental Monitoring and Assessment
  - Environmental Research
  - Environmental Science & Policy
  - Estudios Internacionales
+ - Ethnologies
  - EURE. Revista Latinoamericana de Estudios Urbanos Regionales
  - Food Policy
  - Frontiers in Climate 
@@ -51,6 +53,7 @@ permalink: /doctorado/catalogo_revistas/
  - Journal of Disaster Risk Studies
  - Journal of Environmental Management
  - Journal of Ethnic Foods
+ - Journal of Industrial Ecology
  - Journal of Peasant Studies
  - Journal of Rural Studies
  - Landscape and urban planning

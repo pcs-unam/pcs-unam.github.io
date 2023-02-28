@@ -10,6 +10,11 @@ menu: true
 
 Aguilar-Román, E., Castillo, A., & Güiza, F. (2020). Vulnerability and risk management after Hurricane Patricia in a rural community on the Jalisco coast, Mexico. International Journal of Disaster Risk Reduction, 45, 101464. <https://doi.org/10.1016/j.ijdrr.2019.101464>
 
+Alvarado Velázquez, J., García-Meneses, P. M., Esse, C., Saavedra, P., Morales Trosino, R., Bonifáz Alfonzo, R., & Mazarí-Hiriart, M. (2022). Spatially explicit vulnerability analysis of contaminant sources in a karstic watershed in southeastern Mexico. <https://doi.org/10.1016/j.apgeog.2021.102606>
+
+Alvarado, J., Siqueiros-García, J. M., Ramos-Fernández, G., García-Meneses, P. M., & Mazari-Hiriart, M. (2022). Barriers and bridges on water management in rural Mexico: from water-quality monitoring to water management at the community level. Environmental Monitoring and Assessment, 194(12), 912.
+<https://doi.org/10.1007/s10661-022-10616-5>
+
 Aranda-Fragoso, A., Castillo, A., Cárdenas-Tapia, M., Moreno-Casasola, P., & Marín, A. (2020). Scientific research and information flow in the small-scale fisheries of the central Mexican Pacific coast. Ocean & Coastal Management, 198, 105324. <https://doi.org/10.1016/j.ocecoaman.2020.105324>
 
 Ayala-Azcárraga, C., Diaz, D., & Zambrano, L. (2019). Characteristics of urban parks and their relation to user well-being. Landscape and Urban Planning, 189, 27-35. <https://doi.org/10.1016/j.landurbplan.2019.04.005>
@@ -25,6 +30,8 @@ Contreras Jaimes, B., Camou Guerrero, A., Ayala Orozco, B., & Urquijo Torres, P.
 Cuevas-Mendieta, E., García-Frapolli, E., & del-Val, E. (2021). Diversity and local perception of lepidopterans in secondary tropical dry forests: Implications for management. Forest Ecology and Management, 482, 118815. <https://doi.org/10.1016/j.foreco.2020.118815>
 
 de la Vega-Rivera, A., y Merino-Pérez, L. (2021). Socio-Environmental Impacts of the Avocado Boom in the Meseta Purépecha, Michoacán, Mexico. Sustainability, 13(13), 7247. <https://www.mdpi.com/2071-1050/13/13/7247>
+
+Fontalvo-Buelvas, J. C., Eugenio-Gozalbo, M., de la Cruz-Elizondo, Y., & Escalona-Aguilar, M. Á. (2023). Evaluating University Gardens as Innovative Practice in Education for Sustainability: A Latin-American Case Study. Sustainability, 15(5), 3975. <https://doi.org/10.3390/su15053975>
 
 García-Sánchez, M., & Güereca, L. P. (2019). Environmental and social life cycle assessment of urban water systems: The case of Mexico City. Science of The Total Environment, 693, 133464.
 <https://doi.org/10.1016/j.scitotenv.2019.07.270>
@@ -46,6 +53,8 @@ Jiménez-Ortega, A. D., Aguilar Ibarra, A., Galeana-Pizaña, J. M., & Núñez, J
 Llamas-Guzmán, L. P., Lazos Chavero, E., Perales Rivera, H. R., & Casas, A. (2022). Seed Exchange Networks of Native Maize, Beans, and Squash in San Juan Ixtenco and San Luis Huamantla, Tlaxcala, Mexico. Sustainability, 14(7), 3779. <https://www.mdpi.com/2071-1050/14/7/3779/htm>
 
 Mac Gregor-Gaona, M. F., Anglés-Hernández, M., Guibrunet, L., & González, L. Z. (2021). Assessing climate change risk: An index proposal for Mexico city. International Journal of Disaster Risk Reduction, 102549. < https://doi.org/10.1016/j.ijdrr.2021.102549>
+
+Merino-Benítez, T., V. Hernández, I. Grave, L.A. Bojórquez-Tapia (2022). Finding optimal infrastructure investment locations with GIS-MCDA. International Symposium of the Analytic Hierarchy Process 2022, Web Conference. DEC. 15 – DEC. 18, 2022. <https://doi.org/10.13033/isahp.y2022.042> 
 
 Merino-Benítez, T., I. Grave, L.A. Bojórquez-Tapia (2020). AHP- based social vulnerability index for small fisheries in Yucatan, Mexico. International Symposium of the Analytic Hierarchy Process 2020, Web Conference. DEC. 3 – DEC. 6, 2020. <http://www.isahp.org/uploads/048_001.pdf>
 
