@@ -111,7 +111,7 @@ La Coordinación integra el expediente del alumno y lo remite a REP para la elab
 
 
 
-*Los jurados de Doctorado se deben conformar por dos miembros del comité tutor siempre y cuando no sea el tutor principal o el cotutor. Puede haber hasta dos sinodales externos al comité tutor no acreditados como tutores del Posgrado.  Para las propuestas de personas no acreditadas se deberá enviar su *curriculum vitae* en formato electrónico a sostenibilidad@posgrado.unam.mx
+* Los jurados de Doctorado se deben conformar por cinco miembros, de los cuales dos pueden ser del comité tutor, siempre y cuando no sea el tutor principal o el cotutor. Puede haber hasta dos sinodales externos al comité tutor no acreditados como tutores del Posgrado.  Para las propuestas de personas no acreditadas se deberá enviar su *curriculum vitae* en formato electrónico a sostenibilidad@posgrado.unam.mx
 
 Es importante verificar que no existan conflictos de interés entre los miembros del jurado. El conflicto de interés se considerará de acuerdo con la postura de la Comisión de Ética del Subsistema de Humanidades y reconocida por el Comité de Ética de nuestro Posgrado. Ésta se encuentra en: <https://www.humanidades.unam.mx/wp-content/uploads/Postura-Comision-de-Etica-conflictos.interes.pdf>
 
