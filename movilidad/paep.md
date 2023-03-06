@@ -11,13 +11,13 @@ Las actividades deberán tener una duración máxima de 45 días naturales y pod
 
 La fecha límite para enviar solicitudes es el 22 de septiembre de 2023.
 
-Para conocer los requisitos documentales, las obligaciones del alumnado y los montos de apoyo, revisar la convocatoria y las reglas de operación del Programa en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/paep.php>
+Para conocer los requisitos documentales, las obligaciones del alumnado y los montos de apoyo, revisar la convocatoria y las reglas de operación del Programa en <https://www.posgrado.unam.mx/becas-y-apoyos/apoyo-a-los-estudios-de-posgrado/>
 
 Es importante conocer los [requisitos aprobados](/assets/docs/lineamientos_paep_2023.pdf) por el Comité Académico del Posgrado en Ciencias de la Sostenibilidad antes de solicitar un apoyo.
 
 Procedimiento para solicitar un apoyo PAEP:
 
- 1. Un mes antes de que inicie la actividad académica, enviar al correo <sostenibilidad@posgrado.unam.mx>, la [solicitud de actividades académicas nacionales o internacionales](https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/documentos/SOLICITUD%20DE%20ACTIVIDADES%20ACADEMICAS%20NACIONALES%20O%20INTERNACIONALES%20DE%20CORTA%20DURACION.pdf). ES INDISPENSABLE QUE LA SOLICITUD INCLUYA TAMBIÉN LA FIRMA DEL TUTOR(A) PRINCIPAL. Asimismo, enviar el último comprobante de inscripción. 
+ 1. Un mes antes de que inicie la actividad académica, enviar al correo <sostenibilidad@posgrado.unam.mx>, la [solicitud de actividades académicas nacionales o internacionales](https://www.posgrado.unam.mx/wp-content/uploads/2023/02/03_SOLICITUD-DE-ACTIVIDADES-ACADEMICAS-NACIONALES-O-INTERNACIONALES-DE-CORTA-DURACION.pdf). ES INDISPENSABLE QUE LA SOLICITUD INCLUYA TAMBIÉN LA FIRMA DEL TUTOR(A) PRINCIPAL. Asimismo, enviar el último comprobante de inscripción. 
 
  2. Posteriormente la Coordinación enviará la autorización al Departamento de Gestión de Apoyos de la Coordinación General, quien se pondrá en contacto con la(el) solicitante para iniciar el trámite. Los requisitos documentales, señalados en las Reglas de Operación, se deben enviar directamente a dicho Departamento. 
 
