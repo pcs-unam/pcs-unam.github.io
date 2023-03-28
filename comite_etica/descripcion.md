@@ -37,8 +37,7 @@ A través del correo electrónico: <etica_sostenibilidad@posgrado.unam.mx>  o po
  
 Integrantes del Comité de Ética (en orden alfabético):
 
- - Dr. Víctor Luis Barradas Miranda. Investigador de Tiempo Completo,  Instituto de Ecología 
- - Dra. Rocío López de Juambelz. Profesora de Tiempo Completo, Facultad de Arquitectura
+  - Dra. Rocío López de Juambelz. Profesora de Tiempo Completo, Facultad de Arquitectura
  - Dra. Mariana Betzabeth Pelayo Pérez.  Egresada del doctorado del Posgrado  
  - Dra. Rosario Haydee Pérez Espejo, Profesora Jubilada, Instituto de investigaciones Económicas
  - Dr. Jairo Agustín Reyes Plata, Profesor de Tiempo Completo, Escuela Nacional de Estudios Superiores, Unidad León
