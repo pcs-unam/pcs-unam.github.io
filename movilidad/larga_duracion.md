@@ -15,15 +15,15 @@ Es importante conocer los [requisitos aprobados](/assets/docs/lineamientos_progr
 
 Procedimiento para solicitar un apoyo del Programa de Actividades Académicas de Larga Duración:
 
- **1.** Revisar la convocatoria y las reglas de operación del Programa en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.php>
+ **1.** Revisar la convocatoria y las reglas de operación del Programa en <https://www.posgrado.unam.mx/becas-y-apoyos/movilidad-de-larga-duracion/>
 
  **2.** Un mes antes de que inicie la actividad académica, enviar los siguientes documentos al correo  <sostenibilidad@posgrado.unam.mx>:
 
-  - Solicitud de apoyo para Actividades Académicas de Larga Duración disponible en <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.php>
+  - Solicitud de apoyo para Actividades Académicas de Larga Duración disponible en <https://www.posgrado.unam.mx/becas-y-apoyos/movilidad-de-larga-duracion/>
   - Constancia de actividades académicas para beca del sistema de la Subdirección de Asuntos Escolares 
  del Posgrado (SAEP).
   - Inscripción validada 
-  - Carta compromiso firmada, disponible en: <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.php>
+  - Carta compromiso firmada, disponible en: <https://www.posgrado.unam.mx/becas-y-apoyos/movilidad-de-larga-duracion/>
   - Copia de la carta de aceptación emitida por la institución receptora en papel membretado, dirigida al interesado(a) o al programa de posgrado, que incluya:
     - Nombre completo del alumno(a)
     - Nombre completo del tutor(a) de la institución receptora, correo electrónico y firma (en el caso de estancia de investigación y de doble grado).
@@ -34,12 +34,12 @@ actividad académica, misma que deberá incluir: hospitalización, medicamentos 
 tiempo que dure la estancia, en el caso de actividades internacionales.
   - Copia de la carta o del carnet del IMSS o ISSSTE, en el caso de actividades nacionales.
   - Formato del Seguro de Accidentes Personales de Prácticas de Campo Escolares y Deportivas
-Nacional y en Extranjero, disponible en: <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.php>, con firma autógrafa del alumnado, así como el original de la ficha de depósito o transferencia interbancaria del pago.
+Nacional y en Extranjero, disponible en: <https://www.posgrado.unam.mx/becas-y-apoyos/movilidad-de-larga-duracion/>, con firma autógrafa del alumnado, así como el original de la ficha de depósito o transferencia interbancaria del pago.
 Para actividades académicas que se realicen durante la renovación de la póliza deberá elaborar el formato y el pago por 
 separado de acuerdo con la tarifa que le aplique.
   - Certificado o comprobante de vacunación COVID-19.
  
- **3.** Una vez concluida la actividad, enviar a <apoyo_movilidad@posgrado.unam.mx>, con copia a <sostenibilidad@posgrado.unam.mx> la "Carta de Estancia Académica" debidamente llenada, firmada y sellada por la institución receptora, disponible en: <https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/larga_duracion.phpA>
+ **3.** Una vez concluida la actividad, enviar a <apoyo_movilidad@posgrado.unam.mx>, con copia a <sostenibilidad@posgrado.unam.mx> la "Carta de Estancia Académica" debidamente llenada, firmada y sellada por la institución receptora, disponible en: <https://www.posgrado.unam.mx/becas-y-apoyos/movilidad-de-larga-duracion/>
 
 Asimismo, se deberá enviar a <sostenibilidad@posgrado.unam.mx>, un informe académico de una a dos cuartillas, firmado por 
 el(la) alumno(a) y el(la) tutor(a) principal, donde se exponga la relevancia de la actividad para el proyecto. 

@@ -30,8 +30,10 @@ permalink: /doctorado/descargables/
 
 ## Egreso
 
- - [Criterios de evaluación de egreso de Doctorado](/assets/docs/criterios_egreso_doctorado.pdf)
+ - [Guía para estructurar la tesis de Doctorado](/assets/docs/guia_tesis_doctorado.pdf)
  - [Guía para estructurar la tesis de Doctorado organizada en artículos](/assets/docs/guia_tesis_doctorado_organizada_en_articulos.pdf)
+ - [Formato de evaluación para tesis de Doctorado](/assets/docs/formato_evaluacion_tesis.pdf)
+ - [Formato de evaluación para tesis de Doctorado organizada en artículos](/assets/docs/formato_evaluacion_tesis_por_articulos.pdf)
 
 ## Para iniciar trámites de graduación
 
