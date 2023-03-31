@@ -9,6 +9,7 @@ permalink: /doctorado/catalogo_revistas/
  - Action Research
  - AMBIO
  - Appetite
+ - Arbor
  - Architecture, City and Environment
  - Austrian Journal of Development Studies
  - Biological Invasions
@@ -16,9 +17,11 @@ permalink: /doctorado/catalogo_revistas/
  - Case Studies in the Environment 
  - Cities
  - CLEPSYDRA Revista Internacional de Estudios de Género y Teoría Feminista
+ - Comunicación y sociedad
  - Conservation and Society
  - Conservation Biology
  - Contaminación Ambiental
+ - Cultures of Science
  - Ecological Modelling  
  - Ecology and Society
  - Energy for Sustainable Development
@@ -38,6 +41,8 @@ permalink: /doctorado/catalogo_revistas/
  - EURE. Revista Latinoamericana de Estudios Urbanos Regionales
  - Food Policy
  - Frontiers in Climate 
+ - Frontiers in Sustainability
+ - Frontiers in sustainable food systems
  - Gestión y política pública
  - Global Environmental Change
  - Groundwater for Sustainainable Development
@@ -54,6 +59,7 @@ permalink: /doctorado/catalogo_revistas/
  - Journal of Environmental Management
  - Journal of Ethnic Foods
  - Journal of Industrial Ecology
+ - Journal of Multicultural Discourses
  - Journal of Peasant Studies
  - Journal of Rural Studies
  - Landscape and urban planning
@@ -73,6 +79,7 @@ permalink: /doctorado/catalogo_revistas/
  - Revista Iberoamericana de Diagnóstico y Evaluación
  - Revista Internacional de Contaminación Ambiental
  - Revista INVI
+ - Revista Latinoamericana de Comunicación Chasqui
  - Science of The Total Environment
  - Sustainability  
  - Sustainability Sciences
