@@ -15,6 +15,7 @@ permalink: /doctorado/catalogo_revistas/
  - Biological Invasions
  - Boletín de la Sociedad Geológica Mexicana
  - Case Studies in the Environment 
+ - Chasqui. Revista Latinoamericana de Comunicación 
  - Cities
  - CLEPSYDRA Revista Internacional de Estudios de Género y Teoría Feminista
  - Comunicación y sociedad
@@ -79,7 +80,6 @@ permalink: /doctorado/catalogo_revistas/
  - Revista Iberoamericana de Diagnóstico y Evaluación
  - Revista Internacional de Contaminación Ambiental
  - Revista INVI
- - Revista Latinoamericana de Comunicación Chasqui
  - Science of The Total Environment
  - Sustainability  
  - Sustainability Sciences
