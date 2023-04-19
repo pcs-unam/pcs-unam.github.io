@@ -36,6 +36,8 @@ Fontalvo-Buelvas, J. C., Eugenio-Gozalbo, M., de la Cruz-Elizondo, Y., & Escalon
 García-Sánchez, M., & Güereca, L. P. (2019). Environmental and social life cycle assessment of urban water systems: The case of Mexico City. Science of The Total Environment, 693, 133464.
 <https://doi.org/10.1016/j.scitotenv.2019.07.270>
 
+Gómez-Priego, P., & Bojórquez-Tapia, L. A. (2023). Analytic deliberation approach for collaborative determination of impact significance of projects in dispute, a case study in Mexico. Environmental Impact Assessment Review, 100, 107091. <https://doi.org/10.1016/j.eiar.2023.107091>
+
 González-Padrón, S. K., Lerner, A. M., & Mazari-Hiriart, M. (2019). Improving Water Access and Health through Rainwater Harvesting: Perceptions of an Indigenous Community in Jalisco, Mexico. Sustainability, 11(18), 4884. <https://doi.org/10.3390/su11184884>
 
 González-Quintero, C., & Avila-Foucat, V. S. (2019). Operationalization and Measurement of Social-Ecological Resilience: A Systematic Review. Sustainability, 11(21), 6073. <https://doi.org/10.3390/su11216073>

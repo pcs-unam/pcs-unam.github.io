@@ -29,8 +29,7 @@ permalink: /maestria/descargables/
 
 ## Para solicitar autorización de examen de grado
 
- - [Requisitos para solicitar autorización de examen](/assets/docs/graduacion/doc_solicitar_autorizacion_examen.pdf)
- - [Requisitos para solicitar autorización de examen durante la contingencia](/assets/docs/graduacion/doc_solicitar_autorizacion_examen_contingencia.pdf)
+ - [Requisitos para solicitar revisión de estudios y autorización de examen](/assets/docs/graduacion/requisitos_autorizacion_y_revision_de_estudios_mae.pdf)
  - [Propuesta formato voto aprobatorio Tesis](/assets/docs/graduacion/fvam-tesis.docx)
  - [Propuesta formato voto aprobatorio Artículo](/assets/docs/graduacion/fvam-articulo.docx)
  - [Propuesta formato voto aprobatorio Reporte Técnico](/assets/docs/graduacion/fvam-reporte-tecnico.docx)
