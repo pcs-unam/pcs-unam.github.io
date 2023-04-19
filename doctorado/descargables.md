@@ -43,7 +43,7 @@ permalink: /doctorado/descargables/
 
 ## Para solicitar autorización de examen de grado
 
- - [Requisitos para solicitar revisión de estudios y autorización de examen](/assets/docs/graduacion_doctorado/doc_solicitar_autorizacion_examen.pdf)
+ - [Requisitos para solicitar revisión de estudios y autorización de examen](/assets/docs/graduacion_doctorado/requisitos_autorizacion_y_revision_de_estudios_doc.pdf)
  - [Formato voto aprobatorio](/assets/docs/graduacion_doctorado/fvad.docx)
  - [Plantilla de portada de tesis](/assets/docs/graduacion_doctorado/portada-tesis-doc-pcs.docx)
  - [Agradecimiento al posgrado en articulos y tesis](/assets/docs/graduacion_doctorado/agradecimiento_al_posgrado_en_articulos_y_tesis.pdf)
