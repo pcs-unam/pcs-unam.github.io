@@ -51,7 +51,6 @@ Entregar la tesis a cada uno de los miembros del jurado asignado por el Comité 
 <tr>
 <td></td>
 <td>
-La Coordinación solicita la revisión de estudios al área de Revisión de Estudios de Posgrado (REP), y cuando está lista la entrega al alumno.
 </td>
 </tr>
 <tr>
@@ -62,7 +61,7 @@ Reunir los documentos solicitados por REP para realizar el trámite de autorizac
 </tr>
 <tr>
 <td>
-Solicitar a REP la autorización de examen de grado.
+Solicitar a REP la revisión de estudios y la autorización de examen de grado.
 </td>
 <td></td>
 </tr>
