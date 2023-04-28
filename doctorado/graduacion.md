@@ -49,11 +49,6 @@ Entregar la tesis a cada uno de los miembros del jurado asignado por el Comité 
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>
-</td>
-</tr>
-<tr>
 <td>
 Reunir los documentos solicitados por REP para realizar el trámite de autorización de examen de grado. Esto incluye la evidencia de ACEPTACIÓN del artículo de requisito.
 </td>
