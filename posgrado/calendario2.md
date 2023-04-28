@@ -40,7 +40,7 @@ Para conocer las fechas de entrega del informe de becarios CONACyT, consultar la
 - **18 de abril** Sesión de Comité Académico
 
 ### Mayo
-- **9 de mayo** Sesión de Comité Académico
+- **16 de mayo** Sesión de Comité Académico
 - **26 de mayo** Fin del semestre 2023-2
 - **26 de mayo** Fecha límite para enviar a la Coordinación, vía Google Classroom, la solicitud para el registro en el semestre 2024-1 de la actividad [seminario de tesis](/maestria/seminario_tesis). Sólo aplica para el alumnado de Maestría que se inscribirá a tercer o cuarto semestre.
 - **Del 29 de mayo al 9 de junio** Evaluaciones

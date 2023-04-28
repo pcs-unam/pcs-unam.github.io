@@ -77,9 +77,6 @@ voto.
 </td>
 <td>
 <h1>5</h1>
-La Coordinación solicita la revisión de estudios al área de Revisión
-de Estudios de Posgrado (REP), y cuando está lista la entrega al
-alumno.
 </td>
 </tr>
 <tr>
@@ -95,7 +92,7 @@ autorización de examen de grado.
 <tr>
 <td>
 <h1>7</h1>
-Solicitar a REP la autorización de examen de grado.
+Solicitar a REP la revisión de estudios y autorización de examen de grado.
 </td>
 <td>
 &nbsp;

@@ -9,7 +9,7 @@ permalink: /comite/calendario/
 | 14 de febrero |
 | 14 de marzo | 
 | 18 de abril | 
-| 9 de mayo |
+| 16 de mayo |
 | 13 de junio |
 
 | 8 de agosto |
