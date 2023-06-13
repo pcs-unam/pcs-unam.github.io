@@ -24,9 +24,9 @@ un incentivo económico.
 Consultar más acerca del [estímulo a la graduación oportuna](https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/estimulo_GO.php).
 
 
-# Becas CONACyT
+# Becas CONAHCyT
 
-Si eres estudiante del Posgrado y tienes promedio igual o mayor a 8 en tu grado inmediato anterior, puedes postular para una beca del Consejo Nacional de Ciencia y Tecnología (CONACYT).
+Si eres estudiante del Posgrado y tienes promedio igual o mayor a 8 en tu grado inmediato anterior, puedes postular para una beca del Consejo Nacional de Humanidades, Ciencias y Tecnologías (CONAHCYT).
 
-Consultar el [Módulo de Becas](https://www.posgrado.unam.mx/becas-y-apoyos/becas-conacyt/) de la Coordinación
+Consultar el [Módulo de Becas](https://www.posgrado.unam.mx/becas-y-apoyos/becas-conahcyt/) de la Coordinación
 General de Estudios de Posgrado.

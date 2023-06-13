@@ -6,6 +6,9 @@ pleca: /assets/plecas/p20.jpg
 menu: true
 ---
 
+## Resultados de la revisión de expedientes administrativos y académicos correspondientes a la convocatoria 2024-1. 
+[Consultar folios de las personas aspirantes que pasan a la etapa de entrevista, así como las indicaciones a seguir](/assets/docs/folios_para_entrevistas_2024-1.pdf) 
+
 
 ## Próxima convocatoria de ingreso 
 

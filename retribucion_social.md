@@ -1,5 +1,5 @@
 ---
-title: Requisitos de retribución social para CONACYT
+title: Requisitos de retribución social para CONAHCYT
 layout: page
 pleca: /assets/plecas/p13.jpg
 permalink: /retribucion_social/
