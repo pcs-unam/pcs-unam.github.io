@@ -17,7 +17,7 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 
 ### Agosto
 - **1 al 4 de agosto** Inscripciones y reinscripciones al semestre 2024-1 en <https://www.saep.unam.mx>
-- **4 de agosto ** Fecha límite para presentar exámenes de candidatura. Aplica para alumnos de Doctorado que se inscriben a quinto semestre. 
+- **4 de agosto** Fecha límite para presentar exámenes de candidatura. Aplica para alumnos de Doctorado que se inscriben a quinto semestre. 
 - **7 de agosto** Inicio del semestre 2024-1
 - **8 de agosto** Sesión de Comité Académico
 - **Del 1 al 9 de agosto** Validación de reinscripciones.  La hoja de inscripción que se descarga del sistema de SAEP deberá enviarse a la Coordinación vía Google Classroom.
