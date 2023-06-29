@@ -17,14 +17,17 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 
 ### Agosto
 - **1 al 4 de agosto** Inscripciones y reinscripciones al semestre 2024-1 en <https://www.saep.unam.mx>
+- **Del 1 al 4 de agosto** La hoja de inscripción que se descarga del sistema de SAEP deberá enviarse a la Coordinación vía Google Classroom para la validación.
 - **4 de agosto** Fecha límite para presentar exámenes de candidatura. Aplica para alumnos de Doctorado que se inscriben a quinto semestre. 
 - **7 de agosto** Inicio del semestre 2024-1
 - **8 de agosto** Sesión de Comité Académico
-- **Del 1 al 9 de agosto** Validación de reinscripciones.  La hoja de inscripción que se descarga del sistema de SAEP deberá enviarse a la Coordinación vía Google Classroom.
-- ** Del 7 al 11 de agosto** Envío del formato de registro de la [actividad académica complementaria](/doctorado/actividades). Aplica para el alumnado de Doctorado de segundo semestre en adelante y para el alumnado de Doctorado de primer ingreso que egresó de la Maestría de este Posgrado. Se envía a la Coordinación vía Google Classroom. 
+- **Del 7 al 9 de agosto** Envío del formato de registro de la [actividad académica complementaria](/doctorado/actividades). Aplica para el alumnado de Doctorado de segundo semestre en adelante y para el alumnado de Doctorado de primer ingreso que egresó de la Maestría de este Posgrado. Se envía a la Coordinación vía Google Classroom. 
 - **Del 7 al 31 de agosto** Resello de credenciales
 - **Del 7 de agosto al 24 de noviembre** Reposición de credenciales
-- **Del 14 al 18 de agosto** Enviar a la Coordinación, vía Googleclassroom, el **1) informe del becario de CONACyT correspondiente al semestre 2023-2 y 2) la última historia académica** para revisión y firma del Coordinador. El formato CONACYT debe estar previamente llenado y firmado por el(la) tutor(a) principal. **(Importante: el nombre de ambos archivos debe incluir su nombre y apellidos)**. Una vez firmado por el Coordinador, se regresará a las personas becarias por correo-e (a más tardar a principios de septiembre) para que cada estudiante lo envíe al correo correspondiente (Maestría o Doctorado) del módulo de becas. El módulo de becas subirá directamente a la plataforma de CONACYT todos los formatos. Consultar la guía para becarios en la siguiente dirección: https://www.posgrado.unam.mx/alumnos/becas/becas_conacyt.php
+- **Del 15 al 30 de agosto** Enviar directamente al módulo de becas, vía correo electrónico, la hoja de inscripción validada y constancia de beca que se descargan del sistema de SAEP. **(Importante: el nombre de ambos archivos debe incluir su nombre y apellidos)**. 
+**Nota** De acuerdo con las nuevas disposiciones de CONAHCYT, ya no es necesario enviar formato de desempeño del becario.
+Para mayor información consultar la guía para becarios en la siguiente dirección: <https://www.posgrado.unam.mx/becas-y-apoyos/becas-conahcyt/>
+
 
 ### Septiembre
 
