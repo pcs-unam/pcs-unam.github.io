@@ -16,14 +16,14 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 - **31 de julio** Reunión de bienvenida para alumnos de primer ingreso. Se enviará la liga de la sesión por correo electrónico.
 
 ### Agosto
-- **1 al 4 de agosto** Inscripciones y reinscripciones al semestre 2024-1 en <https://www.saep.unam.mx>
-- **Del 1 al 4 de agosto** La hoja de inscripción que se descarga del sistema de SAEP deberá enviarse a la Coordinación vía Google Classroom para la validación.
+- **Del 1 al 4 de agosto** Inscripciones y reinscripciones al semestre 2024-1 en <https://www.saep.unam.mx>
+- **Del 1 al 4 de agosto** La hoja de inscripción que se descarga del sistema de SAEP deberá enviarse a la Coordinación vía Google Classroom para validación.
+- **Del 1 al 9 de agosto** Envío del formato de registro de la [actividad académica complementaria](/doctorado/actividades). Aplica para el alumnado de Doctorado de segundo semestre en adelante y para el alumnado de Doctorado de primer ingreso que egresó de la Maestría de este Posgrado. Se envía a la Coordinación vía Google Classroom. 
 - **4 de agosto** Fecha límite para presentar exámenes de candidatura. Aplica para alumnos de Doctorado que se inscriben a quinto semestre. 
 - **7 de agosto** Inicio del semestre 2024-1
-- **8 de agosto** Sesión de Comité Académico
-- **Del 7 al 9 de agosto** Envío del formato de registro de la [actividad académica complementaria](/doctorado/actividades). Aplica para el alumnado de Doctorado de segundo semestre en adelante y para el alumnado de Doctorado de primer ingreso que egresó de la Maestría de este Posgrado. Se envía a la Coordinación vía Google Classroom. 
 - **Del 7 al 31 de agosto** Resello de credenciales
 - **Del 7 de agosto al 24 de noviembre** Reposición de credenciales
+- **8 de agosto** Sesión de Comité Académico
 - **Del 15 al 30 de agosto** Enviar directamente al módulo de becas, vía correo electrónico, la hoja de inscripción validada y constancia de beca que se descargan del sistema de SAEP. **(Importante: el nombre de ambos archivos debe incluir su nombre y apellidos)**. 
 **Nota** De acuerdo con las nuevas disposiciones de CONAHCYT, ya no es necesario enviar formato de desempeño del becario.
 Para mayor información consultar la guía para becarios en la siguiente dirección: <https://www.posgrado.unam.mx/becas-y-apoyos/becas-conahcyt/>
