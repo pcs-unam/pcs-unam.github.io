@@ -21,7 +21,7 @@ de los Programas de Posgrado estimulando la obtención del grado de
 manera oportuna de los egresados de Maestría y Doctorado a través de
 un incentivo económico.
 
-Consultar más acerca del [estímulo a la graduación oportuna](https://www.posgrado.unam.mx/alumnos/apoyo_alumnos/estimulo_GO.php).
+Consultar más acerca del [estímulo a la graduación oportuna](https://www.posgrado.unam.mx/becas-y-apoyos/estimulo-para-la-graduacion-oportuna/).
 
 
 # Becas CONAHCyT
