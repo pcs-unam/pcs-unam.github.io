@@ -12,7 +12,7 @@ menu: true
 
 # Programa de Actividades Académicas de Larga Duración
 
-[Convocatoria abierta](/movilidad/larga-duracion/)
+Convocatoria cerrada
 
 # Estímulo a la graduación oportuna
 
