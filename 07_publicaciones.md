@@ -73,6 +73,9 @@ Pelayo Pérez, M.B., & Rasch, E. (2020). Resistance to hydropower developments i
 
 Pérez-Serrano, D., Cabirol, N., Martínez-Cervantes, C., & Rojas-Oropeza, M. (2021). Mesquite management in the Mezquital Valley: A sustainability assessment based on the view point of the Hñähñú indigenous community. Environmental and Sustainability Indicators, 10, 100113. <https://doi.org/10.1016/j.indic.2021.100113>
 
+Ramos-Rendón, A. K., Gual-Sill, F., Cervantes, F. A., González-Salazar, C., García-Morales, R., & Martínez-Meyer, E. (2023). Assessing the impact of free-ranging cats (Felis silvestris catus) and dogs (Canis lupus familiaris) on wildlife in a natural urban reserve in Mexico City. Urban Ecosystems, 1-14. 
+< https://doi.org/10.1007/s11252-023-01388-y>
+
 Reyes-González, A., Camou-Guerrero, A., Del-Val, E., Ramírez, M. I., & Porter-Bolland, L. (2020). Biocultural Diversity Loss: the Decline of Native Stingless Bees (Apidae: Meliponini) and Local Ecological Knowledge in Michoacán, Western México. Human Ecology, 1-12. 
 <https://doi.org/10.1007/s10745-020-00167-z>
 

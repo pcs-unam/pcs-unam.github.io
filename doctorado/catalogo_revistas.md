@@ -81,7 +81,8 @@ permalink: /doctorado/catalogo_revistas/
  - Revista Internacional de Contaminación Ambiental
  - Revista INVI
  - Science of The Total Environment
- - Sustainability  
+ - Sustainability
+ - Sustainability in Debate
  - Sustainability Sciences
  - Sustainability: Science, Practice and Policy
  - Sustainable Cities and Society

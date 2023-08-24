@@ -6,18 +6,6 @@ pleca: /assets/plecas/p20.jpg
 menu: true
 ---
 
-## Resultados del proceso de admisión al Posgrado (ingreso 2024-1)
-
- - [Lista de aspirantes aceptados al Programa de Maestría en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_maestria_2024_1.pdf)
-
- - [Lista de aspirantes aceptados al Programa de Doctorado en Ciencias de la Sostenibilidad](/assets/docs/lista_aspirantes_aceptados_doctorado_2024_1.pdf)
-
-
-[Instrucciones para la entrega documental e inscripción de aspirantes aceptados de Maestría](/assets/docs/instrucciones_entregadocumental_inscripcion_aspirantes_aceptados_mae.pdf)
-
-[Instrucciones para la entrega documental e inscripción de aspirantes aceptados de Doctorado](/assets/docs/instrucciones_entregadocumental_inscripcion_aspirantes_aceptados_doc.pdf)
-
-
 
 ## Próxima convocatoria de ingreso 
 
