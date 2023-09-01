@@ -27,6 +27,7 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 - **Del 15 al 30 de agosto** Enviar directamente al módulo de becas, vía correo electrónico, la hoja de inscripción validada y constancia de beca que se descargan del sistema de SAEP. **(Importante: el nombre de ambos archivos debe incluir su nombre y apellidos)**. 
 **Nota** De acuerdo con las nuevas disposiciones de CONAHCYT, ya no es necesario enviar formato de desempeño del becario.
 Para mayor información consultar la guía para becarios en la siguiente dirección: <https://www.posgrado.unam.mx/becas-y-apoyos/becas-conahcyt/>
+
 **Nota** Los detalles para hacer el trámite de solicitud de beca nueva del estudiantado de primer ingreso se especificará a tarvés de Google Classroom.  
 
 ### Septiembre
