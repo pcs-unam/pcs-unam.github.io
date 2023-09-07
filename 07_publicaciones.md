@@ -19,6 +19,8 @@ Aranda-Fragoso, A., Castillo, A., Cárdenas-Tapia, M., Moreno-Casasola, P., & Ma
 
 Ayala-Azcárraga, C., Diaz, D., & Zambrano, L. (2019). Characteristics of urban parks and their relation to user well-being. Landscape and Urban Planning, 189, 27-35. <https://doi.org/10.1016/j.landurbplan.2019.04.005>
 
+Buratti, S., & Merino-Pérez, L. (2023). Linear Parks as Urban Commons—Considerations from Mexico City. Sustainability, 15(12), 9542. <https://doi.org/10.3390/su15129542>
+
 Calderon Villegas, C. E., Salas Espíndola, H., & Ávila García, P. (2022). Evaluación de los instrumentos de regulación de la vivienda de interés social en México con enfoque de calidad ambiental. Caso de estudio: Durango. ACE: Arquitectura, Ciudad y Entorno, 17(49). <http://dx.doi.org/10.5821/ace.17.49.10567>
 
 Calderón Villegas, C. E., Salas Espíndola, H., & Ávila García, P. (2020). La insostenibilidad de los desarrollos de vivienda de interés social en México: una aproximación desde el pensamiento de diseño. Caso de estudio: Tlajomulco de Zúñiga, Jalisco. ACE: Architecture, City and Environment, 14(42), 8256. <http://dx.doi.org/10.5821/ace.14.42.8256>
@@ -33,6 +35,8 @@ de la Vega-Rivera, A., y Merino-Pérez, L. (2021). Socio-Environmental Impacts o
 
 Fontalvo-Buelvas, J. C., Eugenio-Gozalbo, M., de la Cruz-Elizondo, Y., & Escalona-Aguilar, M. Á. (2023). Evaluating University Gardens as Innovative Practice in Education for Sustainability: A Latin-American Case Study. Sustainability, 15(5), 3975. <https://doi.org/10.3390/su15053975>
 
+Galicia Ramos, B. M., & Vega Navarro, Á. D. L. (2023). La participación de las empresas locales en la industria eólica de Oaxaca, México. Región y sociedad, 35. <https://doi.org/10.22198/rys2023/35/1716>
+
 García-Sánchez, M., & Güereca, L. P. (2019). Environmental and social life cycle assessment of urban water systems: The case of Mexico City. Science of The Total Environment, 693, 133464.
 <https://doi.org/10.1016/j.scitotenv.2019.07.270>
 
@@ -42,11 +46,15 @@ González-Padrón, S. K., Lerner, A. M., & Mazari-Hiriart, M. (2019). Improving 
 
 González-Quintero, C., & Avila-Foucat, V. S. (2019). Operationalization and Measurement of Social-Ecological Resilience: A Systematic Review. Sustainability, 11(21), 6073. <https://doi.org/10.3390/su11216073>
 
+González-Rivadeneira, T. I., Casas, A., & Argueta-Villamar, A. (2022). Food sovereignty of the P’urhépecha of Michoacán, Mexico: historical review and critical perspectives from nature-culture relationships. Journal of Ethnic Foods, 9(1), 36. <https://doi.org/10.1186/s42779-022-00149-0>
+
 Haro, A., Mendoza-Ponce, A., Calderón, O., Velasco, J. A., & Estrada, F. (2021). Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 3, 54. <https://doi.org/10.3389/fclim.2021.674693>
 
 Hernández Aguilar, B., Lerner, A. M., Manuel-Navarrete, D., & Siqueiros-García, J. M. (2021). Persisting narratives undermine potential water scarcity solutions for informal areas of Mexico City: the case of two settlements in Xochimilco. Water International, 1-19. <https://doi.org/10.1080/02508060.2021.1923179>
 
 Islas Vargas, M. (2020). Adaptación al cambio climático: definición, sujetos y disputas. Letras Verdes, Revista Latinoamericana de Estudios Socioambientales, 28, 9-30. <https://doi.org/10.17141/letrasverdes.28.2020.4333>
+
+Jacintos Nieves, A., & Delgado Ramos, G. C. (2023). Advancing the Application of a Multidimensional Sustainable Urban Waste Management Model in a Circular Economy in Mexico City. Sustainability, 15(17), 12678. <https://doi.org/10.3390/su151712678>
 
 Jiménez, M., Pérez-Belmont, P., Schewenius, M., Lerner, A. M., & Mazari-Hiriart, M. (2020). Assessing the historical adaptive cycles of an urban social-ecological system and its potential future resilience: the case of Xochimilco, Mexico City. Regional Environmental Change, 20(1), 7. <https://doi.org/10.1007/s10113-020-01587-9>
 
