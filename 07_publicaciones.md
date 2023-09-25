@@ -19,6 +19,8 @@ Aranda-Fragoso, A., Castillo, A., Cárdenas-Tapia, M., Moreno-Casasola, P., & Ma
 
 Ayala-Azcárraga, C., Diaz, D., & Zambrano, L. (2019). Characteristics of urban parks and their relation to user well-being. Landscape and Urban Planning, 189, 27-35. <https://doi.org/10.1016/j.landurbplan.2019.04.005>
 
+Buratti, S., & Merino-Pérez, L. (2023). Linear Parks as Urban Commons—Considerations from Mexico City. Sustainability, 15(12), 9542. <https://doi.org/10.3390/su15129542>
+
 Calderon Villegas, C. E., Salas Espíndola, H., & Ávila García, P. (2022). Evaluación de los instrumentos de regulación de la vivienda de interés social en México con enfoque de calidad ambiental. Caso de estudio: Durango. ACE: Arquitectura, Ciudad y Entorno, 17(49). <http://dx.doi.org/10.5821/ace.17.49.10567>
 
 Calderón Villegas, C. E., Salas Espíndola, H., & Ávila García, P. (2020). La insostenibilidad de los desarrollos de vivienda de interés social en México: una aproximación desde el pensamiento de diseño. Caso de estudio: Tlajomulco de Zúñiga, Jalisco. ACE: Architecture, City and Environment, 14(42), 8256. <http://dx.doi.org/10.5821/ace.14.42.8256>
@@ -33,6 +35,8 @@ de la Vega-Rivera, A., y Merino-Pérez, L. (2021). Socio-Environmental Impacts o
 
 Fontalvo-Buelvas, J. C., Eugenio-Gozalbo, M., de la Cruz-Elizondo, Y., & Escalona-Aguilar, M. Á. (2023). Evaluating University Gardens as Innovative Practice in Education for Sustainability: A Latin-American Case Study. Sustainability, 15(5), 3975. <https://doi.org/10.3390/su15053975>
 
+Galicia Ramos, B. M., & Vega Navarro, Á. D. L. (2023). La participación de las empresas locales en la industria eólica de Oaxaca, México. Región y sociedad, 35. <https://doi.org/10.22198/rys2023/35/1716>
+
 García-Sánchez, M., & Güereca, L. P. (2019). Environmental and social life cycle assessment of urban water systems: The case of Mexico City. Science of The Total Environment, 693, 133464.
 <https://doi.org/10.1016/j.scitotenv.2019.07.270>
 
@@ -42,11 +46,17 @@ González-Padrón, S. K., Lerner, A. M., & Mazari-Hiriart, M. (2019). Improving 
 
 González-Quintero, C., & Avila-Foucat, V. S. (2019). Operationalization and Measurement of Social-Ecological Resilience: A Systematic Review. Sustainability, 11(21), 6073. <https://doi.org/10.3390/su11216073>
 
+González-Rivadeneira, T. I., Casas, A., & Argueta-Villamar, A. (2022). Food sovereignty of the P’urhépecha of Michoacán, Mexico: historical review and critical perspectives from nature-culture relationships. Journal of Ethnic Foods, 9(1), 36. <https://doi.org/10.1186/s42779-022-00149-0>
+
+González-Saucedo, Z. Y., González-Bernal, A., & Martínez-Meyer, E. (2021). Identifying priority areas for landscape connectivity for three large carnivores in northwestern Mexico and southwestern United States. Landscape Ecology, 36, 877-896. <https://doi.org/10.1007/s10980-020-01185-4>
+
 Haro, A., Mendoza-Ponce, A., Calderón, O., Velasco, J. A., & Estrada, F. (2021). Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 3, 54. <https://doi.org/10.3389/fclim.2021.674693>
 
 Hernández Aguilar, B., Lerner, A. M., Manuel-Navarrete, D., & Siqueiros-García, J. M. (2021). Persisting narratives undermine potential water scarcity solutions for informal areas of Mexico City: the case of two settlements in Xochimilco. Water International, 1-19. <https://doi.org/10.1080/02508060.2021.1923179>
 
 Islas Vargas, M. (2020). Adaptación al cambio climático: definición, sujetos y disputas. Letras Verdes, Revista Latinoamericana de Estudios Socioambientales, 28, 9-30. <https://doi.org/10.17141/letrasverdes.28.2020.4333>
+
+Jacintos Nieves, A., & Delgado Ramos, G. C. (2023). Advancing the Application of a Multidimensional Sustainable Urban Waste Management Model in a Circular Economy in Mexico City. Sustainability, 15(17), 12678. <https://doi.org/10.3390/su151712678>
 
 Jiménez, M., Pérez-Belmont, P., Schewenius, M., Lerner, A. M., & Mazari-Hiriart, M. (2020). Assessing the historical adaptive cycles of an urban social-ecological system and its potential future resilience: the case of Xochimilco, Mexico City. Regional Environmental Change, 20(1), 7. <https://doi.org/10.1007/s10113-020-01587-9>
 
@@ -54,7 +64,7 @@ Jiménez-Ortega, A. D., Aguilar Ibarra, A., Galeana-Pizaña, J. M., & Núñez, J
 
 Llamas-Guzmán, L. P., Lazos Chavero, E., Perales Rivera, H. R., & Casas, A. (2022). Seed Exchange Networks of Native Maize, Beans, and Squash in San Juan Ixtenco and San Luis Huamantla, Tlaxcala, Mexico. Sustainability, 14(7), 3779. <https://www.mdpi.com/2071-1050/14/7/3779/htm>
 
-Mac Gregor-Gaona, M. F., Anglés-Hernández, M., Guibrunet, L., & González, L. Z. (2021). Assessing climate change risk: An index proposal for Mexico city. International Journal of Disaster Risk Reduction, 102549. < https://doi.org/10.1016/j.ijdrr.2021.102549>
+Mac Gregor-Gaona, M. F., Anglés-Hernández, M., Guibrunet, L., & González, L. Z. (2021). Assessing climate change risk: An index proposal for Mexico city. International Journal of Disaster Risk Reduction, 102549. <https://doi.org/10.1016/j.ijdrr.2021.102549>
 
 Merino-Benítez, T., V. Hernández, I. Grave, L.A. Bojórquez-Tapia (2022). Finding optimal infrastructure investment locations with GIS-MCDA. International Symposium of the Analytic Hierarchy Process 2022, Web Conference. DEC. 15 – DEC. 18, 2022. <https://doi.org/10.13033/isahp.y2022.042> 
 
@@ -67,14 +77,14 @@ Oliva, M., García-Frapolli, E., Porter-Bolland, L., & Montiel, S. (2019). Early
 
 Páez, D. P., Bojórquez-Tapia, L. A., Ramos, G. C. D., & Chavero, E. L. (2020). Understanding translation: Co-production of knowledge in marine spatial planning. Ocean & Coastal Management, 190, 105163. <https://doi.org/10.1016/j.ocecoaman.2020.105163>
 
-Pelayo Pérez, M. B., y Gasca Zamora, J. (2019). Reconfiguración de un territorio hidrosocial tras la construcción de la presa El Cajón, en Nayarit. región y sociedad, 31, e1201. <doi: 10.22198/rys2019/31/1201>
+Pelayo Pérez, M. B., y Gasca Zamora, J. (2019). Reconfiguración de un territorio hidrosocial tras la construcción de la presa El Cajón, en Nayarit. región y sociedad, 31, e1201. <doi:10.22198/rys2019/31/1201>
 
 Pelayo Pérez, M.B., & Rasch, E. (2020). Resistance to hydropower developments in contexts of violence and organised crime in Mexico. European Review of Latin American and Caribbean Studies 110: 123-143. <http://doi.org/10.32992/erlacs.10624>
 
 Pérez-Serrano, D., Cabirol, N., Martínez-Cervantes, C., & Rojas-Oropeza, M. (2021). Mesquite management in the Mezquital Valley: A sustainability assessment based on the view point of the Hñähñú indigenous community. Environmental and Sustainability Indicators, 10, 100113. <https://doi.org/10.1016/j.indic.2021.100113>
 
 Ramos-Rendón, A. K., Gual-Sill, F., Cervantes, F. A., González-Salazar, C., García-Morales, R., & Martínez-Meyer, E. (2023). Assessing the impact of free-ranging cats (Felis silvestris catus) and dogs (Canis lupus familiaris) on wildlife in a natural urban reserve in Mexico City. Urban Ecosystems, 1-14. 
-< https://doi.org/10.1007/s11252-023-01388-y>
+<https://doi.org/10.1007/s11252-023-01388-y>
 
 Reyes-González, A., Camou-Guerrero, A., Del-Val, E., Ramírez, M. I., & Porter-Bolland, L. (2020). Biocultural Diversity Loss: the Decline of Native Stingless Bees (Apidae: Meliponini) and Local Ecological Knowledge in Michoacán, Western México. Human Ecology, 1-12. 
 <https://doi.org/10.1007/s10745-020-00167-z>

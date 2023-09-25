@@ -28,6 +28,7 @@ Para que un cambio aprobado por el Comité Académico se vea reflejado en el sis
 **Nota** De acuerdo con las nuevas disposiciones de CONAHCYT, ya no es necesario enviar formato de desempeño del becario.
 Para mayor información consultar la guía para becarios en la siguiente dirección: <https://www.posgrado.unam.mx/becas-y-apoyos/becas-conahcyt/>
 
+**Nota** Los detalles para hacer el trámite de solicitud de beca nueva del estudiantado de primer ingreso se especificará a tarvés de Google Classroom.  
 
 ### Septiembre
 
