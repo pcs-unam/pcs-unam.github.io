@@ -32,7 +32,6 @@ Solicitar al Comité Académico el inicio del proceso de graduación. Para ello 
 <li>Formato de registro del título de proyecto.</li>
 <li>Historia académica.</li>
 <li>DOI del artículo de requisito cuando ya esté publicado. Si sólo está aceptado, enviar carta o correo del editor, captura de pantalla de la situación del artículo, además del manuscrito sometido.</li>
-</ul>En caso de no contar con la aceptación del artículo de requisito, provisionalmente se puede presentar la evidencia del envío (con la intención de avanzar con los trámites de graduación), además del manuscrito sometido. (Esto no aplica si la tesis está organizada en artículos)
 </td>
 <td></td>
 </tr>
